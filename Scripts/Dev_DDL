@@ -1,0 +1,147 @@
+/*
+===============================================================================
+DDL Script: Create Dev Tables
+===============================================================================
+Script Purpose: This script creates tables in the 'DEV' schema
+===============================================================================
+*/
+IF OBJECT_ID('dev.Patient', 'U') IS NOT NULL
+    DROP TABLE dev.Patient;
+GO
+CREATE TABLE dev.Patient(
+Patient_ID NVARCHAR(50),
+First_Name NVARCHAR(50),
+Last_Name NVARCHAR(50),
+Gender NVARCHAR(50),
+Birth_Date DATE,
+Height INT,
+Weight INT,
+Marital_Status NVARCHAR(50),
+Nationality NVARCHAR(50),
+Blood_Type NVARCHAR(50)
+)
+GO
+
+IF OBJECT_ID('dev.Doctor', 'U') IS NOT NULL
+    DROP TABLE dev.Doctor;
+GO
+CREATE TABLE dev.Doctor(
+Doctor_ID INT,
+Doctor_Name NVARCHAR(50),
+Doctor_Surname NVARCHAR(50),
+Doctor_Title NVARCHAR(50),
+Doctor_Nationality NVARCHAR(50),
+Medical_Unit NVARCHAR(50),
+Max_Patient_Count INT
+)
+GO
+
+IF OBJECT_ID('dev.Disease', 'U') IS NOT NULL
+    DROP TABLE dev.Disease;
+GO
+CREATE TABLE dev.Disease(
+Disease_ID INT,
+Admission_Diagnosis NVARCHAR(50),
+Disease_Type NVARCHAR(50),
+Disease_Severity NVARCHAR(50),
+Medical_Unit NVARCHAR(50)
+)
+GO
+
+IF OBJECT_ID('dev.Date', 'U') IS NOT NULL
+    DROP TABLE dev.Date;
+GO
+CREATE TABLE dev.Date(
+Date DATE,
+DateKey INT,
+Year INT,
+Month INT,
+Day INT,
+Quarter INT,
+Weekday INT,
+Date_String NVARCHAR(50)
+)
+GO
+
+IF OBJECT_ID('dev.Insurance', 'U') IS NOT NULL
+    DROP TABLE dev.Insurance
+GO
+
+CREATE TABLE dev.Insurance(
+InsuranceKey INT,
+Insurance_Plan_Name NVARCHAR(50),
+Coverage_Limit FLOAT,
+Deductible INT,
+Excluded_Treatments NVARCHAR(500),
+Partial_Coverage_Treatments NVARCHAR(500)
+)
+GO
+
+IF OBJECT_ID('dev.Room', 'U') IS NOT NULL
+    DROP TABLE dev.Room;
+GO
+
+CREATE TABLE dev.Room(
+RoomKey INT,
+Care_Level NVARCHAR(50),
+Room_Type NVARCHAR(50)
+)
+GO 
+
+IF OBJECT_ID('dev.ChronicDisease', 'U') IS NOT NULL
+    DROP TABLE dev.ChronicDisease;
+GO
+CREATE TABLE dev.ChronicDisease(
+ChronicDiseaseID INT,
+ChronicDiseaseName NVARCHAR(50)
+)
+GO
+
+IF OBJECT_ID('dev.Allergy', 'U') IS NOT NULL
+    DROP TABLE dev.Allergy;
+GO
+CREATE TABLE dev.Allergy(
+AllergyID INT,
+AllergyName NVARCHAR(50)
+)
+GO 
+
+IF OBJECT_ID('dev.AdditionalService', 'U') IS NOT NULL
+    DROP TABLE dev.AdditionalService;
+GO
+
+CREATE TABLE dev.AdditionalService(
+AdditionalServiceID INT,
+ServiceName NVARCHAR(50)
+)
+GO
+
+IF OBJECT_ID('dev.SpecialTest', 'U') IS NOT NULL
+    DROP TABLE dev.SpecialTest;
+GO
+
+
+CREATE TABLE dev.SpecialTest(
+Encounter_ID INT,
+Test_ID INT,
+Test_Phase NVARCHAR(50),
+Test_Name NVARCHAR(50),
+Test_Result FLOAT
+)
+GO
+
+IF OBJECT_ID('dev.Treatment', 'U') IS NOT NULL
+    DROP TABLE dev.Treatment;
+GO
+
+CREATE TABLE dev.Treatment(
+Encounter_ID INT,
+Treatment_ID INT,
+Treatment_Type NVARCHAR(50),
+Treatment_Name NVARCHAR(50),
+Follow_Up NVARCHAR(50),
+Complications NVARCHAR(50),
+Drug_Boxes_Used INT,
+Therapy_Sessions INT
+)
+GO
