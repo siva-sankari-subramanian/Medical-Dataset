@@ -1,0 +1,210 @@
+/*
+===============================================================================
+Stored Procedure: Load Dev Layer (Source -> Dev)
+===============================================================================
+Script Purpose:
+    This stored procedure loads data into the 'Dev' schema from external CSV files. 
+    It performs the following actions:
+    - Truncates the Dev tables before loading data.
+    - Uses the `BULK INSERT` command to load data from csv Files to Dev tables.
+
+Parameters:
+    None. 
+	  This stored procedure does not accept any parameters or return any values.
+
+
+To Execute:
+ 
+--EXEC dev.load_dev
+
+===============================================================================
+*/
+CREATE OR ALTER PROCEDURE dev.load_dev AS
+BEGIN
+	DECLARE @start_time DATETIME, @end_time DATETIME, @batch_start_time DATETIME, @batch_end_time DATETIME; 
+	BEGIN TRY 
+		SET @batch_start_time = GETDATE();
+		PRINT '================================================';
+		PRINT 'Loading Dev Layer';
+		PRINT '================================================';
+
+
+		SET @start_time = GETDATE();
+		PRINT '>> Truncating Table: dev.AdditionalService';
+		TRUNCATE TABLE dev.AdditionalService;
+		PRINT '>> Inserting Data Into: dev.AdditionalService';
+		BULK INSERT dev.AdditionalService
+		FROM 'C:\Users\Kishan\Desktop\SIVASANKARI_JOB SEARCH\SQL Project\MedSynora DW\DimAdditionalService.csv'
+		WITH (
+			FIRSTROW = 2,
+			FIELDTERMINATOR = ',',
+			TABLOCK
+		);
+		SET @end_time = GETDATE();
+		PRINT '>> Load Duration: ' + CAST(DATEDIFF(second, @start_time, @end_time) AS NVARCHAR) + ' seconds';
+		PRINT '>> -------------';
+
+        SET @start_time = GETDATE();
+		PRINT '>> Truncating Table: dev.Allergy';
+		TRUNCATE TABLE dev.Allergy;
+
+		PRINT '>> Inserting Data Into: dev.Allergy';
+		BULK INSERT dev.Allergy
+		FROM 'C:\Users\Kishan\Desktop\SIVASANKARI_JOB SEARCH\SQL Project\MedSynora DW\DimAllergy.csv'
+		WITH (
+			FIRSTROW = 2,
+			FIELDTERMINATOR = ',',
+			TABLOCK
+		);
+		SET @end_time = GETDATE();
+		PRINT '>> Load Duration: ' + CAST(DATEDIFF(second, @start_time, @end_time) AS NVARCHAR) + ' seconds';
+		PRINT '>> -------------';
+
+        SET @start_time = GETDATE();
+		PRINT '>> Truncating Table: dev.ChronicDisease';
+		TRUNCATE TABLE dev.ChronicDisease;
+		PRINT '>> Inserting Data Into: dev.ChronicDisease';
+		BULK INSERT dev.ChronicDisease
+		FROM 'C:\Users\Kishan\Desktop\SIVASANKARI_JOB SEARCH\SQL Project\MedSynora DW\DimChronicDisease.csv'
+		WITH (
+			FIRSTROW = 2,
+			FIELDTERMINATOR = ',',
+			TABLOCK
+		);
+		SET @end_time = GETDATE();
+		PRINT '>> Load Duration: ' + CAST(DATEDIFF(second, @start_time, @end_time) AS NVARCHAR) + ' seconds';
+		PRINT '>> -------------';
+
+		SET @start_time = GETDATE();
+		PRINT '>> Truncating Table: dev.Date';
+		TRUNCATE TABLE dev.Date;
+		PRINT '>> Inserting Data Into: dev.Date';
+		BULK INSERT dev.Date
+		FROM 'C:\Users\Kishan\Desktop\SIVASANKARI_JOB SEARCH\SQL Project\MedSynora DW\DimDate.csv'
+		WITH (
+			FIRSTROW = 2,
+			FIELDTERMINATOR = ',',
+			TABLOCK
+		);
+		SET @end_time = GETDATE();
+		PRINT '>> Load Duration: ' + CAST(DATEDIFF(second, @start_time, @end_time) AS NVARCHAR) + ' seconds';
+		PRINT '>> -------------';
+
+		SET @start_time = GETDATE();
+		PRINT '>> Truncating Table: dev.Disease';
+		TRUNCATE TABLE dev.Disease;
+		PRINT '>> Inserting Data Into: dev.Disease';
+		BULK INSERT dev.Disease
+		FROM 'C:\Users\Kishan\Desktop\SIVASANKARI_JOB SEARCH\SQL Project\MedSynora DW\DimDisease.csv'
+		WITH (
+			FIRSTROW = 2,
+			FIELDTERMINATOR = ',',
+			TABLOCK
+		);
+		SET @end_time = GETDATE();
+		PRINT '>> Load Duration: ' + CAST(DATEDIFF(second, @start_time, @end_time) AS NVARCHAR) + ' seconds';
+		PRINT '>> -------------';
+
+		SET @start_time = GETDATE();
+		PRINT '>> Truncating Table: dev.Doctor';
+		TRUNCATE TABLE dev.Doctor;
+		PRINT '>> Inserting Data Into: dev.Doctor';
+		BULK INSERT dev.Doctor
+		FROM 'C:\Users\Kishan\Desktop\SIVASANKARI_JOB SEARCH\SQL Project\MedSynora DW\DimDoctor.csv'
+		WITH (
+			FIRSTROW = 2,
+			FIELDTERMINATOR = ',',
+			TABLOCK
+		);
+		SET @end_time = GETDATE();
+		PRINT '>> Load Duration: ' + CAST(DATEDIFF(second, @start_time, @end_time) AS NVARCHAR) + ' seconds';
+		PRINT '>> -------------';
+
+		SET @start_time = GETDATE();
+		PRINT '>> Truncating Table: dev.Patient';
+		TRUNCATE TABLE dev.Patient;
+		PRINT '>> Inserting Data Into: dev.Patient';
+		BULK INSERT dev.Patient
+		FROM 'C:\Users\Kishan\Desktop\SIVASANKARI_JOB SEARCH\SQL Project\MedSynora DW\DimPatient.csv'
+		WITH (
+			FIRSTROW = 2,
+			FIELDTERMINATOR = ',',
+			TABLOCK
+		);
+		SET @end_time = GETDATE();
+		PRINT '>> Load Duration: ' + CAST(DATEDIFF(second, @start_time, @end_time) AS NVARCHAR) + ' seconds';
+		PRINT '>> -------------';
+
+		SET @start_time = GETDATE();
+		PRINT '>> Truncating Table: dev.Room';
+		TRUNCATE TABLE dev.Room;
+		PRINT '>> Inserting Data Into: dev.Room';
+		BULK INSERT dev.Room
+		FROM 'C:\Users\Kishan\Desktop\SIVASANKARI_JOB SEARCH\SQL Project\MedSynora DW\DimRoom.csv'
+		WITH (
+			FIRSTROW = 2,
+			FIELDTERMINATOR = ',',
+			TABLOCK
+		);
+		SET @end_time = GETDATE();
+		PRINT '>> Load Duration: ' + CAST(DATEDIFF(second, @start_time, @end_time) AS NVARCHAR) + ' seconds';
+		PRINT '>> -------------';
+
+		SET @start_time = GETDATE();
+		PRINT '>> Truncating Table: dev.SpecialTest';
+		TRUNCATE TABLE dev.SpecialTest;
+		PRINT '>> Inserting Data Into: dev.SpecialTest';
+		BULK INSERT dev.SpecialTest
+		FROM 'C:\Users\Kishan\Desktop\SIVASANKARI_JOB SEARCH\SQL Project\MedSynora DW\DimSpecialTest-copy.csv'
+		WITH (
+			FIRSTROW = 2,
+			FIELDTERMINATOR = '|',
+			TABLOCK
+		);
+		SET @end_time = GETDATE();
+		PRINT '>> Load Duration: ' + CAST(DATEDIFF(second, @start_time, @end_time) AS NVARCHAR) + ' seconds';
+		PRINT '>> -------------';
+		
+		SET @start_time = GETDATE();
+		PRINT '>> Truncating Table: dev.Treatment';
+		TRUNCATE TABLE dev.Treatment;
+		PRINT '>> Inserting Data Into: dev.Treatment';
+		BULK INSERT dev.Treatment
+		FROM 'C:\Users\Kishan\Desktop\SIVASANKARI_JOB SEARCH\SQL Project\MedSynora DW\DimTreatment.csv'
+		WITH (
+			FIRSTROW = 2,
+			FIELDTERMINATOR = ',',
+			TABLOCK
+		);
+		SET @end_time = GETDATE();
+		PRINT '>> Load Duration: ' + CAST(DATEDIFF(second, @start_time, @end_time) AS NVARCHAR) + ' seconds';
+		PRINT '>> -------------';
+
+
+		SET @start_time = GETDATE();
+		PRINT '>> Truncating Table: dev.Insurance';
+		TRUNCATE TABLE dev.Insurance;
+		PRINT '>> Inserting Data Into: dev.Insurance';
+		BULK INSERT dev.Insurance
+		FROM 'C:\Users\Kishan\Desktop\SIVASANKARI_JOB SEARCH\SQL Project\MedSynora DW\DimInsurance.csv'
+		WITH (
+			FIRSTROW = 2,
+			FIELDTERMINATOR = '|',
+			TABLOCK
+		);
+		SET @end_time = GETDATE();
+		PRINT '>> Load Duration: ' + CAST(DATEDIFF(second, @start_time, @end_time) AS NVARCHAR) + ' seconds';
+		PRINT '>> -------------'
+		
+	END TRY
+	BEGIN CATCH
+		PRINT '=========================================='
+		PRINT 'ERROR OCCURED DURING LOADING dev LAYER'
+		PRINT 'Error Message' + ERROR_MESSAGE();
+		PRINT 'Error Message' + CAST (ERROR_NUMBER() AS NVARCHAR);
+		PRINT 'Error Message' + CAST (ERROR_STATE() AS NVARCHAR);
+		PRINT '=========================================='
+	END CATCH
+	
+END
+
