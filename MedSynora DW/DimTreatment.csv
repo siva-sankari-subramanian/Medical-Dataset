@@ -1,0 +1,3049 @@
+Encounter_ID,Treatment_ID,Treatment_Type,Treatment_Name,Follow_Up,Complications,Drug_Boxes_Used,Therapy_Sessions
+2156,3337,Drug,Statins,Yes,No,1,0
+2156,3325,Drug,Aspirin,Yes,No,1,0
+2156,3336,Drug,Cilostazol,No,Yes,1,0
+2156,3338,Therapy,Exercise Therapy,No,No,0,69
+2157,3341,Drug,Heparin,Yes,Yes,13,0
+2157,3342,Drug,Warfarin,Yes,Yes,1,0
+2157,3503,Surgery,Pulmonary Embolectomy,Yes,No,0,0
+2158,3515,Drug,Ezetimibe,Yes,Yes,1,0
+2158,3337,Drug,Statins,Yes,No,2,0
+2158,3322,Therapy,Dietary Management,No,No,0,33
+2159,3393,Drug,Pain Relievers,Yes,Yes,2,0
+2159,3449,Drug,NSAIDs,Yes,No,2,0
+2159,3335,Therapy,Physical Therapy,No,No,0,40
+2160,3393,Drug,Pain Relievers,Yes,Yes,1,0
+2160,3449,Drug,NSAIDs,Yes,No,1,0
+2160,3548,Drug,Muscle Relaxants,Yes,Yes,1,0
+2160,3335,Therapy,Physical Therapy,Yes,No,0,49
+2160,3573,Surgery,Spinal Fusion Surgery,Yes,Yes,0,0
+2161,3373,Drug,Antiviral Medications,Yes,Yes,17,0
+2161,3467,Therapy,Supportive Care,Yes,No,0,31
+2162,3334,Drug,Corticosteroids,Yes,No,1,0
+2162,3388,Drug,Methotrexate,Yes,No,1,0
+2162,3335,Therapy,Physical Therapy,Yes,No,0,24
+2163,3393,Drug,Pain Relievers,No,Yes,1,0
+2163,3449,Drug,NSAIDs,Yes,No,1,0
+2163,3335,Therapy,Physical Therapy,Yes,No,0,25
+2163,3338,Therapy,Exercise Therapy,No,No,0,25
+2163,3447,Surgery,Joint Replacement,Yes,No,0,0
+2164,3463,Drug,Antifungal Shampoo,Yes,Yes,21,0
+2164,3458,Therapy,Light Therapy,Yes,No,0,40
+2165,3697,Drug,Decongestants,Yes,No,1,0
+2165,3372,Drug,Antibiotics,Yes,No,10,0
+2165,3699,Drug,Corticosteroid Nasal Spray,Yes,Yes,19,0
+2165,3701,Drug,Saline Nasal Spray,Yes,No,8,0
+2165,3698,Surgery,Sinus Surgery,Yes,Yes,0,0
+2166,3590,Drug,Ribavirin,No,No,2,0
+2166,3587,Drug,Antiviral Therapy,Yes,No,2,0
+2166,3589,Drug,Sofosbuvir,No,Yes,2,0
+2167,3690,Drug,Ciprofloxacin Ear Drops,No,Yes,13,0
+2167,3692,Therapy,Ear Cleaning,Yes,No,0,11
+2168,3353,Drug,Metyrapone,No,No,1,0
+2169,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,34
+2169,3533,Drug,Benzodiazepines,Yes,Yes,1,0
+2169,3530,Drug,SSRIs,Yes,No,2,0
+2170,3329,Drug,Diuretics,No,No,1,0
+2170,3327,Drug,ACE Inhibitors,Yes,No,1,0
+2170,3326,Drug,Beta Blockers,Yes,Yes,3,0
+2170,3332,Drug,Calcium Channel Blockers,No,No,2,0
+2170,3322,Therapy,Dietary Management,Yes,No,0,26
+2171,3382,Drug,H2 Blockers,Yes,Yes,1,0
+2171,3381,Drug,Proton Pump Inhibitors (PPIs),No,Yes,1,0
+2171,3321,Therapy,Lifestyle Changes,Yes,Yes,0,63
+2172,3372,Drug,Antibiotics,Yes,Yes,13,0
+2172,3327,Drug,ACE Inhibitors,Yes,Yes,2,0
+2172,3398,Therapy,Dialysis,Yes,Yes,0,29
+2173,3449,Drug,NSAIDs,Yes,Yes,1,0
+2173,3334,Drug,Corticosteroids,Yes,No,1,0
+2173,3335,Therapy,Physical Therapy,Yes,No,0,33
+2173,3338,Therapy,Exercise Therapy,Yes,No,0,32
+2173,3447,Surgery,Joint Replacement,No,No,0,0
+2174,3712,Drug,Remdesivir,Yes,Yes,6,0
+2174,3496,Drug,Dexamethasone,Yes,No,1,0
+2174,3713,Therapy,Ventilation,Yes,No,0,64
+2175,3486,Drug,Clotting Factor Concentrates,Yes,Yes,6,0
+2175,3487,Drug,Desmopressin,No,No,1,0
+2175,3335,Therapy,Physical Therapy,Yes,No,0,63
+2176,3423,Drug,Antidepressants,No,No,2,0
+2176,3530,Drug,SSRIs,No,No,3,0
+2176,3531,Drug,SNRIs,No,No,2,0
+2176,3525,Drug,Tricyclic Antidepressants,Yes,No,2,0
+2176,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,37
+2176,3523,Therapy,Psychotherapy,Yes,No,0,0
+2177,3462,Drug,Oral Antibiotics,Yes,Yes,1,0
+2177,3472,Therapy,Wound Care,Yes,No,0,14
+2178,3515,Drug,Ezetimibe,Yes,No,1,0
+2178,3337,Drug,Statins,Yes,No,1,0
+2178,3322,Therapy,Dietary Management,Yes,No,0,38
+2179,3369,Drug,Bronchodilators,Yes,No,1,0
+2179,3368,Therapy,Oxygen Therapy,Yes,No,0,21
+2180,3388,Drug,Methotrexate,Yes,Yes,1,0
+2180,3648,Drug,Mercaptopurine,Yes,No,1,0
+2180,3451,Drug,Cyclophosphamide,Yes,Yes,13,0
+2180,3649,Drug,Vincristine,Yes,No,9,0
+2180,3482,Surgery,Bone Marrow Transplant,Yes,Yes,0,0
+2181,3401,Drug,Alpha Blockers,Yes,No,1,0
+2181,3393,Drug,Pain Relievers,Yes,No,1,0
+2181,3395,Therapy,Hydration Therapy,Yes,No,0,17
+2182,3370,Drug,Steroids,Yes,No,14,0
+2182,3369,Drug,Bronchodilators,No,Yes,1,0
+2182,3368,Therapy,Oxygen Therapy,Yes,No,0,32
+2183,3716,Drug,Hepatitis B Immune Globulin,Yes,Yes,5,0
+2183,3373,Drug,Antiviral Medications,Yes,Yes,16,0
+2183,3404,Therapy,Rest,Yes,Yes,0,0
+2184,3383,Drug,Antispasmodics,Yes,Yes,1,0
+2184,3385,Drug,Antidiarrheals,Yes,No,1,0
+2184,3384,Drug,Laxatives,Yes,Yes,1,0
+2184,3386,Therapy,Stress Management,No,Yes,0,27
+2184,3322,Therapy,Dietary Management,Yes,No,0,27
+2185,3326,Drug,Beta Blockers,Yes,No,2,0
+2185,3325,Drug,Aspirin,Yes,Yes,1,0
+2185,3327,Drug,ACE Inhibitors,Yes,Yes,1,0
+2185,3337,Drug,Statins,No,Yes,1,0
+2185,3322,Therapy,Dietary Management,Yes,No,0,64
+2186,3552,Drug,Hormone Therapy,Yes,No,2,0
+2186,3393,Drug,Pain Relievers,No,No,2,0
+2186,3555,Therapy,Lifestyle Modifications,No,No,0,20
+2187,3338,Therapy,Exercise Therapy,Yes,No,0,22
+2187,3321,Therapy,Lifestyle Changes,Yes,No,0,22
+2187,3343,Therapy,Compression Stockings,No,No,0,0
+2188,3372,Drug,Antibiotics,No,No,10,0
+2188,3381,Drug,Proton Pump Inhibitors (PPIs),No,No,1,0
+2188,3380,Drug,Antacids,No,No,1,0
+2188,3322,Therapy,Dietary Management,Yes,No,0,18
+2189,None,None,None,No,No,0,0
+2190,3387,Drug,Infliximab,Yes,No,5,0
+2190,3388,Drug,Methotrexate,No,No,1,0
+2190,3322,Therapy,Dietary Management,No,No,0,43
+2191,3322,Therapy,Dietary Management,Yes,No,0,29
+2191,3397,Surgery,Liver Transplant,Yes,No,0,0
+2192,3708,Therapy,Voice Therapy,No,No,0,15
+2193,3335,Therapy,Physical Therapy,Yes,No,0,41
+2194,3321,Therapy,Lifestyle Changes,Yes,No,0,30
+2194,3322,Therapy,Dietary Management,No,No,0,30
+2194,3397,Surgery,Liver Transplant,Yes,No,0,0
+2195,3457,Drug,Topical Retinoids,Yes,No,23,0
+2195,3458,Therapy,Light Therapy,Yes,No,0,20
+2196,3480,Drug,Eltrombopag,Yes,Yes,1,0
+2196,3370,Drug,Steroids,Yes,Yes,14,0
+2196,3504,Therapy,Platelet Transfusions,Yes,No,0,32
+2197,3392,Therapy,Gluten-Free Diet,Yes,Yes,0,12
+2198,3529,Therapy,Interpersonal Therapy,Yes,No,0,32
+2198,3531,Drug,SNRIs,No,No,2,0
+2198,3530,Drug,SSRIs,No,Yes,2,0
+2199,3349,Drug,Propylthiouracil,Yes,Yes,1,0
+2199,3350,Therapy,Radioactive Iodine Therapy,Yes,No,0,0
+2200,3388,Drug,Methotrexate,No,No,1,0
+2200,3334,Drug,Corticosteroids,No,Yes,1,0
+2200,3335,Therapy,Physical Therapy,No,No,0,36
+2201,3490,Drug,Doxorubicin,Yes,No,10,0
+2201,3492,Therapy,External Beam Radiation,Yes,No,0,0
+2202,3388,Drug,Methotrexate,No,Yes,1,0
+2202,3453,Drug,Biologics,No,No,10,0
+2202,3454,Therapy,UV Light Therapy,Yes,No,0,39
+2203,3652,Drug,Idarubicin,No,No,9,0
+2203,3650,Drug,Daunorubicin,No,No,8,0
+2203,3482,Surgery,Bone Marrow Transplant,Yes,No,0,0
+2204,3729,Drug,Fluconazole,Yes,No,1,0
+2204,3730,Drug,Nystatin,Yes,Yes,2,0
+2204,3731,Therapy,Topical Antifungal Treatment,Yes,No,0,0
+2205,None,None,None,No,No,0,0
+2206,3676,Surgery,Phacoemulsification,No,Yes,0,0
+2207,3372,Drug,Antibiotics,Yes,Yes,10,0
+2207,3562,Drug,Antifungal,Yes,Yes,1,0
+2207,3555,Therapy,Lifestyle Modifications,No,No,0,28
+2208,3681,Drug,Aflibercept,No,No,5,0
+2208,3680,Drug,Ranibizumab,Yes,No,3,0
+2208,3682,Therapy,Photodynamic Therapy,Yes,No,0,0
+2209,3412,Therapy,Cognitive Behavioral Therapy,No,No,0,12
+2210,3573,Surgery,Spinal Fusion Surgery,Yes,No,0,0
+2210,3335,Therapy,Physical Therapy,Yes,No,0,37
+2211,3384,Drug,Laxatives,No,No,1,0
+2211,3383,Drug,Antispasmodics,Yes,No,1,0
+2211,3385,Drug,Antidiarrheals,Yes,No,1,0
+2211,3322,Therapy,Dietary Management,No,No,0,32
+2212,3730,Drug,Nystatin,No,Yes,1,0
+2212,3729,Drug,Fluconazole,Yes,No,1,0
+2212,3731,Therapy,Topical Antifungal Treatment,Yes,Yes,0,0
+2213,3335,Therapy,Physical Therapy,Yes,No,0,60
+2214,3348,Drug,Methimazole,Yes,Yes,1,0
+2214,3349,Drug,Propylthiouracil,Yes,Yes,1,0
+2214,3350,Therapy,Radioactive Iodine Therapy,Yes,No,0,0
+2215,None,None,None,No,No,0,0
+2216,3660,Therapy,Fluoride Treatment,No,No,0,0
+2217,3420,Drug,Antipsychotics,Yes,Yes,2,0
+2217,3538,Drug,Mood Stabilizers,Yes,Yes,2,0
+2217,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,53
+2218,3335,Therapy,Physical Therapy,Yes,No,0,31
+2219,3675,Therapy,Reading Glasses,No,No,0,19
+2219,3672,Therapy,Prescription Glasses,Yes,No,0,21
+2220,3410,Drug,Donepezil,Yes,No,2,0
+2220,3411,Drug,Memantine,No,Yes,3,0
+2220,3405,Therapy,Physical Exercise,Yes,No,0,45
+2220,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,54
+2221,3483,Drug,Immunoglobulins,Yes,No,12,0
+2221,3372,Drug,Antibiotics,No,No,13,0
+2221,3482,Surgery,Bone Marrow Transplant,Yes,No,0,0
+2222,3334,Drug,Corticosteroids,No,Yes,1,0
+2222,3455,Drug,Antihistamines,Yes,Yes,1,0
+2222,3456,Therapy,Moisturizing Therapy,Yes,No,0,24
+2223,3371,Therapy,Pulmonary Rehabilitation,Yes,No,0,30
+2224,3426,Therapy,Occupational Therapy,Yes,No,0,24
+2225,3353,Drug,Metyrapone,Yes,Yes,2,0
+2225,3352,Drug,Ketoconazole,No,No,16,0
+2225,3354,Surgery,Adrenalectomy,Yes,No,0,0
+2226,3383,Drug,Antispasmodics,Yes,Yes,1,0
+2226,3385,Drug,Antidiarrheals,No,No,1,0
+2226,3384,Drug,Laxatives,Yes,Yes,1,0
+2226,3322,Therapy,Dietary Management,Yes,No,0,29
+2226,3386,Therapy,Stress Management,Yes,No,0,27
+2227,3366,Drug,Albuterol,Yes,No,10,0
+2227,3334,Drug,Corticosteroids,No,No,1,0
+2227,3368,Therapy,Oxygen Therapy,No,Yes,0,15
+2227,3367,Therapy,Breathing Exercises,Yes,No,0,15
+2228,3370,Drug,Steroids,Yes,Yes,17,0
+2228,3369,Drug,Bronchodilators,Yes,Yes,1,0
+2228,3371,Therapy,Pulmonary Rehabilitation,Yes,No,0,31
+2229,3344,Drug,Insulin,Yes,No,37,0
+2229,3394,Surgery,Pancreatic Surgery,No,No,0,0
+2229,3468,Therapy,Pain Management,No,No,0,27
+2229,3321,Therapy,Lifestyle Changes,No,No,0,29
+2230,3714,Drug,Electrolyte Solutions,Yes,Yes,12,0
+2230,3433,Drug,Acetaminophen,Yes,No,1,0
+2230,3715,Therapy,Fluid Replacement,Yes,No,0,28
+2231,3595,Drug,Metronidazole,Yes,No,1,0
+2231,3597,Drug,Tinidazole,Yes,Yes,1,0
+2231,3715,Therapy,Fluid Replacement,Yes,No,0,31
+2232,3483,Drug,Immunoglobulins,Yes,Yes,11,0
+2232,3372,Drug,Antibiotics,Yes,Yes,13,0
+2233,3449,Drug,NSAIDs,No,No,1,0
+2233,3388,Drug,Methotrexate,No,Yes,1,0
+2233,3335,Therapy,Physical Therapy,Yes,No,0,21
+2233,3447,Surgery,Joint Replacement,Yes,Yes,0,0
+2234,3344,Drug,Insulin,Yes,No,44,0
+2234,3347,Drug,Sulfonylureas,Yes,No,2,0
+2234,3322,Therapy,Dietary Management,Yes,No,0,43
+2234,3321,Therapy,Lifestyle Changes,Yes,No,0,39
+2235,3548,Drug,Muscle Relaxants,Yes,Yes,1,0
+2235,3393,Drug,Pain Relievers,Yes,No,1,0
+2235,3449,Drug,NSAIDs,Yes,No,1,0
+2235,3335,Therapy,Physical Therapy,Yes,No,0,15
+2236,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,25
+2237,3344,Drug,Insulin,Yes,Yes,37,0
+2237,3347,Drug,Sulfonylureas,Yes,No,1,0
+2237,3346,Drug,Metformin,Yes,No,3,0
+2237,3338,Therapy,Exercise Therapy,Yes,No,0,38
+2237,3321,Therapy,Lifestyle Changes,No,No,0,39
+2237,3322,Therapy,Dietary Management,Yes,No,0,39
+2238,3423,Drug,Antidepressants,Yes,Yes,3,0
+2238,3420,Drug,Antipsychotics,Yes,No,3,0
+2238,3538,Drug,Mood Stabilizers,No,No,2,0
+2238,3523,Therapy,Psychotherapy,No,Yes,0,0
+2239,3559,Drug,Oral Contraceptives,Yes,No,1,0
+2239,3393,Drug,Pain Relievers,Yes,No,2,0
+2239,3560,Surgery,Cystectomy,Yes,No,0,0
+2240,3525,Drug,Tricyclic Antidepressants,Yes,No,2,0
+2240,3531,Drug,SNRIs,Yes,Yes,3,0
+2240,3423,Drug,Antidepressants,Yes,Yes,3,0
+2240,3523,Therapy,Psychotherapy,Yes,No,0,0
+2240,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,25
+2241,3434,Drug,Ibuprofen,Yes,No,1,0
+2241,3433,Drug,Acetaminophen,No,No,1,0
+2242,3393,Drug,Pain Relievers,No,No,1,0
+2242,3544,Drug,Fever Reducers,Yes,No,1,0
+2242,3467,Therapy,Supportive Care,Yes,No,0,25
+2243,3371,Therapy,Pulmonary Rehabilitation,Yes,No,0,25
+2244,3589,Drug,Sofosbuvir,No,No,2,0
+2244,3373,Drug,Antiviral Medications,Yes,No,17,0
+2244,3590,Drug,Ribavirin,No,Yes,2,0
+2244,3500,Drug,Interferon Alpha,No,Yes,22,0
+2244,3321,Therapy,Lifestyle Changes,Yes,No,0,33
+2245,3413,Drug,Levodopa,Yes,Yes,3,0
+2245,3414,Drug,Dopamine Agonists,No,Yes,2,0
+2245,3335,Therapy,Physical Therapy,Yes,No,0,66
+2246,3477,Surgery,Laser Surgery,Yes,No,0,0
+2246,3678,Drug,Latanoprost,Yes,Yes,24,0
+2246,3679,Drug,Timolol,Yes,No,33,0
+2247,3334,Drug,Corticosteroids,Yes,Yes,1,0
+2247,3366,Drug,Albuterol,Yes,No,10,0
+2247,3368,Therapy,Oxygen Therapy,Yes,No,0,25
+2247,3367,Therapy,Breathing Exercises,Yes,No,0,25
+2248,3336,Drug,Cilostazol,No,Yes,1,0
+2248,3325,Drug,Aspirin,No,No,1,0
+2248,3337,Drug,Statins,No,No,1,0
+2248,3323,Surgery,Angioplasty,Yes,No,0,0
+2248,3324,Surgery,Coronary Artery Bypass Surgery,Yes,No,0,0
+2248,3338,Therapy,Exercise Therapy,Yes,Yes,0,69
+2249,3624,Drug,Trametinib,Yes,Yes,1,0
+2249,3623,Drug,Dabrafenib,No,Yes,1,0
+2249,3492,Therapy,External Beam Radiation,Yes,No,0,0
+2250,3341,Drug,Heparin,No,Yes,30,0
+2250,3326,Drug,Beta Blockers,No,No,2,0
+2250,3331,Surgery,Pacemaker Insertion,Yes,No,0,0
+2250,3330,Surgery,Cardiac Ablation,Yes,Yes,0,0
+2250,3321,Therapy,Lifestyle Changes,Yes,Yes,0,30
+2251,3533,Drug,Benzodiazepines,No,Yes,1,0
+2251,3423,Drug,Antidepressants,Yes,Yes,3,0
+2251,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,19
+2252,3349,Drug,Propylthiouracil,No,No,1,0
+2252,3326,Drug,Beta Blockers,Yes,No,1,0
+2252,3350,Therapy,Radioactive Iodine Therapy,Yes,No,0,0
+2253,3407,Therapy,Phlebotomy,Yes,No,0,0
+2253,3485,Drug,Deferoxamine,Yes,No,14,0
+2254,3728,Drug,Praziquantel,Yes,Yes,1,0
+2254,3715,Therapy,Fluid Replacement,Yes,No,0,29
+2255,3434,Drug,Ibuprofen,Yes,No,1,0
+2256,3467,Therapy,Supportive Care,Yes,No,0,19
+2257,3334,Drug,Corticosteroids,No,No,1,0
+2257,3393,Drug,Pain Relievers,Yes,No,1,0
+2257,3449,Drug,NSAIDs,Yes,Yes,1,0
+2257,3335,Therapy,Physical Therapy,No,Yes,0,36
+2257,3338,Therapy,Exercise Therapy,Yes,No,0,37
+2257,3447,Surgery,Joint Replacement,Yes,No,0,0
+2258,3393,Drug,Pain Relievers,Yes,No,1,0
+2258,3449,Drug,NSAIDs,No,No,1,0
+2258,3548,Drug,Muscle Relaxants,No,Yes,1,0
+2258,3335,Therapy,Physical Therapy,No,No,0,16
+2259,3393,Drug,Pain Relievers,No,No,1,0
+2259,3423,Drug,Antidepressants,Yes,No,2,0
+2259,3338,Therapy,Exercise Therapy,No,No,0,22
+2260,3393,Drug,Pain Relievers,No,No,1,0
+2260,3544,Drug,Fever Reducers,No,No,1,0
+2260,3467,Therapy,Supportive Care,Yes,No,0,25
+2261,3327,Drug,ACE Inhibitors,Yes,No,2,0
+2261,3329,Drug,Diuretics,No,Yes,1,0
+2261,3326,Drug,Beta Blockers,Yes,Yes,2,0
+2261,3321,Therapy,Lifestyle Changes,No,No,0,29
+2261,3338,Therapy,Exercise Therapy,Yes,No,0,30
+2262,3393,Drug,Pain Relievers,Yes,Yes,1,0
+2262,3449,Drug,NSAIDs,Yes,Yes,1,0
+2262,3335,Therapy,Physical Therapy,Yes,No,0,35
+2263,3540,Drug,Non-Stimulants,Yes,No,1,0
+2263,3539,Drug,Stimulants,Yes,No,1,0
+2263,3412,Therapy,Cognitive Behavioral Therapy,Yes,Yes,0,26
+2263,3507,Therapy,Behavioral Therapy,Yes,No,0,26
+2264,3334,Drug,Corticosteroids,Yes,Yes,1,0
+2264,3393,Drug,Pain Relievers,Yes,Yes,1,0
+2264,3335,Therapy,Physical Therapy,Yes,Yes,0,25
+2264,3338,Therapy,Exercise Therapy,Yes,No,0,26
+2265,3325,Drug,Aspirin,Yes,No,1,0
+2265,3336,Drug,Cilostazol,No,Yes,1,0
+2265,3337,Drug,Statins,Yes,No,1,0
+2265,3338,Therapy,Exercise Therapy,Yes,No,0,22
+2266,3335,Therapy,Physical Therapy,Yes,No,0,41
+2267,3335,Therapy,Physical Therapy,No,No,0,38
+2267,3520,Drug,Growth Hormone Therapy,No,No,39,0
+2268,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,24
+2268,3530,Drug,SSRIs,Yes,Yes,3,0
+2268,3536,Drug,Clomipramine,Yes,No,4,0
+2269,3453,Drug,Biologics,Yes,No,7,0
+2269,3388,Drug,Methotrexate,No,Yes,1,0
+2269,3454,Therapy,UV Light Therapy,Yes,No,0,48
+2270,3511,Therapy,Vision Therapy,Yes,No,0,20
+2270,3514,Drug,Vitamin D Supplementation,Yes,No,1,0
+2270,3513,Drug,Sunscreen,No,Yes,36,0
+2271,3420,Drug,Antipsychotics,Yes,Yes,3,0
+2271,3419,Drug,Tetrabenazine,Yes,No,2,0
+2271,3335,Therapy,Physical Therapy,Yes,No,0,65
+2271,3418,Therapy,Speech Therapy,Yes,No,0,58
+2272,3322,Therapy,Dietary Management,No,No,0,26
+2272,3321,Therapy,Lifestyle Changes,Yes,No,0,26
+2272,3397,Surgery,Liver Transplant,Yes,No,0,0
+2273,3393,Drug,Pain Relievers,Yes,No,1,0
+2273,3467,Therapy,Supportive Care,Yes,No,0,44
+2274,None,None,None,No,No,0,0
+2275,3423,Drug,Antidepressants,Yes,No,2,0
+2275,3576,Therapy,Hearing Aids,Yes,No,0,25
+2276,3384,Drug,Laxatives,Yes,No,1,0
+2276,3386,Therapy,Stress Management,Yes,No,0,51
+2276,3322,Therapy,Dietary Management,Yes,No,0,60
+2277,3393,Drug,Pain Relievers,Yes,Yes,1,0
+2277,3544,Drug,Fever Reducers,No,No,1,0
+2277,3467,Therapy,Supportive Care,Yes,No,0,15
+2278,3393,Drug,Pain Relievers,No,No,1,0
+2278,3335,Therapy,Physical Therapy,Yes,No,0,22
+2278,3573,Surgery,Spinal Fusion Surgery,No,No,0,0
+2279,3334,Drug,Corticosteroids,Yes,Yes,1,0
+2279,3335,Therapy,Physical Therapy,Yes,No,0,29
+2280,3516,Surgery,Tumor Removal Surgery,Yes,No,0,0
+2280,3517,Therapy,Chemotherapy,Yes,Yes,0,39
+2280,3468,Therapy,Pain Management,Yes,No,0,42
+2281,3322,Therapy,Dietary Management,No,No,0,36
+2281,3321,Therapy,Lifestyle Changes,No,No,0,32
+2281,3397,Surgery,Liver Transplant,Yes,No,0,0
+2282,3366,Drug,Albuterol,No,Yes,17,0
+2282,3334,Drug,Corticosteroids,Yes,No,1,0
+2282,3367,Therapy,Breathing Exercises,Yes,No,0,22
+2282,3368,Therapy,Oxygen Therapy,Yes,No,0,23
+2283,3420,Drug,Antipsychotics,Yes,No,2,0
+2283,3419,Drug,Tetrabenazine,Yes,Yes,1,0
+2283,3335,Therapy,Physical Therapy,No,No,0,51
+2283,3418,Therapy,Speech Therapy,Yes,Yes,0,48
+2284,3486,Drug,Clotting Factor Concentrates,Yes,Yes,6,0
+2284,3504,Therapy,Platelet Transfusions,Yes,No,0,26
+2285,3341,Drug,Heparin,Yes,No,14,0
+2285,3332,Drug,Calcium Channel Blockers,No,Yes,1,0
+2285,3342,Drug,Warfarin,Yes,Yes,1,0
+2285,3326,Drug,Beta Blockers,Yes,Yes,1,0
+2285,3321,Therapy,Lifestyle Changes,No,No,0,44
+2286,3423,Drug,Antidepressants,Yes,Yes,2,0
+2286,3577,Therapy,Sound Therapy,Yes,No,0,31
+2286,3576,Therapy,Hearing Aids,Yes,No,0,33
+2287,3584,Drug,Imiquimod,Yes,Yes,21,0
+2287,3621,Drug,Fluorouracil,Yes,No,7,0
+2287,3492,Therapy,External Beam Radiation,Yes,No,0,0
+2288,3507,Therapy,Behavioral Therapy,Yes,No,0,39
+2288,3426,Therapy,Occupational Therapy,Yes,No,0,33
+2289,3547,Surgery,Shunt Surgery,Yes,Yes,0,0
+2289,3335,Therapy,Physical Therapy,Yes,No,0,53
+2290,3334,Drug,Corticosteroids,Yes,No,1,0
+2290,3455,Drug,Antihistamines,Yes,Yes,1,0
+2290,3456,Therapy,Moisturizing Therapy,No,No,0,38
+2291,3712,Drug,Remdesivir,No,No,5,0
+2291,3496,Drug,Dexamethasone,Yes,No,1,0
+2291,3368,Therapy,Oxygen Therapy,No,No,0,74
+2291,3713,Therapy,Ventilation,Yes,No,0,67
+2292,3420,Drug,Antipsychotics,Yes,No,2,0
+2292,3582,Therapy,Counseling,Yes,No,0,21
+2292,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,18
+2293,3474,Drug,Ivermectin,No,No,1,0
+2293,3473,Drug,Permethrin Cream,Yes,Yes,8,0
+2293,3471,Therapy,Topical Treatment,Yes,No,0,0
+2294,3538,Drug,Mood Stabilizers,Yes,No,2,0
+2294,3423,Drug,Antidepressants,No,No,2,0
+2294,3420,Drug,Antipsychotics,Yes,No,3,0
+2294,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,36
+2295,3434,Drug,Ibuprofen,Yes,No,1,0
+2295,3325,Drug,Aspirin,Yes,Yes,1,0
+2295,3386,Therapy,Stress Management,Yes,No,0,16
+2296,3372,Drug,Antibiotics,No,No,10,0
+2296,3457,Drug,Topical Retinoids,Yes,Yes,23,0
+2296,3458,Therapy,Light Therapy,Yes,No,0,25
+2297,3334,Drug,Corticosteroids,Yes,No,1,0
+2297,3377,Drug,Immunosuppressants,No,Yes,2,0
+2297,3368,Therapy,Oxygen Therapy,Yes,No,0,47
+2298,3581,Drug,Efavirenz,Yes,No,2,0
+2298,3579,Drug,Antiretroviral Therapy (ART),No,Yes,2,0
+2298,3583,Therapy,Nutritional Support,Yes,No,0,43
+2299,3480,Drug,Eltrombopag,No,No,1,0
+2299,3370,Drug,Steroids,No,No,14,0
+2299,3504,Therapy,Platelet Transfusions,Yes,No,0,17
+2300,3332,Drug,Calcium Channel Blockers,Yes,Yes,1,0
+2300,3326,Drug,Beta Blockers,Yes,Yes,1,0
+2300,3505,Surgery,Aortic Repair,Yes,No,0,0
+2301,3451,Drug,Cyclophosphamide,Yes,Yes,10,0
+2301,3334,Drug,Corticosteroids,No,No,1,0
+2301,3335,Therapy,Physical Therapy,Yes,No,0,39
+2302,3564,Drug,Calcium Supplements,Yes,No,4,0
+2302,3563,Drug,Bisphosphonates,Yes,No,16,0
+2302,3335,Therapy,Physical Therapy,Yes,No,0,42
+2303,3425,Drug,Clonazepam,No,Yes,1,0
+2303,3424,Drug,Baclofen,Yes,No,1,0
+2303,3335,Therapy,Physical Therapy,Yes,No,0,76
+2303,3426,Therapy,Occupational Therapy,Yes,Yes,0,75
+2304,3420,Drug,Antipsychotics,No,No,3,0
+2304,3423,Drug,Antidepressants,Yes,Yes,2,0
+2304,3538,Drug,Mood Stabilizers,Yes,No,3,0
+2304,3582,Therapy,Counseling,Yes,No,0,25
+2304,3523,Therapy,Psychotherapy,Yes,No,0,0
+2305,3322,Therapy,Dietary Management,Yes,No,0,33
+2305,3405,Therapy,Physical Exercise,Yes,Yes,0,30
+2306,3643,Surgery,Esophagectomy,Yes,No,0,0
+2306,3641,Drug,Trastuzumab,Yes,Yes,7,0
+2306,3644,Drug,Nivolumab,Yes,No,7,0
+2306,3608,Drug,Paclitaxel,No,No,7,0
+2306,3607,Drug,Carboplatin,Yes,Yes,7,0
+2306,3492,Therapy,External Beam Radiation,No,No,0,0
+2307,3381,Drug,Proton Pump Inhibitors (PPIs),Yes,No,1,0
+2307,3380,Drug,Antacids,Yes,No,1,0
+2307,3372,Drug,Antibiotics,Yes,No,10,0
+2307,3322,Therapy,Dietary Management,No,Yes,0,28
+2308,3451,Drug,Cyclophosphamide,Yes,Yes,13,0
+2308,3334,Drug,Corticosteroids,No,Yes,1,0
+2308,3335,Therapy,Physical Therapy,Yes,No,0,23
+2309,3563,Drug,Bisphosphonates,Yes,No,13,0
+2309,3564,Drug,Calcium Supplements,No,No,2,0
+2309,3335,Therapy,Physical Therapy,No,Yes,0,41
+2310,3322,Therapy,Dietary Management,Yes,No,0,31
+2310,3407,Therapy,Phlebotomy,Yes,No,0,0
+2311,3453,Drug,Biologics,Yes,Yes,8,0
+2311,3372,Drug,Antibiotics,Yes,No,12,0
+2311,3472,Therapy,Wound Care,Yes,Yes,0,37
+2312,3387,Drug,Infliximab,Yes,No,3,0
+2312,3388,Drug,Methotrexate,Yes,Yes,1,0
+2312,3389,Surgery,Bowel Resection Surgery,Yes,No,0,0
+2312,3322,Therapy,Dietary Management,No,No,0,27
+2313,3329,Drug,Diuretics,Yes,No,1,0
+2313,3327,Drug,ACE Inhibitors,No,No,1,0
+2313,3321,Therapy,Lifestyle Changes,Yes,No,0,28
+2314,3530,Drug,SSRIs,Yes,No,2,0
+2314,3423,Drug,Antidepressants,No,No,3,0
+2314,3523,Therapy,Psychotherapy,No,No,0,0
+2314,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,18
+2315,3491,Drug,Rituximab,No,No,10,0
+2315,3451,Drug,Cyclophosphamide,Yes,No,11,0
+2315,3370,Drug,Steroids,No,Yes,17,0
+2315,3490,Drug,Doxorubicin,No,Yes,12,0
+2315,3492,Therapy,External Beam Radiation,Yes,No,0,0
+2316,3440,Drug,Pyridostigmine,Yes,Yes,2,0
+2316,3441,Drug,Prednisone,Yes,Yes,2,0
+2316,3335,Therapy,Physical Therapy,Yes,No,0,23
+2316,3442,Surgery,Thymectomy,Yes,Yes,0,0
+2317,3344,Drug,Insulin,Yes,No,87,0
+2317,3346,Drug,Metformin,No,Yes,2,0
+2317,3347,Drug,Sulfonylureas,Yes,Yes,3,0
+2317,3322,Therapy,Dietary Management,Yes,No,0,30
+2317,3321,Therapy,Lifestyle Changes,No,No,0,34
+2317,3338,Therapy,Exercise Therapy,No,No,0,30
+2318,3420,Drug,Antipsychotics,No,No,2,0
+2318,3538,Drug,Mood Stabilizers,No,Yes,2,0
+2318,3412,Therapy,Cognitive Behavioral Therapy,No,Yes,0,23
+2319,None,None,None,No,No,0,0
+2320,3420,Drug,Antipsychotics,Yes,No,3,0
+2320,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,26
+2321,3341,Drug,Heparin,Yes,Yes,14,0
+2321,3342,Drug,Warfarin,No,No,1,0
+2321,3326,Drug,Beta Blockers,Yes,Yes,2,0
+2321,3332,Drug,Calcium Channel Blockers,Yes,Yes,2,0
+2321,3330,Surgery,Cardiac Ablation,Yes,No,0,0
+2321,3321,Therapy,Lifestyle Changes,Yes,No,0,28
+2322,3656,Drug,Dasatinib,Yes,No,2,0
+2322,3451,Drug,Cyclophosphamide,No,No,10,0
+2322,3657,Drug,Busulfan,Yes,Yes,8,0
+2323,3416,Drug,Riluzole,Yes,No,3,0
+2323,3417,Drug,Edaravone,No,Yes,18,0
+2323,3335,Therapy,Physical Therapy,Yes,No,0,42
+2324,3467,Therapy,Supportive Care,Yes,No,0,38
+2325,3373,Drug,Antiviral Medications,Yes,No,14,0
+2325,3404,Therapy,Rest,Yes,No,0,0
+2326,3595,Drug,Metronidazole,Yes,Yes,1,0
+2327,3435,Drug,Sumatriptan,No,No,1,0
+2327,3393,Drug,Pain Relievers,Yes,Yes,1,0
+2327,3449,Drug,NSAIDs,Yes,No,1,0
+2327,3437,Therapy,Relaxation Techniques,Yes,No,0,33
+2328,3368,Therapy,Oxygen Therapy,Yes,No,0,38
+2328,3371,Therapy,Pulmonary Rehabilitation,Yes,No,0,44
+2329,3370,Drug,Steroids,Yes,Yes,17,0
+2329,3444,Drug,Creatine,Yes,No,1,0
+2329,3335,Therapy,Physical Therapy,Yes,No,0,41
+2329,3426,Therapy,Occupational Therapy,Yes,No,0,45
+2330,3335,Therapy,Physical Therapy,Yes,No,0,19
+2331,3697,Drug,Decongestants,Yes,Yes,1,0
+2331,3688,Drug,Amoxicillin,Yes,No,1,0
+2331,3698,Surgery,Sinus Surgery,Yes,Yes,0,0
+2332,3416,Drug,Riluzole,Yes,Yes,3,0
+2332,3417,Drug,Edaravone,Yes,Yes,18,0
+2332,3335,Therapy,Physical Therapy,Yes,No,0,53
+2333,3420,Drug,Antipsychotics,No,Yes,3,0
+2333,3419,Drug,Tetrabenazine,Yes,Yes,2,0
+2333,3418,Therapy,Speech Therapy,Yes,No,0,45
+2333,3335,Therapy,Physical Therapy,Yes,No,0,37
+2334,3388,Drug,Methotrexate,Yes,No,1,0
+2334,3453,Drug,Biologics,Yes,Yes,7,0
+2334,3454,Therapy,UV Light Therapy,Yes,No,0,31
+2335,3617,Drug,5-Fluorouracil,Yes,Yes,7,0
+2335,3616,Drug,Oxaliplatin,Yes,Yes,7,0
+2335,3615,Drug,Capecitabine,Yes,No,1,0
+2335,3618,Drug,Irinotecan,Yes,No,7,0
+2335,3492,Therapy,External Beam Radiation,Yes,No,0,0
+2336,3329,Drug,Diuretics,Yes,Yes,1,0
+2336,3326,Drug,Beta Blockers,Yes,No,1,0
+2336,3332,Drug,Calcium Channel Blockers,Yes,Yes,2,0
+2336,3321,Therapy,Lifestyle Changes,Yes,Yes,0,34
+2336,3338,Therapy,Exercise Therapy,Yes,No,0,37
+2337,3721,Drug,Vancomycin,No,No,20,0
+2337,3591,Drug,Ceftriaxone,Yes,No,11,0
+2337,3368,Therapy,Oxygen Therapy,Yes,Yes,0,33
+2337,3715,Therapy,Fluid Replacement,Yes,No,0,39
+2338,3371,Therapy,Pulmonary Rehabilitation,Yes,No,0,36
+2339,3594,Drug,Doxycycline,Yes,No,1,0
+2339,3688,Drug,Amoxicillin,Yes,No,1,0
+2339,3404,Therapy,Rest,Yes,No,0,0
+2340,3449,Drug,NSAIDs,No,Yes,1,0
+2340,3548,Drug,Muscle Relaxants,No,Yes,1,0
+2340,3393,Drug,Pain Relievers,Yes,No,1,0
+2340,3335,Therapy,Physical Therapy,Yes,No,0,41
+2340,3573,Surgery,Spinal Fusion Surgery,Yes,No,0,0
+2341,3321,Therapy,Lifestyle Changes,Yes,Yes,0,11
+2342,3426,Therapy,Occupational Therapy,Yes,No,0,57
+2342,3522,Drug,Allopurinol,Yes,No,1,0
+2343,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,18
+2344,3327,Drug,ACE Inhibitors,Yes,No,1,0
+2344,3325,Drug,Aspirin,No,No,1,0
+2344,3326,Drug,Beta Blockers,No,Yes,1,0
+2344,3328,Therapy,Cardiac Rehabilitation,Yes,No,0,65
+2345,3708,Therapy,Voice Therapy,Yes,No,0,36
+2346,3500,Drug,Interferon Alpha,No,Yes,23,0
+2346,3516,Surgery,Tumor Removal Surgery,Yes,No,0,0
+2346,3517,Therapy,Chemotherapy,Yes,Yes,0,41
+2347,3334,Drug,Corticosteroids,No,No,1,0
+2347,3366,Drug,Albuterol,No,No,10,0
+2347,3367,Therapy,Breathing Exercises,Yes,No,0,48
+2347,3368,Therapy,Oxygen Therapy,No,No,0,40
+2348,3573,Surgery,Spinal Fusion Surgery,Yes,No,0,0
+2348,3335,Therapy,Physical Therapy,No,Yes,0,15
+2349,3356,Drug,Hydrocortisone,Yes,Yes,1,0
+2349,3357,Drug,Fludrocortisone,Yes,No,1,0
+2349,3322,Therapy,Dietary Management,No,No,0,24
+2350,3334,Drug,Corticosteroids,Yes,No,1,0
+2350,3335,Therapy,Physical Therapy,Yes,No,0,23
+2351,3337,Drug,Statins,Yes,Yes,1,0
+2351,3327,Drug,ACE Inhibitors,No,No,1,0
+2351,3341,Drug,Heparin,No,Yes,15,0
+2351,3342,Drug,Warfarin,Yes,Yes,1,0
+2351,3325,Drug,Aspirin,Yes,Yes,1,0
+2351,3326,Drug,Beta Blockers,No,Yes,2,0
+2351,3321,Therapy,Lifestyle Changes,Yes,No,0,51
+2352,3421,Drug,Interferon Beta,No,Yes,21,0
+2352,3422,Drug,Glatiramer Acetate,No,No,21,0
+2352,3335,Therapy,Physical Therapy,No,No,0,69
+2353,3633,Surgery,Ablation Therapy,Yes,No,0,0
+2353,3397,Surgery,Liver Transplant,Yes,No,0,0
+2353,3631,Drug,Sorafenib,No,No,1,0
+2353,3632,Drug,Lenvatinib,Yes,No,2,0
+2354,3388,Drug,Methotrexate,No,No,1,0
+2354,3335,Therapy,Physical Therapy,Yes,No,0,20
+2355,3420,Drug,Antipsychotics,No,No,2,0
+2355,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,18
+2356,3657,Drug,Busulfan,Yes,No,8,0
+2356,3451,Drug,Cyclophosphamide,Yes,No,10,0
+2356,3656,Drug,Dasatinib,Yes,Yes,2,0
+2356,3482,Surgery,Bone Marrow Transplant,Yes,No,0,0
+2357,3531,Drug,SNRIs,Yes,No,2,0
+2357,3423,Drug,Antidepressants,Yes,Yes,2,0
+2357,3523,Therapy,Psychotherapy,No,No,0,0
+2358,3369,Drug,Bronchodilators,No,Yes,1,0
+2358,3368,Therapy,Oxygen Therapy,Yes,No,0,26
+2359,3465,Drug,Acyclovir,Yes,Yes,1,0
+2359,3466,Drug,Valacyclovir,Yes,No,1,0
+2360,3576,Therapy,Hearing Aids,Yes,No,0,22
+2360,3577,Therapy,Sound Therapy,Yes,Yes,0,21
+2361,3334,Drug,Corticosteroids,No,Yes,1,0
+2361,3446,Drug,Hydroxychloroquine,Yes,Yes,2,0
+2361,3335,Therapy,Physical Therapy,Yes,No,0,29
+2362,3368,Therapy,Oxygen Therapy,Yes,No,0,21
+2362,3371,Therapy,Pulmonary Rehabilitation,Yes,Yes,0,21
+2363,3423,Drug,Antidepressants,Yes,Yes,3,0
+2363,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,23
+2363,3577,Therapy,Sound Therapy,Yes,No,0,23
+2364,3334,Drug,Corticosteroids,No,Yes,1,0
+2364,3483,Drug,Immunoglobulins,No,Yes,11,0
+2364,3481,Therapy,Blood Transfusions,Yes,No,0,22
+2365,3459,Drug,Topical Steroids,Yes,No,23,0
+2365,3460,Drug,Calcineurin Inhibitors,Yes,No,1,0
+2365,3458,Therapy,Light Therapy,No,No,0,16
+2366,3335,Therapy,Physical Therapy,Yes,No,0,16
+2367,3593,Drug,Penicillin G,Yes,Yes,13,0
+2367,3594,Drug,Doxycycline,Yes,Yes,1,0
+2368,3540,Drug,Non-Stimulants,Yes,No,1,0
+2368,3539,Drug,Stimulants,No,No,2,0
+2368,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,29
+2369,3489,Drug,Cytarabine,Yes,No,11,0
+2369,3650,Drug,Daunorubicin,Yes,No,9,0
+2369,3482,Surgery,Bone Marrow Transplant,Yes,No,0,0
+2370,3491,Drug,Rituximab,Yes,Yes,10,0
+2370,3451,Drug,Cyclophosphamide,No,Yes,12,0
+2370,3370,Drug,Steroids,No,Yes,17,0
+2370,3482,Surgery,Bone Marrow Transplant,Yes,No,0,0
+2371,3546,Surgery,Spinal Surgery,Yes,No,0,0
+2371,3335,Therapy,Physical Therapy,Yes,No,0,61
+2372,3533,Drug,Benzodiazepines,No,Yes,1,0
+2372,3423,Drug,Antidepressants,Yes,Yes,2,0
+2372,3412,Therapy,Cognitive Behavioral Therapy,No,No,0,25
+2372,3523,Therapy,Psychotherapy,Yes,No,0,0
+2373,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,34
+2373,3530,Drug,SSRIs,No,No,2,0
+2373,3533,Drug,Benzodiazepines,Yes,Yes,1,0
+2374,3697,Drug,Decongestants,No,Yes,1,0
+2374,3688,Drug,Amoxicillin,Yes,Yes,1,0
+2375,3614,Surgery,Polypectomy,Yes,Yes,0,0
+2375,3391,Surgery,Colectomy,Yes,No,0,0
+2375,3618,Drug,Irinotecan,Yes,No,7,0
+2375,3617,Drug,5-Fluorouracil,Yes,No,7,0
+2375,3492,Therapy,External Beam Radiation,Yes,No,0,0
+2376,3423,Drug,Antidepressants,Yes,No,2,0
+2376,3420,Drug,Antipsychotics,Yes,Yes,2,0
+2376,3335,Therapy,Physical Therapy,Yes,No,0,66
+2376,3418,Therapy,Speech Therapy,No,No,0,62
+2377,3337,Drug,Statins,No,Yes,1,0
+2377,3325,Drug,Aspirin,Yes,Yes,1,0
+2377,3326,Drug,Beta Blockers,Yes,Yes,2,0
+2377,3323,Surgery,Angioplasty,Yes,No,0,0
+2377,3321,Therapy,Lifestyle Changes,Yes,No,0,48
+2377,3322,Therapy,Dietary Management,Yes,Yes,0,48
+2378,3541,Drug,Clonidine,No,No,1,0
+2378,3420,Drug,Antipsychotics,No,Yes,2,0
+2378,3507,Therapy,Behavioral Therapy,Yes,No,0,34
+2379,3336,Drug,Cilostazol,No,Yes,1,0
+2379,3337,Drug,Statins,Yes,Yes,1,0
+2379,3338,Therapy,Exercise Therapy,Yes,No,0,43
+2380,3479,Drug,Vitamin B12 Injections,No,Yes,10,0
+2380,3322,Therapy,Dietary Management,No,No,0,48
+2381,3382,Drug,H2 Blockers,No,No,1,0
+2381,3321,Therapy,Lifestyle Changes,Yes,No,0,34
+2382,3699,Drug,Corticosteroid Nasal Spray,Yes,No,19,0
+2383,3335,Therapy,Physical Therapy,Yes,No,0,35
+2384,3372,Drug,Antibiotics,No,No,11,0
+2384,3483,Drug,Immunoglobulins,Yes,No,13,0
+2385,3622,Surgery,Wide Local Excision,Yes,Yes,0,0
+2385,3623,Drug,Dabrafenib,Yes,No,1,0
+2385,3624,Drug,Trametinib,Yes,Yes,1,0
+2385,3492,Therapy,External Beam Radiation,Yes,No,0,0
+2386,3420,Drug,Antipsychotics,Yes,No,2,0
+2386,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,24
+2387,3362,Drug,Orlistat,Yes,No,2,0
+2387,3363,Drug,Phentermine,Yes,Yes,1,0
+2387,3345,Therapy,Physical Activity,Yes,No,0,29
+2387,3322,Therapy,Dietary Management,Yes,No,0,32
+2388,3321,Therapy,Lifestyle Changes,Yes,No,0,36
+2388,3397,Surgery,Liver Transplant,Yes,No,0,0
+2389,3434,Drug,Ibuprofen,Yes,Yes,1,0
+2389,3333,Drug,Penicillin,No,No,12,0
+2390,3718,Drug,Rifampin,No,No,2,0
+2390,3719,Drug,Ethambutol,Yes,No,2,0
+2390,3717,Drug,Isoniazid,No,No,2,0
+2390,3720,Therapy,Directly Observed Therapy (DOT),Yes,Yes,0,73
+2391,3329,Drug,Diuretics,Yes,No,1,0
+2391,3326,Drug,Beta Blockers,Yes,Yes,2,0
+2391,3322,Therapy,Dietary Management,Yes,No,0,64
+2391,3397,Surgery,Liver Transplant,Yes,No,0,0
+2392,3580,Drug,Tenofovir,No,Yes,2,0
+2392,3581,Drug,Efavirenz,No,No,2,0
+2392,3579,Drug,Antiretroviral Therapy (ART),Yes,No,2,0
+2392,3582,Therapy,Counseling,Yes,No,0,73
+2393,3393,Drug,Pain Relievers,Yes,Yes,1,0
+2393,3449,Drug,NSAIDs,Yes,Yes,1,0
+2393,3335,Therapy,Physical Therapy,Yes,No,0,28
+2393,3573,Surgery,Spinal Fusion Surgery,Yes,No,0,0
+2394,3639,Surgery,Gastrectomy,Yes,Yes,0,0
+2394,3617,Drug,5-Fluorouracil,Yes,Yes,8,0
+2394,3641,Drug,Trastuzumab,No,No,9,0
+2394,3642,Drug,Ramucirumab,No,Yes,8,0
+2394,3492,Therapy,External Beam Radiation,Yes,No,0,0
+2395,3500,Drug,Interferon Alpha,Yes,No,23,0
+2395,3321,Therapy,Lifestyle Changes,No,No,0,80
+2396,3619,Surgery,Excisional Surgery,Yes,No,0,0
+2396,3620,Surgery,Mohs Surgery,Yes,No,0,0
+2396,3584,Drug,Imiquimod,Yes,Yes,23,0
+2396,3621,Drug,Fluorouracil,Yes,No,10,0
+2396,3492,Therapy,External Beam Radiation,Yes,No,0,0
+2397,3423,Drug,Antidepressants,Yes,Yes,2,0
+2397,3393,Drug,Pain Relievers,No,No,1,0
+2397,3338,Therapy,Exercise Therapy,Yes,No,0,32
+2398,3412,Therapy,Cognitive Behavioral Therapy,Yes,Yes,0,19
+2399,3416,Drug,Riluzole,No,No,2,0
+2399,3417,Drug,Edaravone,Yes,Yes,18,0
+2399,3335,Therapy,Physical Therapy,Yes,No,0,62
+2399,3418,Therapy,Speech Therapy,Yes,No,0,63
+2400,3372,Drug,Antibiotics,Yes,Yes,11,0
+2400,3467,Therapy,Supportive Care,Yes,No,0,25
+2401,3357,Drug,Fludrocortisone,Yes,No,1,0
+2401,3356,Drug,Hydrocortisone,No,Yes,1,0
+2401,3322,Therapy,Dietary Management,Yes,No,0,17
+2402,3334,Drug,Corticosteroids,No,No,1,0
+2402,3578,Therapy,Topical Treatments,Yes,No,0,19
+2403,3548,Drug,Muscle Relaxants,No,No,2,0
+2403,3393,Drug,Pain Relievers,Yes,No,1,0
+2403,3335,Therapy,Physical Therapy,Yes,No,0,27
+2404,3344,Drug,Insulin,Yes,No,80,0
+2404,3322,Therapy,Dietary Management,Yes,No,0,30
+2405,3462,Drug,Oral Antibiotics,No,No,1,0
+2405,3461,Drug,Topical Antibiotics,Yes,Yes,18,0
+2405,3472,Therapy,Wound Care,Yes,No,0,24
+2406,3479,Drug,Vitamin B12 Injections,Yes,No,10,0
+2406,3322,Therapy,Dietary Management,No,No,0,21
+2407,3562,Drug,Antifungal,Yes,No,1,0
+2407,3372,Drug,Antibiotics,Yes,Yes,10,0
+2407,3555,Therapy,Lifestyle Modifications,No,No,0,23
+2408,3329,Drug,Diuretics,No,No,1,0
+2408,3326,Drug,Beta Blockers,No,Yes,2,0
+2408,3322,Therapy,Dietary Management,No,No,0,50
+2408,3397,Surgery,Liver Transplant,Yes,No,0,0
+2409,3472,Therapy,Wound Care,Yes,No,0,30
+2410,3334,Drug,Corticosteroids,Yes,No,1,0
+2410,3367,Therapy,Breathing Exercises,Yes,No,0,33
+2410,3368,Therapy,Oxygen Therapy,Yes,No,0,31
+2411,3455,Drug,Antihistamines,Yes,Yes,1,0
+2411,3699,Drug,Corticosteroid Nasal Spray,Yes,Yes,39,0
+2411,3614,Surgery,Polypectomy,Yes,Yes,0,0
+2412,3688,Drug,Amoxicillin,Yes,No,1,0
+2412,3333,Drug,Penicillin,Yes,No,15,0
+2412,3404,Therapy,Rest,Yes,No,0,0
+2412,3711,Therapy,Fluids,No,No,0,0
+2413,3396,Surgery,Cholecystectomy,Yes,No,0,0
+2413,3322,Therapy,Dietary Management,Yes,No,0,51
+2414,3426,Therapy,Occupational Therapy,Yes,No,0,43
+2415,3515,Drug,Ezetimibe,No,No,1,0
+2415,3337,Drug,Statins,No,No,1,0
+2415,3322,Therapy,Dietary Management,No,No,0,23
+2416,3594,Drug,Doxycycline,No,No,1,0
+2416,3335,Therapy,Physical Therapy,Yes,No,0,25
+2416,3404,Therapy,Rest,Yes,No,0,0
+2417,3362,Drug,Orlistat,No,Yes,3,0
+2417,3363,Drug,Phentermine,Yes,Yes,1,0
+2417,3364,Surgery,Gastric Bypass Surgery,No,No,0,0
+2417,3322,Therapy,Dietary Management,Yes,No,0,36
+2417,3345,Therapy,Physical Activity,No,No,0,35
+2418,3323,Surgery,Angioplasty,Yes,No,0,0
+2418,3324,Surgery,Coronary Artery Bypass Surgery,No,No,0,0
+2418,3326,Drug,Beta Blockers,Yes,Yes,1,0
+2418,3327,Drug,ACE Inhibitors,Yes,Yes,1,0
+2418,3325,Drug,Aspirin,Yes,Yes,1,0
+2418,3328,Therapy,Cardiac Rehabilitation,Yes,No,0,79
+2419,3411,Drug,Memantine,Yes,Yes,2,0
+2419,3410,Drug,Donepezil,No,Yes,2,0
+2419,3405,Therapy,Physical Exercise,Yes,No,0,73
+2419,3412,Therapy,Cognitive Behavioral Therapy,No,No,0,76
+2420,3433,Drug,Acetaminophen,Yes,No,1,0
+2420,3714,Drug,Electrolyte Solutions,No,No,8,0
+2420,3715,Therapy,Fluid Replacement,Yes,No,0,26
+2421,3728,Drug,Praziquantel,Yes,No,1,0
+2421,3715,Therapy,Fluid Replacement,Yes,No,0,23
+2422,3548,Drug,Muscle Relaxants,No,Yes,1,0
+2422,3449,Drug,NSAIDs,Yes,Yes,1,0
+2422,3393,Drug,Pain Relievers,Yes,No,1,0
+2422,3335,Therapy,Physical Therapy,Yes,No,0,16
+2423,3431,Drug,Ethosuximide,Yes,Yes,1,0
+2423,3428,Drug,Valproate,Yes,No,2,0
+2424,3335,Therapy,Physical Therapy,No,No,0,37
+2425,3378,Drug,Pirfenidone,Yes,Yes,3,0
+2425,3379,Drug,Nintedanib,Yes,Yes,2,0
+2425,3371,Therapy,Pulmonary Rehabilitation,Yes,No,0,31
+2426,3407,Therapy,Phlebotomy,Yes,No,0,0
+2426,3485,Drug,Deferoxamine,Yes,Yes,16,0
+2427,3483,Drug,Immunoglobulins,Yes,Yes,11,0
+2427,3372,Drug,Antibiotics,Yes,No,11,0
+2427,3482,Surgery,Bone Marrow Transplant,Yes,Yes,0,0
+2428,3465,Drug,Acyclovir,No,No,1,0
+2428,3467,Therapy,Supportive Care,No,No,0,22
+2429,3381,Drug,Proton Pump Inhibitors (PPIs),Yes,No,1,0
+2429,3380,Drug,Antacids,Yes,Yes,1,0
+2429,3321,Therapy,Lifestyle Changes,No,No,0,32
+2430,3508,Therapy,Phenylalanine-Free Diet,No,No,0,0
+2431,3372,Drug,Antibiotics,Yes,No,12,0
+2431,3400,Therapy,IV Fluids,Yes,No,0,0
+2431,3467,Therapy,Supportive Care,Yes,Yes,0,33
+2432,3393,Drug,Pain Relievers,No,Yes,1,0
+2432,3556,Drug,GnRH Agonists,No,No,7,0
+2433,3420,Drug,Antipsychotics,Yes,Yes,3,0
+2433,3538,Drug,Mood Stabilizers,Yes,Yes,3,0
+2433,3423,Drug,Antidepressants,Yes,Yes,2,0
+2433,3523,Therapy,Psychotherapy,Yes,No,0,0
+2433,3582,Therapy,Counseling,Yes,No,0,44
+2433,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,44
+2434,3322,Therapy,Dietary Management,Yes,No,0,27
+2435,3651,Drug,Mitoxantrone,Yes,Yes,10,0
+2435,3650,Drug,Daunorubicin,Yes,No,10,0
+2435,3652,Drug,Idarubicin,Yes,Yes,8,0
+2435,3482,Surgery,Bone Marrow Transplant,Yes,No,0,0
+2436,3733,Drug,Itraconazole,Yes,No,2,0
+2436,3734,Surgery,Surgical Resection,Yes,No,0,0
+2437,3337,Drug,Statins,Yes,Yes,2,0
+2437,3326,Drug,Beta Blockers,Yes,Yes,2,0
+2437,3325,Drug,Aspirin,Yes,Yes,1,0
+2437,3327,Drug,ACE Inhibitors,Yes,No,2,0
+2437,3324,Surgery,Coronary Artery Bypass Surgery,Yes,No,0,0
+2437,3323,Surgery,Angioplasty,Yes,No,0,0
+2437,3321,Therapy,Lifestyle Changes,Yes,No,0,37
+2437,3322,Therapy,Dietary Management,Yes,No,0,40
+2438,3332,Drug,Calcium Channel Blockers,Yes,No,2,0
+2438,3326,Drug,Beta Blockers,Yes,Yes,2,0
+2438,3327,Drug,ACE Inhibitors,Yes,Yes,2,0
+2438,3338,Therapy,Exercise Therapy,No,No,0,73
+2438,3321,Therapy,Lifestyle Changes,Yes,No,0,74
+2439,3484,Drug,Hydroxyurea,Yes,No,1,0
+2439,3485,Drug,Deferoxamine,Yes,Yes,16,0
+2439,3481,Therapy,Blood Transfusions,Yes,No,0,19
+2439,3482,Surgery,Bone Marrow Transplant,Yes,Yes,0,0
+2440,3333,Drug,Penicillin,Yes,No,12,0
+2440,3335,Therapy,Physical Therapy,Yes,No,0,16
+2441,3451,Drug,Cyclophosphamide,Yes,No,10,0
+2441,3491,Drug,Rituximab,Yes,No,7,0
+2441,3490,Drug,Doxorubicin,Yes,No,10,0
+2441,3370,Drug,Steroids,No,Yes,14,0
+2441,3492,Therapy,External Beam Radiation,Yes,No,0,0
+2442,3335,Therapy,Physical Therapy,Yes,No,0,31
+2442,3426,Therapy,Occupational Therapy,Yes,No,0,31
+2443,3451,Drug,Cyclophosphamide,Yes,No,10,0
+2443,3334,Drug,Corticosteroids,Yes,No,1,0
+2443,3335,Therapy,Physical Therapy,Yes,No,0,27
+2444,3347,Drug,Sulfonylureas,Yes,No,2,0
+2444,3346,Drug,Metformin,No,No,3,0
+2444,3344,Drug,Insulin,Yes,Yes,39,0
+2444,3338,Therapy,Exercise Therapy,Yes,No,0,43
+2444,3322,Therapy,Dietary Management,Yes,No,0,50
+2444,3321,Therapy,Lifestyle Changes,Yes,No,0,45
+2445,3455,Drug,Antihistamines,Yes,Yes,1,0
+2445,3334,Drug,Corticosteroids,Yes,Yes,1,0
+2445,3456,Therapy,Moisturizing Therapy,Yes,No,0,28
+2446,3434,Drug,Ibuprofen,Yes,Yes,1,0
+2446,3710,Drug,Oseltamivir,No,Yes,1,0
+2446,3404,Therapy,Rest,Yes,No,0,0
+2446,3711,Therapy,Fluids,Yes,No,0,0
+2447,3490,Drug,Doxorubicin,Yes,No,11,0
+2447,3451,Drug,Cyclophosphamide,Yes,No,12,0
+2447,3370,Drug,Steroids,No,No,16,0
+2447,3491,Drug,Rituximab,Yes,Yes,8,0
+2447,3492,Therapy,External Beam Radiation,Yes,No,0,0
+2448,3347,Drug,Sulfonylureas,Yes,No,3,0
+2448,3346,Drug,Metformin,Yes,No,3,0
+2448,3322,Therapy,Dietary Management,Yes,No,0,39
+2448,3345,Therapy,Physical Activity,Yes,Yes,0,38
+2449,3580,Drug,Tenofovir,No,No,3,0
+2449,3579,Drug,Antiretroviral Therapy (ART),Yes,No,3,0
+2449,3582,Therapy,Counseling,Yes,No,0,41
+2449,3583,Therapy,Nutritional Support,Yes,No,0,46
+2450,3457,Drug,Topical Retinoids,Yes,No,23,0
+2450,3372,Drug,Antibiotics,Yes,No,10,0
+2450,3458,Therapy,Light Therapy,Yes,No,0,25
+2451,3405,Therapy,Physical Exercise,Yes,No,0,30
+2451,3322,Therapy,Dietary Management,Yes,No,0,28
+2452,3344,Drug,Insulin,No,Yes,39,0
+2452,3394,Surgery,Pancreatic Surgery,No,No,0,0
+2452,3468,Therapy,Pain Management,No,No,0,62
+2452,3321,Therapy,Lifestyle Changes,Yes,No,0,57
+2453,3410,Drug,Donepezil,Yes,Yes,2,0
+2453,3411,Drug,Memantine,Yes,Yes,3,0
+2453,3405,Therapy,Physical Exercise,Yes,No,0,53
+2453,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,48
+2454,3384,Drug,Laxatives,Yes,Yes,1,0
+2454,3322,Therapy,Dietary Management,Yes,Yes,0,17
+2455,3374,Therapy,CPAP Therapy,Yes,No,0,0
+2456,3697,Drug,Decongestants,No,Yes,1,0
+2456,3434,Drug,Ibuprofen,No,Yes,1,0
+2456,3711,Therapy,Fluids,No,No,0,0
+2457,3388,Drug,Methotrexate,Yes,Yes,1,0
+2457,3454,Therapy,UV Light Therapy,No,No,0,15
+2458,3449,Drug,NSAIDs,Yes,No,1,0
+2458,3334,Drug,Corticosteroids,No,No,1,0
+2458,3393,Drug,Pain Relievers,No,Yes,1,0
+2458,3335,Therapy,Physical Therapy,Yes,No,0,55
+2458,3338,Therapy,Exercise Therapy,No,No,0,50
+2459,3500,Drug,Interferon Alpha,Yes,Yes,23,0
+2459,3484,Drug,Hydroxyurea,No,No,2,0
+2459,3407,Therapy,Phlebotomy,Yes,No,0,0
+2460,3358,Drug,Octreotide,Yes,No,31,0
+2460,3359,Drug,Pegvisomant,Yes,Yes,30,0
+2460,3361,Therapy,Stereotactic Radiosurgery,Yes,No,0,0
+2461,3333,Drug,Penicillin,No,No,13,0
+2461,3688,Drug,Amoxicillin,Yes,No,1,0
+2461,3404,Therapy,Rest,Yes,No,0,0
+2461,3711,Therapy,Fluids,Yes,No,0,0
+2462,3326,Drug,Beta Blockers,No,No,1,0
+2462,3327,Drug,ACE Inhibitors,No,No,1,0
+2462,3321,Therapy,Lifestyle Changes,Yes,No,0,41
+2462,3328,Therapy,Cardiac Rehabilitation,Yes,No,0,42
+2462,3339,Surgery,Implantable Cardioverter Defibrillator (ICD),No,Yes,0,0
+2462,3340,Surgery,Heart Transplant,Yes,No,0,0
+2463,3667,Surgery,Root Canal,Yes,No,0,0
+2463,3372,Drug,Antibiotics,Yes,Yes,10,0
+2464,3423,Drug,Antidepressants,Yes,Yes,3,0
+2464,3533,Drug,Benzodiazepines,No,No,1,0
+2464,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,29
+2464,3532,Therapy,Relaxation Therapy,Yes,No,0,31
+2464,3523,Therapy,Psychotherapy,No,No,0,0
+2465,3413,Drug,Levodopa,Yes,Yes,2,0
+2465,3414,Drug,Dopamine Agonists,Yes,No,2,0
+2465,3335,Therapy,Physical Therapy,Yes,No,0,40
+2466,3373,Drug,Antiviral Medications,No,Yes,14,0
+2466,3404,Therapy,Rest,Yes,Yes,0,0
+2467,3334,Drug,Corticosteroids,No,No,1,0
+2467,3388,Drug,Methotrexate,No,Yes,1,0
+2467,3335,Therapy,Physical Therapy,Yes,Yes,0,42
+2467,3447,Surgery,Joint Replacement,Yes,No,0,0
+2468,3321,Therapy,Lifestyle Changes,Yes,No,0,39
+2469,3467,Therapy,Supportive Care,Yes,No,0,23
+2470,3463,Drug,Antifungal Shampoo,Yes,No,21,0
+2470,3459,Drug,Topical Steroids,Yes,Yes,23,0
+2470,3458,Therapy,Light Therapy,Yes,No,0,17
+2471,None,None,None,No,No,0,0
+2472,3358,Drug,Octreotide,No,No,30,0
+2472,3359,Drug,Pegvisomant,No,Yes,28,0
+2472,3361,Therapy,Stereotactic Radiosurgery,Yes,No,0,0
+2473,3326,Drug,Beta Blockers,Yes,No,2,0
+2473,3327,Drug,ACE Inhibitors,Yes,No,2,0
+2473,3325,Drug,Aspirin,No,Yes,1,0
+2473,3337,Drug,Statins,No,No,1,0
+2473,3322,Therapy,Dietary Management,Yes,No,0,35
+2474,None,None,None,No,No,0,0
+2475,3498,Drug,Bortezomib,No,No,10,0
+2475,3497,Drug,Melphalan,Yes,No,2,0
+2475,3495,Drug,Lenalidomide,Yes,No,3,0
+2475,3496,Drug,Dexamethasone,Yes,No,1,0
+2476,3337,Drug,Statins,Yes,Yes,1,0
+2476,3325,Drug,Aspirin,Yes,Yes,1,0
+2476,3326,Drug,Beta Blockers,Yes,Yes,1,0
+2476,3327,Drug,ACE Inhibitors,Yes,No,1,0
+2476,3322,Therapy,Dietary Management,Yes,No,0,61
+2477,3502,Drug,Decitabine,No,No,18,0
+2477,3501,Drug,Azacitidine,No,No,18,0
+2477,3481,Therapy,Blood Transfusions,No,No,0,48
+2477,3499,Surgery,Stem Cell Transplant,Yes,No,0,0
+2478,3417,Drug,Edaravone,Yes,No,17,0
+2478,3416,Drug,Riluzole,No,No,3,0
+2478,3418,Therapy,Speech Therapy,Yes,No,0,37
+2479,3546,Surgery,Spinal Surgery,Yes,No,0,0
+2479,3335,Therapy,Physical Therapy,Yes,No,0,46
+2480,3435,Drug,Sumatriptan,Yes,No,1,0
+2480,3368,Drug,Oxygen Therapy,Yes,Yes,1,0
+2480,3437,Therapy,Relaxation Techniques,Yes,No,0,28
+2481,3329,Drug,Diuretics,No,No,1,0
+2481,3327,Drug,ACE Inhibitors,No,No,1,0
+2481,3328,Therapy,Cardiac Rehabilitation,Yes,No,0,53
+2482,3446,Drug,Hydroxychloroquine,Yes,Yes,2,0
+2482,3334,Drug,Corticosteroids,Yes,Yes,1,0
+2482,3335,Therapy,Physical Therapy,Yes,No,0,33
+2483,3370,Drug,Steroids,Yes,Yes,14,0
+2483,3480,Drug,Eltrombopag,Yes,No,1,0
+2483,3504,Therapy,Platelet Transfusions,Yes,No,0,25
+2484,3346,Drug,Metformin,Yes,Yes,2,0
+2484,3347,Drug,Sulfonylureas,Yes,Yes,2,0
+2484,3344,Drug,Insulin,Yes,Yes,71,0
+2484,3322,Therapy,Dietary Management,No,No,0,33
+2485,3574,Surgery,Discectomy,Yes,No,0,0
+2485,3335,Therapy,Physical Therapy,Yes,No,0,39
+2486,3372,Drug,Antibiotics,Yes,No,10,0
+2486,3395,Therapy,Hydration Therapy,No,Yes,0,21
+2487,3478,Drug,Iron Supplements,Yes,No,3,0
+2487,3322,Therapy,Dietary Management,Yes,No,0,27
+2488,3594,Drug,Doxycycline,Yes,No,1,0
+2488,3722,Drug,Zinc Supplements,Yes,Yes,1,0
+2488,3715,Therapy,Fluid Replacement,Yes,No,0,32
+2489,3562,Drug,Antifungal,Yes,No,1,0
+2489,3372,Drug,Antibiotics,No,Yes,11,0
+2489,3555,Therapy,Lifestyle Modifications,Yes,No,0,14
+2490,3510,Drug,Onasemnogene,No,Yes,13,0
+2490,3509,Drug,Nusinersen,Yes,No,26,0
+2490,3335,Therapy,Physical Therapy,No,No,0,42
+2491,3322,Therapy,Dietary Management,No,No,0,32
+2491,3405,Therapy,Physical Exercise,Yes,No,0,33
+2492,3564,Drug,Calcium Supplements,No,No,2,0
+2492,3335,Therapy,Physical Therapy,Yes,No,0,44
+2493,3449,Drug,NSAIDs,Yes,No,1,0
+2493,3334,Drug,Corticosteroids,Yes,No,1,0
+2493,3335,Therapy,Physical Therapy,Yes,No,0,26
+2494,3429,Surgery,Lobectomy,No,Yes,0,0
+2494,3603,Surgery,Segmentectomy,Yes,No,0,0
+2494,3608,Drug,Paclitaxel,Yes,No,8,0
+2494,3606,Drug,Pembrolizumab,Yes,No,9,0
+2494,3604,Drug,Cisplatin,No,Yes,8,0
+2494,3605,Drug,Etoposide,No,Yes,9,0
+2494,3607,Drug,Carboplatin,Yes,No,9,0
+2494,3609,Therapy,Stereotactic Body Radiation Therapy (SBRT),No,No,0,0
+2495,3466,Drug,Valacyclovir,Yes,Yes,1,0
+2495,3467,Therapy,Supportive Care,No,No,0,19
+2496,3348,Drug,Methimazole,Yes,No,1,0
+2496,3326,Drug,Beta Blockers,Yes,Yes,1,0
+2496,3349,Drug,Propylthiouracil,No,No,1,0
+2496,3351,Drug,Levothyroxine,No,Yes,2,0
+2496,3350,Therapy,Radioactive Iodine Therapy,Yes,No,0,0
+2497,3334,Drug,Corticosteroids,No,Yes,1,0
+2497,3449,Drug,NSAIDs,Yes,No,1,0
+2497,3335,Therapy,Physical Therapy,Yes,No,0,19
+2497,3447,Surgery,Joint Replacement,Yes,Yes,0,0
+2498,3589,Drug,Sofosbuvir,Yes,Yes,2,0
+2498,3587,Drug,Antiviral Therapy,Yes,Yes,1,0
+2498,3590,Drug,Ribavirin,Yes,No,2,0
+2499,None,None,None,No,No,0,0
+2500,3461,Drug,Topical Antibiotics,No,No,15,0
+2500,3462,Drug,Oral Antibiotics,Yes,No,1,0
+2500,3458,Therapy,Light Therapy,Yes,No,0,14
+2501,3431,Drug,Ethosuximide,No,Yes,2,0
+2501,3428,Drug,Valproate,Yes,No,2,0
+2502,3435,Drug,Sumatriptan,Yes,Yes,1,0
+2502,3436,Drug,Ergotamine,No,No,1,0
+2502,3437,Therapy,Relaxation Techniques,No,No,0,45
+2503,3334,Drug,Corticosteroids,No,Yes,1,0
+2503,3455,Drug,Antihistamines,Yes,Yes,1,0
+2503,3456,Therapy,Moisturizing Therapy,Yes,No,0,21
+2504,3327,Drug,ACE Inhibitors,No,No,1,0
+2504,3329,Drug,Diuretics,Yes,Yes,1,0
+2504,3338,Therapy,Exercise Therapy,No,No,0,32
+2505,3512,Therapy,Sun Protection Counseling,Yes,Yes,0,13
+2505,3511,Therapy,Vision Therapy,Yes,No,0,15
+2505,3514,Drug,Vitamin D Supplementation,Yes,Yes,1,0
+2505,3513,Drug,Sunscreen,No,No,33,0
+2506,3334,Drug,Corticosteroids,Yes,No,1,0
+2506,3446,Drug,Hydroxychloroquine,Yes,Yes,3,0
+2506,3335,Therapy,Physical Therapy,No,No,0,39
+2507,3449,Drug,NSAIDs,Yes,No,1,0
+2507,3435,Drug,Sumatriptan,No,Yes,1,0
+2507,3436,Drug,Ergotamine,Yes,No,1,0
+2507,3393,Drug,Pain Relievers,Yes,No,1,0
+2507,3437,Therapy,Relaxation Techniques,Yes,No,0,31
+2508,3322,Therapy,Dietary Management,No,No,0,43
+2508,3321,Therapy,Lifestyle Changes,Yes,No,0,40
+2508,3397,Surgery,Liver Transplant,Yes,No,0,0
+2509,3509,Drug,Nusinersen,Yes,No,28,0
+2509,3510,Drug,Onasemnogene,Yes,No,12,0
+2509,3335,Therapy,Physical Therapy,Yes,No,0,44
+2510,3480,Drug,Eltrombopag,Yes,Yes,1,0
+2510,3377,Drug,Immunosuppressants,Yes,Yes,3,0
+2510,3481,Therapy,Blood Transfusions,Yes,No,0,35
+2510,3482,Surgery,Bone Marrow Transplant,Yes,No,0,0
+2511,3344,Drug,Insulin,Yes,No,40,0
+2511,3346,Drug,Metformin,Yes,Yes,2,0
+2511,3347,Drug,Sulfonylureas,Yes,Yes,2,0
+2511,3321,Therapy,Lifestyle Changes,No,No,0,47
+2511,3338,Therapy,Exercise Therapy,Yes,No,0,54
+2512,3393,Drug,Pain Relievers,No,Yes,1,0
+2512,3445,Drug,Pregabalin,Yes,No,2,0
+2512,3423,Drug,Antidepressants,No,No,2,0
+2512,3338,Therapy,Exercise Therapy,Yes,No,0,29
+2512,3412,Therapy,Cognitive Behavioral Therapy,No,Yes,0,34
+2513,3534,Therapy,Exposure Therapy,Yes,No,0,27
+2513,3412,Therapy,Cognitive Behavioral Therapy,Yes,Yes,0,26
+2513,3530,Drug,SSRIs,Yes,No,2,0
+2513,3537,Drug,Prazosin,No,Yes,2,0
+2514,3495,Drug,Lenalidomide,Yes,No,2,0
+2514,3496,Drug,Dexamethasone,No,Yes,1,0
+2514,3499,Surgery,Stem Cell Transplant,Yes,No,0,0
+2515,3382,Drug,H2 Blockers,No,Yes,2,0
+2515,3321,Therapy,Lifestyle Changes,No,No,0,23
+2516,3333,Drug,Penicillin,Yes,No,12,0
+2516,3434,Drug,Ibuprofen,No,No,1,0
+2516,3704,Therapy,Saltwater Gargle,Yes,No,0,0
+2517,3500,Drug,Interferon Alpha,No,No,21,0
+2517,3517,Therapy,Chemotherapy,Yes,No,0,70
+2517,3492,Therapy,External Beam Radiation,No,No,0,0
+2517,3321,Therapy,Lifestyle Changes,Yes,No,0,67
+2518,9998,Therapy,Lifestyle Changes,No,No,0,57
+2519,3563,Drug,Bisphosphonates,No,No,13,0
+2519,3335,Therapy,Physical Therapy,Yes,No,0,18
+2520,3423,Drug,Antidepressants,Yes,Yes,2,0
+2520,3523,Therapy,Psychotherapy,Yes,No,0,0
+2521,3621,Drug,Fluorouracil,Yes,Yes,8,0
+2521,3584,Drug,Imiquimod,Yes,No,24,0
+2522,3344,Drug,Insulin,Yes,Yes,69,0
+2522,3394,Surgery,Pancreatic Surgery,Yes,Yes,0,0
+2522,3321,Therapy,Lifestyle Changes,Yes,No,0,23
+2523,3548,Drug,Muscle Relaxants,Yes,Yes,2,0
+2523,3335,Therapy,Physical Therapy,Yes,No,0,24
+2523,3549,Surgery,Orthopedic Surgery,Yes,No,0,0
+2524,3534,Therapy,Exposure Therapy,Yes,No,0,20
+2524,3533,Drug,Benzodiazepines,No,No,1,0
+2524,3530,Drug,SSRIs,Yes,No,2,0
+2525,3486,Drug,Clotting Factor Concentrates,Yes,No,6,0
+2525,3487,Drug,Desmopressin,Yes,Yes,1,0
+2525,3335,Therapy,Physical Therapy,Yes,No,0,33
+2526,3559,Drug,Oral Contraceptives,No,No,1,0
+2526,3393,Drug,Pain Relievers,Yes,Yes,1,0
+2526,3560,Surgery,Cystectomy,Yes,Yes,0,0
+2527,3372,Drug,Antibiotics,Yes,No,11,0
+2527,3393,Drug,Pain Relievers,Yes,Yes,1,0
+2527,3394,Surgery,Pancreatic Surgery,Yes,No,0,0
+2527,3322,Therapy,Dietary Management,Yes,No,0,31
+2528,3595,Drug,Metronidazole,Yes,No,1,0
+2528,3596,Drug,Clindamycin,No,No,1,0
+2529,3552,Drug,Hormone Therapy,Yes,Yes,1,0
+2529,3393,Drug,Pain Relievers,Yes,Yes,1,0
+2529,3553,Surgery,Laparoscopy,Yes,No,0,0
+2530,3393,Drug,Pain Relievers,Yes,Yes,1,0
+2530,3559,Drug,Oral Contraceptives,No,Yes,1,0
+2530,3560,Surgery,Cystectomy,Yes,No,0,0
+2531,3335,Therapy,Physical Therapy,Yes,No,0,30
+2532,3377,Drug,Immunosuppressants,No,No,2,0
+2532,3480,Drug,Eltrombopag,Yes,Yes,1,0
+2532,3481,Therapy,Blood Transfusions,Yes,No,0,47
+2532,3482,Surgery,Bone Marrow Transplant,Yes,No,0,0
+2533,3560,Surgery,Cystectomy,Yes,No,0,0
+2533,3637,Surgery,Transurethral Resection of Bladder Tumor (TURBT),Yes,No,0,0
+2533,3627,Drug,Gemcitabine,Yes,Yes,9,0
+2533,3638,Drug,Atezolizumab,Yes,Yes,8,0
+2533,3492,Therapy,External Beam Radiation,Yes,No,0,0
+2534,3374,Therapy,CPAP Therapy,No,Yes,0,0
+2534,3375,Surgery,Uvulopalatopharyngoplasty (UPPP),Yes,No,0,0
+2534,3376,Surgery,Jaw Surgery,Yes,No,0,0
+2535,3594,Drug,Doxycycline,Yes,No,1,0
+2535,3688,Drug,Amoxicillin,No,No,1,0
+2535,3335,Therapy,Physical Therapy,Yes,No,0,26
+2535,3404,Therapy,Rest,Yes,No,0,0
+2536,3411,Drug,Memantine,Yes,No,2,0
+2536,3410,Drug,Donepezil,Yes,No,2,0
+2536,3420,Drug,Antipsychotics,No,Yes,2,0
+2536,3467,Therapy,Supportive Care,Yes,No,0,41
+2537,3349,Drug,Propylthiouracil,Yes,No,1,0
+2537,3348,Drug,Methimazole,No,No,2,0
+2537,3351,Drug,Levothyroxine,Yes,No,2,0
+2537,3326,Drug,Beta Blockers,Yes,No,2,0
+2537,3350,Therapy,Radioactive Iodine Therapy,No,No,0,0
+2538,3680,Drug,Ranibizumab,Yes,Yes,3,0
+2538,3681,Drug,Aflibercept,Yes,Yes,5,0
+2538,3682,Therapy,Photodynamic Therapy,Yes,Yes,0,0
+2539,3457,Drug,Topical Retinoids,Yes,No,23,0
+2539,3458,Therapy,Light Therapy,Yes,No,0,16
+2540,3372,Drug,Antibiotics,Yes,Yes,10,0
+2540,3553,Surgery,Laparoscopy,Yes,No,0,0
+2541,3576,Therapy,Hearing Aids,Yes,No,0,40
+2542,3423,Drug,Antidepressants,Yes,No,3,0
+2542,3533,Drug,Benzodiazepines,No,Yes,1,0
+2542,3532,Therapy,Relaxation Therapy,Yes,No,0,43
+2543,3479,Drug,Vitamin B12 Injections,No,Yes,10,0
+2543,3322,Therapy,Dietary Management,Yes,No,0,27
+2544,3420,Drug,Antipsychotics,Yes,Yes,4,0
+2544,3423,Drug,Antidepressants,Yes,Yes,3,0
+2544,3538,Drug,Mood Stabilizers,Yes,Yes,2,0
+2544,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,23
+2545,3324,Surgery,Coronary Artery Bypass Surgery,Yes,No,0,0
+2545,3326,Drug,Beta Blockers,No,Yes,2,0
+2545,3325,Drug,Aspirin,Yes,No,1,0
+2545,3327,Drug,ACE Inhibitors,No,Yes,1,0
+2545,3328,Therapy,Cardiac Rehabilitation,Yes,No,0,90
+2546,3366,Drug,Albuterol,Yes,No,13,0
+2546,3334,Drug,Corticosteroids,Yes,Yes,1,0
+2546,3367,Therapy,Breathing Exercises,No,No,0,38
+2547,3372,Drug,Antibiotics,Yes,No,13,0
+2547,3483,Drug,Immunoglobulins,Yes,No,12,0
+2547,3482,Surgery,Bone Marrow Transplant,Yes,Yes,0,0
+2548,3457,Drug,Topical Retinoids,Yes,No,23,0
+2548,3458,Therapy,Light Therapy,Yes,No,0,7
+2549,3446,Drug,Hydroxychloroquine,No,No,3,0
+2549,3335,Therapy,Physical Therapy,Yes,No,0,25
+2550,3335,Therapy,Physical Therapy,Yes,No,0,37
+2551,3487,Drug,Desmopressin,Yes,Yes,1,0
+2551,3486,Drug,Clotting Factor Concentrates,Yes,No,6,0
+2551,3335,Therapy,Physical Therapy,No,No,0,47
+2552,3393,Drug,Pain Relievers,Yes,No,1,0
+2552,3449,Drug,NSAIDs,Yes,Yes,1,0
+2552,3334,Drug,Corticosteroids,Yes,Yes,1,0
+2552,3335,Therapy,Physical Therapy,No,No,0,36
+2553,3491,Drug,Rituximab,Yes,No,7,0
+2553,3370,Drug,Steroids,No,No,14,0
+2553,3490,Drug,Doxorubicin,Yes,No,10,0
+2553,3451,Drug,Cyclophosphamide,Yes,No,10,0
+2553,3492,Therapy,External Beam Radiation,Yes,No,0,0
+2554,3460,Drug,Calcineurin Inhibitors,No,No,1,0
+2554,3459,Drug,Topical Steroids,Yes,No,23,0
+2554,3458,Therapy,Light Therapy,Yes,No,0,20
+2555,3548,Drug,Muscle Relaxants,Yes,Yes,1,0
+2555,3335,Therapy,Physical Therapy,Yes,No,0,43
+2556,3598,Therapy,Topical Insecticides,Yes,No,0,19
+2557,3373,Drug,Antiviral Medications,Yes,No,14,0
+2557,3500,Drug,Interferon Alpha,Yes,No,21,0
+2557,3590,Drug,Ribavirin,Yes,No,1,0
+2557,3588,Drug,Entecavir,No,No,2,0
+2557,3321,Therapy,Lifestyle Changes,No,Yes,0,33
+2558,3388,Drug,Methotrexate,Yes,No,1,0
+2558,3453,Drug,Biologics,Yes,No,8,0
+2558,3454,Therapy,UV Light Therapy,Yes,No,0,14
+2559,3568,Surgery,Tumor Resection Surgery,Yes,No,0,0
+2559,3490,Drug,Doxorubicin,Yes,No,12,0
+2559,3388,Drug,Methotrexate,Yes,Yes,1,0
+2559,3492,Therapy,External Beam Radiation,Yes,No,0,0
+2560,3342,Drug,Warfarin,Yes,Yes,1,0
+2560,3341,Drug,Heparin,Yes,Yes,21,0
+2561,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,31
+2561,3532,Therapy,Relaxation Therapy,Yes,No,0,30
+2561,3533,Drug,Benzodiazepines,Yes,No,1,0
+2561,3530,Drug,SSRIs,Yes,No,2,0
+2562,3684,Surgery,Scleral Buckling,No,No,0,0
+2563,3509,Drug,Nusinersen,Yes,Yes,25,0
+2563,3510,Drug,Onasemnogene,No,No,10,0
+2563,3335,Therapy,Physical Therapy,No,No,0,43
+2564,3363,Drug,Phentermine,Yes,Yes,1,0
+2564,3362,Drug,Orlistat,Yes,No,2,0
+2564,3365,Surgery,Gastric Banding,No,No,0,0
+2564,3364,Surgery,Gastric Bypass Surgery,Yes,No,0,0
+2564,3345,Therapy,Physical Activity,Yes,No,0,19
+2564,3322,Therapy,Dietary Management,Yes,No,0,18
+2565,3377,Drug,Immunosuppressants,Yes,No,3,0
+2565,3480,Drug,Eltrombopag,Yes,Yes,1,0
+2565,3481,Therapy,Blood Transfusions,Yes,Yes,0,23
+2566,None,None,None,No,No,0,0
+2567,3327,Drug,ACE Inhibitors,Yes,Yes,1,0
+2567,3325,Drug,Aspirin,Yes,No,1,0
+2567,3326,Drug,Beta Blockers,Yes,Yes,1,0
+2567,3323,Surgery,Angioplasty,Yes,Yes,0,0
+2567,3324,Surgery,Coronary Artery Bypass Surgery,Yes,No,0,0
+2567,3321,Therapy,Lifestyle Changes,No,No,0,49
+2568,3423,Drug,Antidepressants,Yes,No,3,0
+2568,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,25
+2568,3338,Therapy,Exercise Therapy,Yes,No,0,24
+2569,3334,Drug,Corticosteroids,No,No,1,0
+2569,3388,Drug,Methotrexate,Yes,Yes,1,0
+2569,3335,Therapy,Physical Therapy,Yes,No,0,36
+2570,3411,Drug,Memantine,No,No,2,0
+2570,3410,Drug,Donepezil,No,Yes,2,0
+2570,3420,Drug,Antipsychotics,Yes,No,2,0
+2570,3467,Therapy,Supportive Care,Yes,No,0,49
+2570,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,53
+2571,3688,Drug,Amoxicillin,Yes,No,1,0
+2571,3697,Drug,Decongestants,Yes,Yes,1,0
+2571,3698,Surgery,Sinus Surgery,Yes,No,0,0
+2572,3334,Drug,Corticosteroids,Yes,Yes,1,0
+2572,3449,Drug,NSAIDs,Yes,No,1,0
+2572,3335,Therapy,Physical Therapy,No,No,0,38
+2573,3519,Drug,Miglustat,No,Yes,3,0
+2573,3518,Therapy,Enzyme Replacement Therapy,No,No,0,32
+2574,3346,Drug,Metformin,Yes,No,2,0
+2574,3347,Drug,Sulfonylureas,Yes,No,2,0
+2574,3344,Drug,Insulin,Yes,No,39,0
+2574,3345,Therapy,Physical Activity,Yes,No,0,38
+2574,3322,Therapy,Dietary Management,Yes,No,0,43
+2575,3344,Drug,Insulin,Yes,No,38,0
+2575,3346,Drug,Metformin,Yes,Yes,2,0
+2575,3347,Drug,Sulfonylureas,Yes,No,2,0
+2575,3321,Therapy,Lifestyle Changes,No,No,0,30
+2576,3451,Drug,Cyclophosphamide,Yes,Yes,12,0
+2576,3334,Drug,Corticosteroids,Yes,No,1,0
+2576,3335,Therapy,Physical Therapy,Yes,No,0,36
+2577,3459,Drug,Topical Steroids,Yes,No,23,0
+2577,3464,Drug,Minoxidil,No,No,37,0
+2577,3458,Therapy,Light Therapy,Yes,No,0,25
+2578,3620,Surgery,Mohs Surgery,Yes,No,0,0
+2578,3619,Surgery,Excisional Surgery,Yes,No,0,0
+2578,3621,Drug,Fluorouracil,Yes,Yes,9,0
+2578,3584,Drug,Imiquimod,Yes,No,24,0
+2578,3492,Therapy,External Beam Radiation,Yes,No,0,0
+2579,3409,Drug,Penicillamine,Yes,No,1,0
+2579,3408,Drug,Zinc Acetate,No,No,1,0
+2579,3322,Therapy,Dietary Management,No,No,0,28
+2580,3344,Drug,Insulin,Yes,No,74,0
+2580,3345,Therapy,Physical Activity,Yes,No,0,24
+2581,3598,Therapy,Topical Insecticides,Yes,No,0,17
+2582,3378,Drug,Pirfenidone,Yes,Yes,3,0
+2582,3379,Drug,Nintedanib,Yes,No,3,0
+2582,3371,Therapy,Pulmonary Rehabilitation,No,No,0,18
+2583,3335,Therapy,Physical Therapy,No,No,0,17
+2583,3507,Therapy,Behavioral Therapy,No,No,0,17
+2583,3520,Drug,Growth Hormone Therapy,No,No,39,0
+2584,3380,Drug,Antacids,Yes,No,1,0
+2584,3322,Therapy,Dietary Management,Yes,No,0,31
+2585,3449,Drug,NSAIDs,Yes,No,1,0
+2585,3393,Drug,Pain Relievers,No,Yes,1,0
+2585,3335,Therapy,Physical Therapy,Yes,No,0,22
+2586,3622,Surgery,Wide Local Excision,Yes,Yes,0,0
+2586,3624,Drug,Trametinib,Yes,Yes,1,0
+2586,3623,Drug,Dabrafenib,Yes,Yes,1,0
+2586,3492,Therapy,External Beam Radiation,Yes,No,0,0
+2587,3420,Drug,Antipsychotics,Yes,No,3,0
+2587,3423,Drug,Antidepressants,No,No,4,0
+2587,3538,Drug,Mood Stabilizers,No,Yes,3,0
+2587,3523,Therapy,Psychotherapy,Yes,No,0,0
+2587,3412,Therapy,Cognitive Behavioral Therapy,Yes,Yes,0,28
+2588,3373,Drug,Antiviral Medications,No,Yes,14,0
+2588,3467,Therapy,Supportive Care,Yes,Yes,0,33
+2589,3342,Drug,Warfarin,No,No,1,0
+2589,3332,Drug,Calcium Channel Blockers,Yes,No,2,0
+2589,3326,Drug,Beta Blockers,Yes,Yes,2,0
+2589,3321,Therapy,Lifestyle Changes,Yes,No,0,21
+2590,3358,Drug,Octreotide,No,No,30,0
+2590,3359,Drug,Pegvisomant,Yes,Yes,28,0
+2590,3361,Therapy,Stereotactic Radiosurgery,No,No,0,0
+2591,3420,Drug,Antipsychotics,Yes,No,2,0
+2591,3419,Drug,Tetrabenazine,Yes,No,1,0
+2591,3335,Therapy,Physical Therapy,No,No,0,38
+2591,3418,Therapy,Speech Therapy,Yes,No,0,35
+2592,3327,Drug,ACE Inhibitors,Yes,Yes,1,0
+2592,3329,Drug,Diuretics,No,Yes,1,0
+2592,3545,Surgery,Heart Surgery,Yes,Yes,0,0
+2593,3393,Drug,Pain Relievers,Yes,No,1,0
+2593,3423,Drug,Antidepressants,No,Yes,3,0
+2593,3338,Therapy,Exercise Therapy,Yes,No,0,27
+2593,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,29
+2594,3448,Drug,Pilocarpine,Yes,No,52,0
+2594,3335,Therapy,Physical Therapy,Yes,No,0,37
+2595,None,None,None,No,No,0,0
+2596,3474,Drug,Ivermectin,Yes,No,1,0
+2596,3471,Therapy,Topical Treatment,Yes,No,0,0
+2597,3507,Therapy,Behavioral Therapy,Yes,Yes,0,37
+2598,3412,Therapy,Cognitive Behavioral Therapy,No,No,0,36
+2598,3530,Drug,SSRIs,No,Yes,2,0
+2599,3484,Drug,Hydroxyurea,Yes,No,1,0
+2599,3485,Drug,Deferoxamine,Yes,No,14,0
+2599,3481,Therapy,Blood Transfusions,Yes,Yes,0,59
+2599,3482,Surgery,Bone Marrow Transplant,Yes,No,0,0
+2600,3372,Drug,Antibiotics,No,Yes,12,0
+2600,3369,Drug,Bronchodilators,Yes,No,1,0
+2600,3550,Therapy,Chest Physiotherapy,Yes,No,0,35
+2600,3551,Surgery,Lung Transplant,Yes,No,0,0
+2601,3335,Therapy,Physical Therapy,Yes,No,0,20
+2602,3552,Drug,Hormone Therapy,Yes,Yes,1,0
+2602,3393,Drug,Pain Relievers,Yes,Yes,1,0
+2603,3388,Drug,Methotrexate,No,Yes,1,0
+2603,3387,Drug,Infliximab,No,No,4,0
+2603,3322,Therapy,Dietary Management,Yes,No,0,57
+2604,3374,Therapy,CPAP Therapy,No,No,0,0
+2604,3375,Surgery,Uvulopalatopharyngoplasty (UPPP),Yes,No,0,0
+2605,3459,Drug,Topical Steroids,Yes,No,23,0
+2605,3460,Drug,Calcineurin Inhibitors,Yes,No,1,0
+2605,3458,Therapy,Light Therapy,Yes,No,0,30
+2606,3483,Drug,Immunoglobulins,Yes,Yes,13,0
+2606,3372,Drug,Antibiotics,Yes,Yes,13,0
+2606,3482,Surgery,Bone Marrow Transplant,Yes,Yes,0,0
+2607,3510,Drug,Onasemnogene,Yes,Yes,11,0
+2607,3509,Drug,Nusinersen,Yes,Yes,26,0
+2607,3335,Therapy,Physical Therapy,Yes,No,0,46
+2608,3710,Drug,Oseltamivir,Yes,No,1,0
+2608,3434,Drug,Ibuprofen,Yes,Yes,1,0
+2608,3404,Therapy,Rest,Yes,Yes,0,0
+2609,3372,Drug,Antibiotics,Yes,No,10,0
+2609,3467,Therapy,Supportive Care,Yes,No,0,41
+2610,3620,Surgery,Mohs Surgery,Yes,No,0,0
+2610,3619,Surgery,Excisional Surgery,Yes,Yes,0,0
+2610,3584,Drug,Imiquimod,Yes,Yes,21,0
+2610,3621,Drug,Fluorouracil,Yes,Yes,7,0
+2610,3492,Therapy,External Beam Radiation,Yes,No,0,0
+2611,3334,Drug,Corticosteroids,Yes,Yes,1,0
+2611,3366,Drug,Albuterol,Yes,Yes,10,0
+2611,3367,Therapy,Breathing Exercises,Yes,No,0,29
+2611,3368,Therapy,Oxygen Therapy,Yes,Yes,0,32
+2612,3325,Drug,Aspirin,Yes,Yes,1,0
+2612,3434,Drug,Ibuprofen,No,Yes,1,0
+2612,3386,Therapy,Stress Management,Yes,No,0,36
+2613,3334,Drug,Corticosteroids,Yes,Yes,1,0
+2613,3705,Therapy,Voice Rest,Yes,No,0,40
+2613,3706,Therapy,Steam Inhalation,Yes,No,0,38
+2614,None,None,None,No,No,0,0
+2615,3669,Surgery,Open Joint Surgery,Yes,No,0,0
+2615,3668,Surgery,Arthrocentesis,Yes,Yes,0,0
+2615,3335,Therapy,Physical Therapy,Yes,Yes,0,38
+2616,3627,Drug,Gemcitabine,No,No,7,0
+2616,3638,Drug,Atezolizumab,Yes,No,7,0
+2616,3604,Drug,Cisplatin,Yes,Yes,7,0
+2616,3606,Drug,Pembrolizumab,Yes,Yes,7,0
+2616,3492,Therapy,External Beam Radiation,Yes,No,0,0
+2617,3370,Drug,Steroids,Yes,Yes,15,0
+2617,3369,Drug,Bronchodilators,Yes,Yes,1,0
+2617,3371,Therapy,Pulmonary Rehabilitation,Yes,No,0,30
+2618,3449,Drug,NSAIDs,Yes,Yes,1,0
+2618,3393,Drug,Pain Relievers,No,No,1,0
+2618,3334,Drug,Corticosteroids,Yes,No,1,0
+2618,3335,Therapy,Physical Therapy,Yes,No,0,37
+2618,3338,Therapy,Exercise Therapy,Yes,No,0,39
+2619,3336,Drug,Cilostazol,Yes,No,1,0
+2619,3325,Drug,Aspirin,Yes,No,1,0
+2619,3337,Drug,Statins,No,No,1,0
+2619,3323,Surgery,Angioplasty,Yes,No,0,0
+2619,3324,Surgery,Coronary Artery Bypass Surgery,No,No,0,0
+2619,3338,Therapy,Exercise Therapy,No,No,0,48
+2620,3435,Drug,Sumatriptan,No,No,1,0
+2620,3449,Drug,NSAIDs,Yes,Yes,1,0
+2620,3437,Therapy,Relaxation Techniques,Yes,No,0,27
+2621,3548,Drug,Muscle Relaxants,Yes,No,1,0
+2621,3335,Therapy,Physical Therapy,Yes,No,0,33
+2621,3549,Surgery,Orthopedic Surgery,Yes,Yes,0,0
+2622,3344,Drug,Insulin,Yes,Yes,37,0
+2622,3346,Drug,Metformin,No,Yes,2,0
+2622,3345,Therapy,Physical Activity,Yes,No,0,27
+2623,3457,Drug,Topical Retinoids,No,No,23,0
+2623,3372,Drug,Antibiotics,Yes,No,10,0
+2623,3458,Therapy,Light Therapy,Yes,No,0,16
+2624,3449,Drug,NSAIDs,Yes,No,1,0
+2624,3435,Drug,Sumatriptan,Yes,No,1,0
+2624,3393,Drug,Pain Relievers,Yes,No,1,0
+2624,3436,Drug,Ergotamine,No,No,1,0
+2624,3437,Therapy,Relaxation Techniques,Yes,No,0,23
+2625,3661,Surgery,Gingivectomy,No,No,0,0
+2625,3662,Surgery,Flap Surgery,Yes,No,0,0
+2625,3663,Therapy,Scaling and Root Planing,No,No,0,0
+2626,3370,Drug,Steroids,No,No,14,0
+2626,3444,Drug,Creatine,Yes,Yes,1,0
+2626,3335,Therapy,Physical Therapy,Yes,No,0,65
+2627,3576,Therapy,Hearing Aids,Yes,No,0,30
+2627,3694,Surgery,Cochlear Implant Surgery,No,Yes,0,0
+2628,3326,Drug,Beta Blockers,Yes,No,2,0
+2628,3332,Drug,Calcium Channel Blockers,No,Yes,2,0
+2629,3441,Drug,Prednisone,Yes,Yes,1,0
+2629,3440,Drug,Pyridostigmine,Yes,No,1,0
+2629,3335,Therapy,Physical Therapy,Yes,No,0,31
+2629,3442,Surgery,Thymectomy,Yes,No,0,0
+2630,3332,Drug,Calcium Channel Blockers,Yes,Yes,2,0
+2630,3329,Drug,Diuretics,Yes,No,1,0
+2630,3368,Therapy,Oxygen Therapy,No,Yes,0,41
+2630,3340,Surgery,Heart Transplant,Yes,No,0,0
+2631,3387,Drug,Infliximab,No,No,4,0
+2631,3388,Drug,Methotrexate,No,Yes,1,0
+2631,3322,Therapy,Dietary Management,Yes,No,0,46
+2632,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,29
+2632,3532,Therapy,Relaxation Therapy,Yes,No,0,27
+2632,3530,Drug,SSRIs,No,Yes,3,0
+2632,3533,Drug,Benzodiazepines,No,Yes,1,0
+2633,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,24
+2634,3411,Drug,Memantine,Yes,Yes,2,0
+2634,3410,Drug,Donepezil,Yes,No,2,0
+2634,3405,Therapy,Physical Exercise,Yes,No,0,42
+2635,3464,Drug,Minoxidil,Yes,No,37,0
+2635,3459,Drug,Topical Steroids,Yes,No,23,0
+2635,3458,Therapy,Light Therapy,Yes,No,0,18
+2636,3388,Drug,Methotrexate,Yes,No,1,0
+2636,3334,Drug,Corticosteroids,Yes,Yes,1,0
+2636,3335,Therapy,Physical Therapy,Yes,No,0,30
+2636,3447,Surgery,Joint Replacement,Yes,No,0,0
+2637,3688,Drug,Amoxicillin,Yes,No,1,0
+2637,3594,Drug,Doxycycline,No,Yes,1,0
+2637,3335,Therapy,Physical Therapy,Yes,No,0,31
+2638,3322,Therapy,Dietary Management,Yes,No,0,34
+2639,3486,Drug,Clotting Factor Concentrates,Yes,No,7,0
+2639,3487,Drug,Desmopressin,Yes,Yes,1,0
+2639,3504,Therapy,Platelet Transfusions,Yes,No,0,44
+2640,3596,Drug,Clindamycin,No,No,1,0
+2641,3608,Drug,Paclitaxel,Yes,Yes,7,0
+2641,3644,Drug,Nivolumab,Yes,Yes,7,0
+2641,3607,Drug,Carboplatin,No,Yes,7,0
+2641,3641,Drug,Trastuzumab,Yes,Yes,7,0
+2641,3492,Therapy,External Beam Radiation,Yes,No,0,0
+2642,3554,Drug,Clomiphene,No,No,1,0
+2642,3346,Drug,Metformin,Yes,Yes,2,0
+2642,3555,Therapy,Lifestyle Modifications,Yes,No,0,43
+2643,3429,Surgery,Lobectomy,Yes,No,0,0
+2643,3603,Surgery,Segmentectomy,Yes,No,0,0
+2643,3607,Drug,Carboplatin,No,Yes,9,0
+2643,3608,Drug,Paclitaxel,No,No,10,0
+2643,3604,Drug,Cisplatin,Yes,Yes,9,0
+2643,3606,Drug,Pembrolizumab,No,Yes,10,0
+2643,3609,Therapy,Stereotactic Body Radiation Therapy (SBRT),Yes,No,0,0
+2644,3672,Therapy,Prescription Glasses,No,No,0,28
+2644,3675,Therapy,Reading Glasses,No,Yes,0,26
+2645,3554,Drug,Clomiphene,No,Yes,1,0
+2645,3346,Drug,Metformin,Yes,No,3,0
+2645,3555,Therapy,Lifestyle Modifications,Yes,No,0,31
+2646,3326,Drug,Beta Blockers,No,Yes,2,0
+2646,3327,Drug,ACE Inhibitors,No,Yes,3,0
+2646,3325,Drug,Aspirin,Yes,Yes,1,0
+2646,3337,Drug,Statins,Yes,No,1,0
+2646,3323,Surgery,Angioplasty,Yes,No,0,0
+2646,3322,Therapy,Dietary Management,Yes,No,0,48
+2647,3648,Drug,Mercaptopurine,No,No,2,0
+2647,3451,Drug,Cyclophosphamide,Yes,Yes,13,0
+2647,3649,Drug,Vincristine,Yes,Yes,8,0
+2647,3482,Surgery,Bone Marrow Transplant,Yes,Yes,0,0
+2648,3337,Drug,Statins,Yes,No,2,0
+2648,3326,Drug,Beta Blockers,Yes,No,3,0
+2648,3322,Therapy,Dietary Management,Yes,No,0,41
+2649,3407,Therapy,Phlebotomy,Yes,No,0,0
+2650,3369,Drug,Bronchodilators,Yes,No,1,0
+2650,3334,Drug,Corticosteroids,Yes,No,1,0
+2650,3368,Therapy,Oxygen Therapy,Yes,No,0,23
+2651,3502,Drug,Decitabine,Yes,No,18,0
+2651,3501,Drug,Azacitidine,Yes,No,16,0
+2651,3481,Therapy,Blood Transfusions,No,No,0,41
+2652,3329,Drug,Diuretics,Yes,Yes,1,0
+2652,3326,Drug,Beta Blockers,Yes,Yes,2,0
+2652,3327,Drug,ACE Inhibitors,Yes,Yes,2,0
+2652,3328,Therapy,Cardiac Rehabilitation,Yes,No,0,51
+2652,3321,Therapy,Lifestyle Changes,No,No,0,49
+2653,3530,Drug,SSRIs,Yes,No,4,0
+2653,3525,Drug,Tricyclic Antidepressants,Yes,Yes,2,0
+2653,3531,Drug,SNRIs,Yes,No,3,0
+2653,3523,Therapy,Psychotherapy,Yes,No,0,0
+2653,3412,Therapy,Cognitive Behavioral Therapy,Yes,Yes,0,31
+2654,3448,Drug,Pilocarpine,Yes,Yes,50,0
+2654,3446,Drug,Hydroxychloroquine,Yes,Yes,3,0
+2654,3335,Therapy,Physical Therapy,Yes,Yes,0,42
+2655,3475,Drug,Salicylic Acid,No,Yes,15,0
+2655,3476,Therapy,Cryotherapy,No,No,0,0
+2656,3369,Drug,Bronchodilators,Yes,No,1,0
+2656,3371,Therapy,Pulmonary Rehabilitation,Yes,No,0,5
+2657,3444,Drug,Creatine,Yes,No,2,0
+2657,3426,Therapy,Occupational Therapy,Yes,No,0,26
+2657,3335,Therapy,Physical Therapy,Yes,No,0,27
+2658,3337,Drug,Statins,Yes,Yes,1,0
+2658,3346,Drug,Metformin,Yes,Yes,2,0
+2658,3322,Therapy,Dietary Management,Yes,No,0,34
+2659,3335,Therapy,Physical Therapy,Yes,No,0,36
+2659,3418,Therapy,Speech Therapy,Yes,No,0,35
+2659,3426,Therapy,Occupational Therapy,Yes,No,0,34
+2660,3334,Drug,Corticosteroids,Yes,No,1,0
+2660,3446,Drug,Hydroxychloroquine,Yes,No,3,0
+2660,3335,Therapy,Physical Therapy,Yes,No,0,32
+2661,3382,Drug,H2 Blockers,No,No,1,0
+2661,3380,Drug,Antacids,Yes,Yes,1,0
+2661,3321,Therapy,Lifestyle Changes,Yes,Yes,0,19
+2662,3344,Drug,Insulin,Yes,No,37,0
+2662,3322,Therapy,Dietary Management,Yes,No,0,27
+2663,3423,Drug,Antidepressants,No,Yes,2,0
+2663,3525,Drug,Tricyclic Antidepressants,No,Yes,2,0
+2663,3523,Therapy,Psychotherapy,Yes,No,0,0
+2664,3372,Drug,Antibiotics,No,No,13,0
+2664,3467,Therapy,Supportive Care,No,No,0,50
+2664,3400,Therapy,IV Fluids,Yes,No,0,0
+2665,3426,Therapy,Occupational Therapy,Yes,No,0,40
+2665,3335,Therapy,Physical Therapy,Yes,No,0,42
+2665,3522,Drug,Allopurinol,No,No,1,0
+2666,3702,Therapy,Nasal Packing,Yes,No,0,28
+2667,3393,Drug,Pain Relievers,No,No,1,0
+2667,3449,Drug,NSAIDs,Yes,Yes,1,0
+2667,3334,Drug,Corticosteroids,No,Yes,1,0
+2667,3335,Therapy,Physical Therapy,No,No,0,34
+2667,3338,Therapy,Exercise Therapy,Yes,No,0,32
+2668,None,None,None,No,No,0,0
+2669,3680,Drug,Ranibizumab,Yes,Yes,5,0
+2669,3681,Drug,Aflibercept,Yes,No,5,0
+2669,3682,Therapy,Photodynamic Therapy,Yes,Yes,0,0
+2670,3329,Drug,Diuretics,No,Yes,1,0
+2670,3326,Drug,Beta Blockers,No,Yes,2,0
+2670,3322,Therapy,Dietary Management,Yes,No,0,61
+2671,3420,Drug,Antipsychotics,Yes,Yes,3,0
+2671,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,30
+2672,3434,Drug,Ibuprofen,Yes,No,1,0
+2672,3334,Drug,Corticosteroids,No,No,1,0
+2672,3706,Therapy,Steam Inhalation,Yes,No,0,31
+2673,3334,Drug,Corticosteroids,No,No,1,0
+2673,3483,Drug,Immunoglobulins,Yes,No,10,0
+2673,3481,Therapy,Blood Transfusions,Yes,No,0,39
+2674,3622,Surgery,Wide Local Excision,Yes,No,0,0
+2674,3624,Drug,Trametinib,No,No,1,0
+2674,3623,Drug,Dabrafenib,Yes,No,1,0
+2674,3492,Therapy,External Beam Radiation,No,No,0,0
+2675,3421,Drug,Interferon Beta,Yes,No,22,0
+2675,3422,Drug,Glatiramer Acetate,No,Yes,22,0
+2675,3335,Therapy,Physical Therapy,No,No,0,50
+2676,3461,Drug,Topical Antibiotics,No,No,15,0
+2676,3472,Therapy,Wound Care,Yes,No,0,21
+2677,3620,Surgery,Mohs Surgery,No,Yes,0,0
+2677,3621,Drug,Fluorouracil,Yes,Yes,8,0
+2677,3584,Drug,Imiquimod,Yes,No,23,0
+2677,3492,Therapy,External Beam Radiation,Yes,No,0,0
+2678,3593,Drug,Penicillin G,Yes,Yes,9,0
+2678,3594,Drug,Doxycycline,No,No,1,0
+2679,3393,Drug,Pain Relievers,Yes,No,1,0
+2679,3548,Drug,Muscle Relaxants,No,No,1,0
+2679,3335,Therapy,Physical Therapy,Yes,No,0,20
+2680,3487,Drug,Desmopressin,Yes,No,1,0
+2680,3486,Drug,Clotting Factor Concentrates,Yes,Yes,8,0
+2680,3335,Therapy,Physical Therapy,Yes,No,0,24
+2681,3544,Drug,Fever Reducers,Yes,Yes,1,0
+2681,3393,Drug,Pain Relievers,Yes,Yes,1,0
+2681,3467,Therapy,Supportive Care,No,No,0,11
+2682,None,None,None,No,No,0,0
+2683,3645,Surgery,Craniotomy,Yes,No,0,0
+2683,3647,Drug,Bevacizumab,No,No,7,0
+2683,3361,Therapy,Stereotactic Radiosurgery,Yes,No,0,0
+2684,3324,Surgery,Coronary Artery Bypass Surgery,Yes,No,0,0
+2684,3323,Surgery,Angioplasty,Yes,Yes,0,0
+2684,3326,Drug,Beta Blockers,No,No,1,0
+2684,3328,Therapy,Cardiac Rehabilitation,Yes,No,0,54
+2685,3385,Drug,Antidiarrheals,No,No,1,0
+2685,3384,Drug,Laxatives,Yes,No,1,0
+2685,3383,Drug,Antispasmodics,Yes,Yes,1,0
+2685,3386,Therapy,Stress Management,Yes,Yes,0,18
+2685,3322,Therapy,Dietary Management,No,No,0,18
+2686,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,20
+2686,3534,Therapy,Exposure Therapy,Yes,No,0,19
+2686,3530,Drug,SSRIs,Yes,Yes,2,0
+2687,3538,Drug,Mood Stabilizers,Yes,No,3,0
+2687,3420,Drug,Antipsychotics,No,No,2,0
+2687,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,30
+2688,3335,Therapy,Physical Therapy,No,No,0,22
+2689,3576,Therapy,Hearing Aids,No,No,0,19
+2689,3577,Therapy,Sound Therapy,Yes,No,0,21
+2690,3560,Surgery,Cystectomy,No,No,0,0
+2690,3627,Drug,Gemcitabine,Yes,Yes,8,0
+2690,3638,Drug,Atezolizumab,Yes,Yes,8,0
+2690,3606,Drug,Pembrolizumab,Yes,Yes,8,0
+2690,3604,Drug,Cisplatin,Yes,Yes,8,0
+2690,3492,Therapy,External Beam Radiation,Yes,No,0,0
+2691,3660,Therapy,Fluoride Treatment,Yes,No,0,0
+2692,3587,Drug,Antiviral Therapy,Yes,No,1,0
+2692,3466,Drug,Valacyclovir,Yes,No,1,0
+2693,3690,Drug,Ciprofloxacin Ear Drops,Yes,No,20,0
+2693,3691,Drug,Hydrocortisone Ear Drops,Yes,No,20,0
+2693,3692,Therapy,Ear Cleaning,Yes,No,0,16
+2694,3383,Drug,Antispasmodics,No,No,1,0
+2694,3385,Drug,Antidiarrheals,Yes,Yes,1,0
+2694,3384,Drug,Laxatives,Yes,No,1,0
+2694,3322,Therapy,Dietary Management,Yes,No,0,30
+2695,3374,Therapy,CPAP Therapy,Yes,No,0,0
+2695,3375,Surgery,Uvulopalatopharyngoplasty (UPPP),Yes,Yes,0,0
+2695,3376,Surgery,Jaw Surgery,Yes,No,0,0
+2696,3594,Drug,Doxycycline,No,Yes,1,0
+2696,3722,Drug,Zinc Supplements,No,Yes,1,0
+2696,3715,Therapy,Fluid Replacement,Yes,No,0,39
+2697,3509,Drug,Nusinersen,Yes,Yes,27,0
+2697,3510,Drug,Onasemnogene,No,Yes,12,0
+2697,3335,Therapy,Physical Therapy,Yes,No,0,27
+2698,3383,Drug,Antispasmodics,Yes,Yes,1,0
+2698,3385,Drug,Antidiarrheals,No,Yes,1,0
+2698,3386,Therapy,Stress Management,No,No,0,36
+2699,3420,Drug,Antipsychotics,Yes,No,3,0
+2699,3538,Drug,Mood Stabilizers,Yes,No,3,0
+2699,3412,Therapy,Cognitive Behavioral Therapy,Yes,Yes,0,55
+2700,3717,Drug,Isoniazid,Yes,Yes,2,0
+2700,3718,Drug,Rifampin,Yes,No,3,0
+2700,3720,Therapy,Directly Observed Therapy (DOT),Yes,No,0,44
+2701,3534,Therapy,Exposure Therapy,No,No,0,36
+2701,3530,Drug,SSRIs,No,No,3,0
+2701,3533,Drug,Benzodiazepines,No,No,1,0
+2702,3362,Drug,Orlistat,Yes,No,4,0
+2702,3363,Drug,Phentermine,No,No,1,0
+2702,3364,Surgery,Gastric Bypass Surgery,Yes,Yes,0,0
+2702,3365,Surgery,Gastric Banding,Yes,Yes,0,0
+2702,3345,Therapy,Physical Activity,No,No,0,31
+2702,3322,Therapy,Dietary Management,No,No,0,29
+2703,3372,Drug,Antibiotics,Yes,No,12,0
+2704,3334,Drug,Corticosteroids,No,Yes,1,0
+2704,3449,Drug,NSAIDs,Yes,Yes,1,0
+2704,3393,Drug,Pain Relievers,No,Yes,1,0
+2704,3338,Therapy,Exercise Therapy,Yes,No,0,47
+2704,3447,Surgery,Joint Replacement,Yes,No,0,0
+2705,3334,Drug,Corticosteroids,No,Yes,1,0
+2705,3368,Therapy,Oxygen Therapy,Yes,No,0,54
+2706,3325,Drug,Aspirin,Yes,No,2,0
+2706,3336,Drug,Cilostazol,No,No,1,0
+2706,3323,Surgery,Angioplasty,Yes,No,0,0
+2706,3324,Surgery,Coronary Artery Bypass Surgery,Yes,Yes,0,0
+2706,3338,Therapy,Exercise Therapy,No,No,0,29
+2707,3660,Therapy,Fluoride Treatment,Yes,No,0,0
+2708,3663,Therapy,Scaling and Root Planing,Yes,Yes,0,0
+2709,3700,Surgery,Septoplasty,Yes,No,0,0
+2710,3449,Drug,NSAIDs,Yes,No,1,0
+2710,3393,Drug,Pain Relievers,No,Yes,1,0
+2710,3335,Therapy,Physical Therapy,Yes,No,0,34
+2710,3447,Surgery,Joint Replacement,Yes,No,0,0
+2711,3597,Drug,Tinidazole,Yes,No,1,0
+2711,3595,Drug,Metronidazole,No,No,1,0
+2711,3715,Therapy,Fluid Replacement,No,No,0,21
+2712,3393,Drug,Pain Relievers,No,No,1,0
+2712,3449,Drug,NSAIDs,Yes,Yes,1,0
+2712,3338,Therapy,Exercise Therapy,Yes,No,0,26
+2713,3326,Drug,Beta Blockers,Yes,No,2,0
+2713,3325,Drug,Aspirin,Yes,Yes,1,0
+2713,3327,Drug,ACE Inhibitors,Yes,Yes,1,0
+2713,3328,Therapy,Cardiac Rehabilitation,Yes,No,0,80
+2714,3325,Drug,Aspirin,Yes,Yes,1,0
+2714,3327,Drug,ACE Inhibitors,Yes,Yes,1,0
+2714,3326,Drug,Beta Blockers,Yes,Yes,1,0
+2714,3328,Therapy,Cardiac Rehabilitation,Yes,No,0,58
+2715,3496,Drug,Dexamethasone,Yes,No,1,0
+2715,3498,Drug,Bortezomib,Yes,No,7,0
+2715,3495,Drug,Lenalidomide,Yes,No,2,0
+2715,3499,Surgery,Stem Cell Transplant,Yes,No,0,0
+2716,3448,Drug,Pilocarpine,No,No,33,0
+2716,3335,Therapy,Physical Therapy,Yes,Yes,0,23
+2717,3426,Therapy,Occupational Therapy,Yes,No,0,67
+2717,3335,Therapy,Physical Therapy,No,No,0,57
+2717,3522,Drug,Allopurinol,No,No,2,0
+2718,3445,Drug,Pregabalin,Yes,Yes,2,0
+2718,3438,Drug,Gabapentin,Yes,No,3,0
+2718,3335,Therapy,Physical Therapy,Yes,No,0,23
+2719,3688,Drug,Amoxicillin,Yes,No,1,0
+2719,3434,Drug,Ibuprofen,Yes,No,1,0
+2719,3687,Therapy,Warm Compress,Yes,No,0,24
+2719,3689,Surgery,Ear Tubes,Yes,No,0,0
+2720,3335,Therapy,Physical Therapy,Yes,Yes,0,44
+2720,3426,Therapy,Occupational Therapy,Yes,No,0,48
+2721,3697,Drug,Decongestants,Yes,No,1,0
+2722,3334,Drug,Corticosteroids,Yes,No,1,0
+2722,3483,Drug,Immunoglobulins,Yes,No,12,0
+2722,3481,Therapy,Blood Transfusions,Yes,No,0,36
+2723,3449,Drug,NSAIDs,Yes,No,1,0
+2723,3452,Drug,Colchicine,Yes,No,1,0
+2723,3335,Therapy,Physical Therapy,Yes,No,0,22
+2724,3381,Drug,Proton Pump Inhibitors (PPIs),Yes,Yes,1,0
+2724,3382,Drug,H2 Blockers,No,No,2,0
+2724,3321,Therapy,Lifestyle Changes,Yes,No,0,37
+2725,3372,Drug,Antibiotics,No,No,10,0
+2726,3335,Therapy,Physical Therapy,Yes,No,0,31
+2727,3383,Drug,Antispasmodics,Yes,Yes,1,0
+2727,3384,Drug,Laxatives,Yes,Yes,1,0
+2727,3385,Drug,Antidiarrheals,Yes,Yes,1,0
+2727,3322,Therapy,Dietary Management,Yes,No,0,43
+2727,3386,Therapy,Stress Management,No,No,0,40
+2728,3388,Drug,Methotrexate,Yes,Yes,1,0
+2728,3334,Drug,Corticosteroids,Yes,Yes,1,0
+2728,3335,Therapy,Physical Therapy,Yes,No,0,31
+2729,3472,Therapy,Wound Care,Yes,No,0,29
+2730,3378,Drug,Pirfenidone,No,Yes,2,0
+2730,3379,Drug,Nintedanib,Yes,No,3,0
+2730,3368,Therapy,Oxygen Therapy,Yes,No,0,24
+2730,3371,Therapy,Pulmonary Rehabilitation,Yes,No,0,27
+2731,3384,Drug,Laxatives,No,No,1,0
+2731,3386,Therapy,Stress Management,Yes,No,0,20
+2732,3334,Drug,Corticosteroids,Yes,No,1,0
+2732,3377,Drug,Immunosuppressants,Yes,No,2,0
+2732,3371,Therapy,Pulmonary Rehabilitation,Yes,No,0,35
+2732,3368,Therapy,Oxygen Therapy,Yes,No,0,36
+2733,3373,Drug,Antiviral Medications,Yes,No,14,0
+2733,3372,Drug,Antibiotics,No,Yes,10,0
+2733,3368,Therapy,Oxygen Therapy,Yes,No,0,35
+2734,3342,Drug,Warfarin,Yes,Yes,1,0
+2734,3332,Drug,Calcium Channel Blockers,Yes,Yes,1,0
+2734,3341,Drug,Heparin,Yes,Yes,15,0
+2734,3330,Surgery,Cardiac Ablation,Yes,Yes,0,0
+2734,3321,Therapy,Lifestyle Changes,Yes,No,0,48
+2735,3490,Drug,Doxorubicin,Yes,No,12,0
+2735,3488,Drug,Imatinib,Yes,Yes,2,0
+2735,3489,Drug,Cytarabine,No,Yes,11,0
+2735,3482,Surgery,Bone Marrow Transplant,Yes,No,0,0
+2736,3382,Drug,H2 Blockers,No,No,2,0
+2736,3380,Drug,Antacids,Yes,No,1,0
+2736,3381,Drug,Proton Pump Inhibitors (PPIs),Yes,Yes,1,0
+2736,3372,Drug,Antibiotics,No,Yes,10,0
+2736,3321,Therapy,Lifestyle Changes,Yes,No,0,10
+2737,3335,Therapy,Physical Therapy,Yes,Yes,0,35
+2738,3574,Surgery,Discectomy,Yes,Yes,0,0
+2738,3335,Therapy,Physical Therapy,Yes,No,0,46
+2739,3368,Therapy,Oxygen Therapy,Yes,No,0,48
+2740,3525,Drug,Tricyclic Antidepressants,Yes,No,2,0
+2740,3530,Drug,SSRIs,Yes,Yes,2,0
+2740,3531,Drug,SNRIs,Yes,No,2,0
+2740,3423,Drug,Antidepressants,Yes,Yes,2,0
+2740,3412,Therapy,Cognitive Behavioral Therapy,Yes,Yes,0,38
+2740,3523,Therapy,Psychotherapy,Yes,No,0,0
+2741,3411,Drug,Memantine,Yes,Yes,3,0
+2741,3410,Drug,Donepezil,No,Yes,2,0
+2741,3412,Therapy,Cognitive Behavioral Therapy,No,No,0,52
+2741,3405,Therapy,Physical Exercise,Yes,No,0,53
+2742,3334,Drug,Corticosteroids,No,Yes,1,0
+2742,3368,Therapy,Oxygen Therapy,Yes,No,0,44
+2743,3411,Drug,Memantine,Yes,No,2,0
+2743,3420,Drug,Antipsychotics,Yes,Yes,2,0
+2743,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,51
+2744,3322,Therapy,Dietary Management,Yes,No,0,34
+2745,3334,Drug,Corticosteroids,Yes,Yes,1,0
+2745,3377,Drug,Immunosuppressants,Yes,No,2,0
+2745,3371,Therapy,Pulmonary Rehabilitation,Yes,No,0,57
+2746,3329,Drug,Diuretics,No,No,1,0
+2746,3375,Drug,Anticoagulants,Yes,No,1,0
+2746,3368,Therapy,Oxygen Therapy,No,No,0,30
+2747,3330,Surgery,Cardiac Ablation,Yes,No,0,0
+2747,3326,Drug,Beta Blockers,No,Yes,3,0
+2747,3332,Drug,Calcium Channel Blockers,No,Yes,2,0
+2748,3577,Therapy,Sound Therapy,Yes,No,0,12
+2748,3576,Therapy,Hearing Aids,No,No,0,12
+2749,3334,Drug,Corticosteroids,No,No,1,0
+2749,3393,Drug,Pain Relievers,No,Yes,1,0
+2749,3449,Drug,NSAIDs,Yes,Yes,1,0
+2749,3335,Therapy,Physical Therapy,Yes,No,0,50
+2749,3338,Therapy,Exercise Therapy,Yes,No,0,53
+2749,3447,Surgery,Joint Replacement,Yes,Yes,0,0
+2750,3446,Drug,Hydroxychloroquine,Yes,No,2,0
+2750,3334,Drug,Corticosteroids,Yes,Yes,1,0
+2750,3335,Therapy,Physical Therapy,Yes,No,0,38
+2751,3622,Surgery,Wide Local Excision,Yes,No,0,0
+2751,3624,Drug,Trametinib,Yes,No,1,0
+2751,3623,Drug,Dabrafenib,Yes,No,1,0
+2751,3492,Therapy,External Beam Radiation,Yes,No,0,0
+2752,3507,Therapy,Behavioral Therapy,Yes,No,0,18
+2752,3418,Therapy,Speech Therapy,Yes,No,0,18
+2752,3426,Therapy,Occupational Therapy,Yes,No,0,17
+2753,3412,Therapy,Cognitive Behavioral Therapy,Yes,Yes,0,36
+2753,3531,Drug,SNRIs,Yes,Yes,3,0
+2753,3530,Drug,SSRIs,Yes,No,3,0
+2754,3393,Drug,Pain Relievers,Yes,No,1,0
+2754,3548,Drug,Muscle Relaxants,Yes,No,1,0
+2754,3449,Drug,NSAIDs,Yes,Yes,1,0
+2754,3335,Therapy,Physical Therapy,Yes,No,0,32
+2755,3333,Drug,Penicillin,No,Yes,15,0
+2755,3484,Drug,Hydroxyurea,Yes,No,1,0
+2755,3481,Therapy,Blood Transfusions,Yes,No,0,41
+2755,3482,Surgery,Bone Marrow Transplant,Yes,Yes,0,0
+2756,3543,Drug,Vitamin A,Yes,No,1,0
+2756,3544,Drug,Fever Reducers,No,No,1,0
+2756,3467,Therapy,Supportive Care,Yes,No,0,31
+2757,3335,Therapy,Physical Therapy,Yes,No,0,26
+2758,3348,Drug,Methimazole,Yes,Yes,1,0
+2758,3350,Therapy,Radioactive Iodine Therapy,No,No,0,0
+2759,3418,Therapy,Speech Therapy,Yes,No,0,32
+2759,3426,Therapy,Occupational Therapy,No,No,0,27
+2759,3507,Therapy,Behavioral Therapy,Yes,No,0,32
+2760,3337,Drug,Statins,Yes,No,1,0
+2760,3327,Drug,ACE Inhibitors,Yes,No,1,0
+2760,3325,Drug,Aspirin,Yes,No,1,0
+2760,3326,Drug,Beta Blockers,Yes,Yes,2,0
+2760,3323,Surgery,Angioplasty,Yes,No,0,0
+2760,3324,Surgery,Coronary Artery Bypass Surgery,Yes,Yes,0,0
+2760,3322,Therapy,Dietary Management,Yes,No,0,41
+2761,3393,Drug,Pain Relievers,Yes,No,1,0
+2761,3559,Drug,Oral Contraceptives,Yes,Yes,1,0
+2762,3529,Therapy,Interpersonal Therapy,Yes,No,0,21
+2762,3531,Drug,SNRIs,Yes,No,3,0
+2762,3530,Drug,SSRIs,Yes,No,2,0
+2763,3460,Drug,Calcineurin Inhibitors,No,No,1,0
+2763,3459,Drug,Topical Steroids,Yes,No,23,0
+2763,3458,Therapy,Light Therapy,No,No,0,23
+2764,3335,Therapy,Physical Therapy,Yes,No,0,53
+2764,3418,Therapy,Speech Therapy,No,No,0,46
+2764,3521,Drug,Anti-Seizure Medications,No,No,3,0
+2765,3423,Drug,Antidepressants,No,No,2,0
+2765,3532,Therapy,Relaxation Therapy,Yes,No,0,25
+2766,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,27
+2766,3534,Therapy,Exposure Therapy,Yes,No,0,28
+2766,3537,Drug,Prazosin,Yes,Yes,2,0
+2766,3530,Drug,SSRIs,Yes,Yes,3,0
+2767,3342,Drug,Warfarin,Yes,No,1,0
+2767,3341,Drug,Heparin,Yes,No,12,0
+2767,3343,Therapy,Compression Stockings,Yes,No,0,0
+2768,3384,Drug,Laxatives,No,No,1,0
+2768,3385,Drug,Antidiarrheals,No,No,1,0
+2768,3383,Drug,Antispasmodics,No,No,1,0
+2768,3322,Therapy,Dietary Management,No,No,0,43
+2769,3393,Drug,Pain Relievers,Yes,No,1,0
+2769,3559,Drug,Oral Contraceptives,Yes,No,1,0
+2769,3555,Therapy,Lifestyle Modifications,Yes,No,0,12
+2770,3643,Surgery,Esophagectomy,No,No,0,0
+2770,3641,Drug,Trastuzumab,No,Yes,10,0
+2770,3644,Drug,Nivolumab,Yes,Yes,10,0
+2770,3608,Drug,Paclitaxel,Yes,No,8,0
+2770,3492,Therapy,External Beam Radiation,Yes,No,0,0
+2771,3423,Drug,Antidepressants,No,Yes,2,0
+2771,3420,Drug,Antipsychotics,No,Yes,2,0
+2771,3418,Therapy,Speech Therapy,Yes,No,0,53
+2771,3335,Therapy,Physical Therapy,Yes,No,0,56
+2772,3372,Drug,Antibiotics,Yes,No,11,0
+2773,3675,Therapy,Reading Glasses,Yes,No,0,28
+2774,3467,Therapy,Supportive Care,No,No,0,44
+2775,3619,Surgery,Excisional Surgery,Yes,No,0,0
+2775,3584,Drug,Imiquimod,No,No,21,0
+2775,3621,Drug,Fluorouracil,No,No,7,0
+2775,3492,Therapy,External Beam Radiation,No,No,0,0
+2776,3539,Drug,Stimulants,No,Yes,1,0
+2776,3540,Drug,Non-Stimulants,Yes,No,1,0
+2776,3412,Therapy,Cognitive Behavioral Therapy,No,No,0,24
+2776,3507,Therapy,Behavioral Therapy,Yes,No,0,23
+2777,3465,Drug,Acyclovir,Yes,No,1,0
+2777,3467,Therapy,Supportive Care,Yes,No,0,34
+2778,3334,Drug,Corticosteroids,Yes,No,1,0
+2778,3368,Therapy,Oxygen Therapy,Yes,Yes,0,33
+2779,3393,Drug,Pain Relievers,Yes,No,1,0
+2779,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,29
+2779,3338,Therapy,Exercise Therapy,No,No,0,30
+2780,3369,Drug,Bronchodilators,Yes,No,1,0
+2780,3334,Drug,Corticosteroids,Yes,No,1,0
+2780,3371,Therapy,Pulmonary Rehabilitation,No,No,0,12
+2780,3368,Therapy,Oxygen Therapy,Yes,No,0,13
+2781,3413,Drug,Levodopa,No,Yes,4,0
+2781,3414,Drug,Dopamine Agonists,No,Yes,3,0
+2781,3335,Therapy,Physical Therapy,Yes,No,0,35
+2781,3415,Surgery,Deep Brain Stimulation,Yes,No,0,0
+2782,3388,Drug,Methotrexate,No,No,1,0
+2782,3334,Drug,Corticosteroids,No,No,1,0
+2782,3335,Therapy,Physical Therapy,Yes,No,0,32
+2783,3335,Therapy,Physical Therapy,Yes,No,0,46
+2784,3538,Drug,Mood Stabilizers,Yes,Yes,3,0
+2784,3420,Drug,Antipsychotics,Yes,Yes,3,0
+2784,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,50
+2785,3459,Drug,Topical Steroids,Yes,Yes,23,0
+2785,3458,Therapy,Light Therapy,Yes,No,0,17
+2786,3334,Drug,Corticosteroids,Yes,No,1,0
+2786,3335,Therapy,Physical Therapy,No,No,0,18
+2787,3598,Therapy,Topical Insecticides,Yes,No,0,23
+2788,3334,Drug,Corticosteroids,Yes,Yes,1,0
+2788,3367,Therapy,Breathing Exercises,No,Yes,0,15
+2788,3368,Therapy,Oxygen Therapy,Yes,No,0,13
+2789,3733,Drug,Itraconazole,No,No,1,0
+2789,3732,Drug,Voriconazole,No,No,1,0
+2790,3427,Drug,Carbamazepine,Yes,No,3,0
+2790,3428,Drug,Valproate,No,Yes,2,0
+2790,3430,Therapy,Vagus Nerve Stimulation,Yes,No,0,0
+2791,3595,Drug,Metronidazole,Yes,No,1,0
+2791,3596,Drug,Clindamycin,Yes,No,1,0
+2792,3382,Drug,H2 Blockers,Yes,Yes,1,0
+2792,3381,Drug,Proton Pump Inhibitors (PPIs),Yes,No,1,0
+2792,3372,Drug,Antibiotics,Yes,No,12,0
+2792,3322,Therapy,Dietary Management,Yes,No,0,24
+2793,3405,Therapy,Physical Exercise,Yes,Yes,0,16
+2793,3322,Therapy,Dietary Management,Yes,No,0,18
+2794,3385,Drug,Antidiarrheals,No,Yes,1,0
+2794,3384,Drug,Laxatives,Yes,Yes,1,0
+2794,3386,Therapy,Stress Management,Yes,No,0,35
+2794,3322,Therapy,Dietary Management,Yes,No,0,31
+2795,3346,Drug,Metformin,Yes,No,2,0
+2795,3554,Drug,Clomiphene,Yes,Yes,1,0
+2795,3555,Therapy,Lifestyle Modifications,Yes,No,0,23
+2796,3433,Drug,Acetaminophen,Yes,No,1,0
+2796,3714,Drug,Electrolyte Solutions,Yes,No,12,0
+2796,3715,Therapy,Fluid Replacement,Yes,No,0,32
+2797,9998,Therapy,Lifestyle Changes,No,No,0,26
+2798,None,None,None,No,No,0,0
+2799,3322,Therapy,Dietary Management,Yes,No,0,36
+2799,3392,Therapy,Gluten-Free Diet,Yes,No,0,34
+2800,None,None,None,No,No,0,0
+2801,3326,Drug,Beta Blockers,Yes,Yes,1,0
+2801,3337,Drug,Statins,Yes,No,1,0
+2801,3325,Drug,Aspirin,Yes,No,1,0
+2801,3323,Surgery,Angioplasty,Yes,No,0,0
+2801,3322,Therapy,Dietary Management,Yes,No,0,59
+2802,3393,Drug,Pain Relievers,Yes,No,1,0
+2802,3548,Drug,Muscle Relaxants,Yes,Yes,1,0
+2802,3449,Drug,NSAIDs,Yes,Yes,1,0
+2802,3335,Therapy,Physical Therapy,Yes,No,0,41
+2802,3573,Surgery,Spinal Fusion Surgery,Yes,Yes,0,0
+2803,3370,Drug,Steroids,Yes,No,17,0
+2803,3480,Drug,Eltrombopag,No,Yes,1,0
+2803,3504,Therapy,Platelet Transfusions,Yes,No,0,57
+2804,3335,Therapy,Physical Therapy,Yes,No,0,17
+2805,3688,Drug,Amoxicillin,Yes,No,1,0
+2805,3594,Drug,Doxycycline,No,Yes,1,0
+2805,3404,Therapy,Rest,No,No,0,0
+2805,3335,Therapy,Physical Therapy,Yes,No,0,37
+2806,3473,Drug,Permethrin Cream,No,No,8,0
+2806,3474,Drug,Ivermectin,Yes,Yes,1,0
+2806,3471,Therapy,Topical Treatment,Yes,No,0,0
+2807,3334,Drug,Corticosteroids,Yes,No,1,0
+2807,3388,Drug,Methotrexate,No,No,1,0
+2807,3335,Therapy,Physical Therapy,No,No,0,39
+2808,3388,Drug,Methotrexate,No,No,1,0
+2808,3453,Drug,Biologics,Yes,Yes,7,0
+2808,3454,Therapy,UV Light Therapy,Yes,Yes,0,14
+2809,3393,Drug,Pain Relievers,No,Yes,1,0
+2809,3449,Drug,NSAIDs,Yes,No,2,0
+2809,3334,Drug,Corticosteroids,Yes,Yes,1,0
+2809,3338,Therapy,Exercise Therapy,Yes,No,0,22
+2809,3335,Therapy,Physical Therapy,Yes,Yes,0,25
+2810,3730,Drug,Nystatin,No,No,2,0
+2810,3731,Therapy,Topical Antifungal Treatment,Yes,No,0,0
+2811,3342,Drug,Warfarin,Yes,Yes,1,0
+2811,3341,Drug,Heparin,Yes,No,15,0
+2811,3338,Therapy,Exercise Therapy,Yes,No,0,31
+2812,None,None,None,No,No,0,0
+2813,3332,Drug,Calcium Channel Blockers,Yes,Yes,1,0
+2813,3326,Drug,Beta Blockers,Yes,Yes,1,0
+2813,3342,Drug,Warfarin,Yes,No,1,0
+2813,3321,Therapy,Lifestyle Changes,Yes,No,0,41
+2814,3554,Drug,Clomiphene,Yes,No,1,0
+2814,3555,Therapy,Lifestyle Modifications,Yes,No,0,22
+2815,3594,Drug,Doxycycline,Yes,No,1,0
+2815,3722,Drug,Zinc Supplements,Yes,No,1,0
+2815,3715,Therapy,Fluid Replacement,Yes,No,0,48
+2816,3335,Therapy,Physical Therapy,Yes,No,0,35
+2817,3622,Surgery,Wide Local Excision,Yes,No,0,0
+2817,3623,Drug,Dabrafenib,Yes,Yes,2,0
+2817,3624,Drug,Trametinib,Yes,No,2,0
+2817,3492,Therapy,External Beam Radiation,Yes,Yes,0,0
+2818,3372,Drug,Antibiotics,Yes,Yes,11,0
+2818,3553,Surgery,Laparoscopy,Yes,Yes,0,0
+2819,3614,Surgery,Polypectomy,Yes,No,0,0
+2819,3391,Surgery,Colectomy,Yes,No,0,0
+2819,3615,Drug,Capecitabine,Yes,Yes,1,0
+2819,3618,Drug,Irinotecan,Yes,Yes,9,0
+2819,3617,Drug,5-Fluorouracil,Yes,No,8,0
+2819,3616,Drug,Oxaliplatin,Yes,No,8,0
+2819,3492,Therapy,External Beam Radiation,Yes,No,0,0
+2820,3417,Drug,Edaravone,Yes,No,16,0
+2820,3416,Drug,Riluzole,Yes,Yes,2,0
+2820,3418,Therapy,Speech Therapy,Yes,No,0,51
+2821,3487,Drug,Desmopressin,Yes,No,1,0
+2821,3486,Drug,Clotting Factor Concentrates,Yes,No,7,0
+2821,3335,Therapy,Physical Therapy,Yes,No,0,77
+2822,3697,Drug,Decongestants,Yes,No,1,0
+2822,3455,Drug,Antihistamines,Yes,No,1,0
+2822,3701,Therapy,Saline Nasal Spray,Yes,No,0,0
+2823,3663,Therapy,Scaling and Root Planing,Yes,No,0,0
+2824,3393,Drug,Pain Relievers,Yes,Yes,1,0
+2824,3556,Drug,GnRH Agonists,Yes,Yes,7,0
+2824,3557,Surgery,Myomectomy,Yes,No,0,0
+2825,3368,Therapy,Oxygen Therapy,Yes,Yes,0,48
+2826,3333,Drug,Penicillin,Yes,No,12,0
+2826,3711,Therapy,Fluids,No,No,0,0
+2827,3717,Drug,Isoniazid,No,No,2,0
+2827,3718,Drug,Rifampin,Yes,Yes,2,0
+2827,3719,Drug,Ethambutol,Yes,Yes,2,0
+2827,3720,Therapy,Directly Observed Therapy (DOT),Yes,No,0,66
+2828,3362,Drug,Orlistat,No,Yes,3,0
+2828,3363,Drug,Phentermine,No,Yes,1,0
+2828,3365,Surgery,Gastric Banding,Yes,No,0,0
+2828,3322,Therapy,Dietary Management,Yes,No,0,40
+2828,3345,Therapy,Physical Activity,Yes,No,0,41
+2829,3465,Drug,Acyclovir,No,Yes,2,0
+2829,3438,Drug,Gabapentin,No,Yes,3,0
+2829,3468,Therapy,Pain Management,Yes,No,0,30
+2830,3327,Drug,ACE Inhibitors,No,No,1,0
+2830,3329,Drug,Diuretics,Yes,Yes,1,0
+2830,3326,Drug,Beta Blockers,Yes,Yes,2,0
+2830,3328,Therapy,Cardiac Rehabilitation,Yes,No,0,86
+2830,3321,Therapy,Lifestyle Changes,No,No,0,87
+2831,3384,Drug,Laxatives,Yes,Yes,1,0
+2831,3383,Drug,Antispasmodics,Yes,Yes,2,0
+2831,3385,Drug,Antidiarrheals,Yes,Yes,1,0
+2831,3386,Therapy,Stress Management,Yes,No,0,23
+2831,3322,Therapy,Dietary Management,Yes,No,0,24
+2832,3342,Drug,Warfarin,Yes,Yes,1,0
+2832,3327,Drug,ACE Inhibitors,No,Yes,1,0
+2832,3325,Drug,Aspirin,Yes,No,1,0
+2832,3321,Therapy,Lifestyle Changes,No,No,0,95
+2833,3335,Therapy,Physical Therapy,Yes,No,0,15
+2834,3372,Drug,Antibiotics,No,No,11,0
+2834,3400,Therapy,IV Fluids,No,No,0,0
+2834,3467,Therapy,Supportive Care,No,No,0,57
+2835,3570,Surgery,Rotator Cuff Repair Surgery,Yes,Yes,0,0
+2835,3335,Therapy,Physical Therapy,No,No,0,37
+2836,3467,Therapy,Supportive Care,Yes,No,0,15
+2837,3372,Drug,Antibiotics,Yes,No,11,0
+2837,3467,Therapy,Supportive Care,Yes,No,0,40
+2838,3465,Drug,Acyclovir,Yes,No,1,0
+2838,3438,Drug,Gabapentin,Yes,Yes,1,0
+2838,3468,Therapy,Pain Management,Yes,Yes,0,20
+2839,3702,Therapy,Nasal Packing,Yes,No,0,10
+2840,3480,Drug,Eltrombopag,No,Yes,1,0
+2840,3377,Drug,Immunosuppressants,No,Yes,2,0
+2840,3481,Therapy,Blood Transfusions,Yes,No,0,55
+2840,3482,Surgery,Bone Marrow Transplant,Yes,No,0,0
+2841,3326,Drug,Beta Blockers,Yes,Yes,2,0
+2841,3468,Therapy,Pain Management,Yes,No,0,36
+2841,3335,Therapy,Physical Therapy,Yes,No,0,33
+2842,3368,Therapy,Oxygen Therapy,Yes,Yes,0,32
+2842,3371,Therapy,Pulmonary Rehabilitation,Yes,No,0,33
+2843,3334,Drug,Corticosteroids,No,No,1,0
+2843,3366,Drug,Albuterol,Yes,No,10,0
+2843,3368,Therapy,Oxygen Therapy,No,No,0,29
+2843,3367,Therapy,Breathing Exercises,Yes,No,0,32
+2844,3409,Drug,Penicillamine,No,No,2,0
+2844,3408,Drug,Zinc Acetate,Yes,Yes,1,0
+2844,3322,Therapy,Dietary Management,Yes,No,0,30
+2845,3327,Drug,ACE Inhibitors,No,No,1,0
+2845,3372,Drug,Antibiotics,Yes,Yes,12,0
+2845,3398,Therapy,Dialysis,Yes,No,0,60
+2845,3399,Surgery,Kidney Transplant,Yes,No,0,0
+2846,3530,Drug,SSRIs,Yes,No,2,0
+2846,3423,Drug,Antidepressants,No,Yes,2,0
+2846,3531,Drug,SNRIs,Yes,Yes,2,0
+2846,3525,Drug,Tricyclic Antidepressants,Yes,No,2,0
+2846,3523,Therapy,Psychotherapy,No,No,0,0
+2846,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,34
+2847,3318,Drug,Amlodipine,Yes,Yes,1,0
+2847,3319,Drug,Lisinopril,Yes,Yes,1,0
+2847,3320,Drug,Hydrochlorothiazide,Yes,Yes,1,0
+2847,3322,Therapy,Dietary Management,Yes,No,0,31
+2847,3321,Therapy,Lifestyle Changes,Yes,No,0,36
+2848,3597,Drug,Tinidazole,Yes,Yes,1,0
+2848,3595,Drug,Metronidazole,Yes,No,1,0
+2848,3715,Therapy,Fluid Replacement,Yes,No,0,28
+2849,3575,Surgery,Laminectomy,Yes,Yes,0,0
+2849,3335,Therapy,Physical Therapy,Yes,No,0,38
+2850,3334,Drug,Corticosteroids,Yes,No,1,0
+2850,3368,Therapy,Oxygen Therapy,Yes,No,0,33
+2851,3501,Drug,Azacitidine,No,Yes,16,0
+2851,3502,Drug,Decitabine,Yes,Yes,16,0
+2851,3481,Therapy,Blood Transfusions,Yes,No,0,39
+2851,3499,Surgery,Stem Cell Transplant,Yes,Yes,0,0
+2852,3388,Drug,Methotrexate,No,No,1,0
+2852,3334,Drug,Corticosteroids,Yes,No,1,0
+2852,3335,Therapy,Physical Therapy,Yes,No,0,32
+2853,3446,Drug,Hydroxychloroquine,Yes,Yes,2,0
+2853,3334,Drug,Corticosteroids,Yes,No,1,0
+2853,3335,Therapy,Physical Therapy,Yes,No,0,32
+2854,None,None,None,No,No,0,0
+2855,3344,Drug,Insulin,No,No,39,0
+2855,3345,Therapy,Physical Activity,Yes,No,0,36
+2855,3322,Therapy,Dietary Management,Yes,No,0,39
+2856,3680,Drug,Ranibizumab,No,No,4,0
+2856,3681,Drug,Aflibercept,Yes,Yes,5,0
+2856,3682,Therapy,Photodynamic Therapy,Yes,No,0,0
+2857,3457,Drug,Topical Retinoids,No,Yes,23,0
+2857,3458,Therapy,Light Therapy,Yes,No,0,32
+2858,3332,Drug,Calcium Channel Blockers,No,Yes,2,0
+2858,3342,Drug,Warfarin,Yes,Yes,1,0
+2858,3330,Surgery,Cardiac Ablation,Yes,Yes,0,0
+2858,3331,Surgery,Pacemaker Insertion,Yes,No,0,0
+2858,3321,Therapy,Lifestyle Changes,Yes,No,0,55
+2859,3326,Drug,Beta Blockers,No,No,1,0
+2859,3349,Drug,Propylthiouracil,Yes,No,1,0
+2859,3348,Drug,Methimazole,Yes,No,1,0
+2859,3351,Drug,Levothyroxine,Yes,No,2,0
+2859,3350,Therapy,Radioactive Iodine Therapy,Yes,No,0,0
+2860,3436,Drug,Ergotamine,Yes,No,1,0
+2860,3437,Therapy,Relaxation Techniques,Yes,No,0,13
+2861,3344,Drug,Insulin,No,No,37,0
+2861,3322,Therapy,Dietary Management,Yes,No,0,50
+2861,3345,Therapy,Physical Activity,Yes,No,0,56
+2862,3372,Drug,Antibiotics,No,Yes,12,0
+2862,3400,Therapy,IV Fluids,Yes,No,0,0
+2862,3467,Therapy,Supportive Care,Yes,Yes,0,87
+2863,3446,Drug,Hydroxychloroquine,No,No,3,0
+2863,3334,Drug,Corticosteroids,No,Yes,1,0
+2863,3335,Therapy,Physical Therapy,Yes,Yes,0,35
+2864,3416,Drug,Riluzole,No,Yes,2,0
+2864,3417,Drug,Edaravone,Yes,Yes,22,0
+2864,3418,Therapy,Speech Therapy,Yes,No,0,60
+2864,3335,Therapy,Physical Therapy,Yes,No,0,62
+2865,3334,Drug,Corticosteroids,Yes,Yes,1,0
+2865,3449,Drug,NSAIDs,No,No,1,0
+2865,3338,Therapy,Exercise Therapy,Yes,No,0,45
+2865,3335,Therapy,Physical Therapy,No,No,0,49
+2866,3335,Therapy,Physical Therapy,Yes,Yes,0,55
+2866,3522,Drug,Allopurinol,Yes,Yes,1,0
+2867,3326,Drug,Beta Blockers,Yes,No,1,0
+2867,3327,Drug,ACE Inhibitors,Yes,No,2,0
+2867,3332,Drug,Calcium Channel Blockers,Yes,No,2,0
+2867,3322,Therapy,Dietary Management,Yes,No,0,22
+2868,3333,Drug,Penicillin,Yes,Yes,12,0
+2868,3434,Drug,Ibuprofen,Yes,No,1,0
+2868,3704,Therapy,Saltwater Gargle,Yes,No,0,0
+2869,3526,Therapy,Family-Focused Therapy,Yes,No,0,36
+2869,3527,Drug,Lithium,Yes,Yes,2,0
+2869,3528,Drug,Anticonvulsants,Yes,No,4,0
+2870,3390,Drug,Mesalamine,Yes,No,2,0
+2870,3334,Drug,Corticosteroids,Yes,No,1,0
+2870,3322,Therapy,Dietary Management,Yes,No,0,21
+2871,3338,Therapy,Exercise Therapy,Yes,No,0,20
+2871,3343,Therapy,Compression Stockings,Yes,Yes,0,0
+2871,3321,Therapy,Lifestyle Changes,Yes,Yes,0,20
+2872,3420,Drug,Antipsychotics,Yes,Yes,2,0
+2872,3411,Drug,Memantine,Yes,Yes,2,0
+2872,3410,Drug,Donepezil,No,Yes,2,0
+2872,3467,Therapy,Supportive Care,Yes,No,0,62
+2873,3455,Drug,Antihistamines,No,No,1,0
+2873,3456,Therapy,Moisturizing Therapy,Yes,No,0,27
+2874,3388,Drug,Methotrexate,Yes,No,1,0
+2874,3453,Drug,Biologics,No,No,7,0
+2874,3454,Therapy,UV Light Therapy,Yes,No,0,32
+2875,3327,Drug,ACE Inhibitors,Yes,Yes,2,0
+2875,3325,Drug,Aspirin,Yes,Yes,1,0
+2875,3326,Drug,Beta Blockers,Yes,Yes,2,0
+2875,3337,Drug,Statins,No,Yes,1,0
+2875,3323,Surgery,Angioplasty,Yes,Yes,0,0
+2875,3324,Surgery,Coronary Artery Bypass Surgery,Yes,No,0,0
+2875,3322,Therapy,Dietary Management,Yes,No,0,44
+2875,3321,Therapy,Lifestyle Changes,No,No,0,48
+2876,3343,Therapy,Compression Stockings,No,No,0,0
+2876,3338,Therapy,Exercise Therapy,Yes,No,0,40
+2876,3477,Surgery,Laser Surgery,Yes,No,0,0
+2877,3372,Drug,Antibiotics,Yes,No,10,0
+2877,3699,Drug,Corticosteroid Nasal Spray,No,No,19,0
+2877,3697,Drug,Decongestants,No,No,1,0
+2877,3701,Drug,Saline Nasal Spray,No,No,13,0
+2878,3457,Drug,Topical Retinoids,Yes,No,23,0
+2878,3372,Drug,Antibiotics,Yes,No,10,0
+2878,3458,Therapy,Light Therapy,No,No,0,28
+2879,3372,Drug,Antibiotics,No,No,10,0
+2880,3406,Therapy,Abstinence from Alcohol,No,No,0,39
+2880,3405,Therapy,Physical Exercise,Yes,No,0,41
+2881,3372,Drug,Antibiotics,No,Yes,12,0
+2881,3483,Drug,Immunoglobulins,Yes,No,13,0
+2881,3482,Surgery,Bone Marrow Transplant,Yes,No,0,0
+2882,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,41
+2883,3420,Drug,Antipsychotics,Yes,No,2,0
+2883,3538,Drug,Mood Stabilizers,Yes,Yes,3,0
+2883,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,39
+2884,3672,Therapy,Prescription Glasses,Yes,No,0,11
+2885,3420,Drug,Antipsychotics,No,Yes,3,0
+2885,3538,Drug,Mood Stabilizers,Yes,No,3,0
+2885,3423,Drug,Antidepressants,No,No,2,0
+2885,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,28
+2885,3523,Therapy,Psychotherapy,Yes,No,0,0
+2886,3673,Therapy,Contact Lenses,Yes,No,0,25
+2887,3533,Drug,Benzodiazepines,No,No,1,0
+2887,3423,Drug,Antidepressants,No,No,3,0
+2887,3532,Therapy,Relaxation Therapy,No,No,0,30
+2887,3523,Therapy,Psychotherapy,Yes,No,0,0
+2887,3412,Therapy,Cognitive Behavioral Therapy,No,No,0,29
+2888,3465,Drug,Acyclovir,Yes,No,1,0
+2888,3466,Drug,Valacyclovir,Yes,Yes,1,0
+2888,3467,Therapy,Supportive Care,No,No,0,25
+2889,3459,Drug,Topical Steroids,No,No,23,0
+2889,3463,Drug,Antifungal Shampoo,Yes,Yes,21,0
+2889,3458,Therapy,Light Therapy,Yes,No,0,29
+2890,3393,Drug,Pain Relievers,No,No,1,0
+2890,3544,Drug,Fever Reducers,No,Yes,1,0
+2890,3467,Therapy,Supportive Care,No,Yes,0,21
+2891,3405,Therapy,Physical Exercise,Yes,No,0,47
+2891,3322,Therapy,Dietary Management,Yes,No,0,41
+2892,3548,Drug,Muscle Relaxants,Yes,Yes,2,0
+2892,3449,Drug,NSAIDs,Yes,No,1,0
+2892,3393,Drug,Pain Relievers,Yes,Yes,1,0
+2892,3335,Therapy,Physical Therapy,Yes,No,0,35
+2893,3334,Drug,Corticosteroids,Yes,No,1,0
+2893,3434,Drug,Ibuprofen,Yes,No,1,0
+2893,3706,Therapy,Steam Inhalation,Yes,No,0,35
+2894,3395,Therapy,Hydration Therapy,Yes,No,0,41
+2894,3404,Therapy,Rest,No,No,0,0
+2895,3569,Surgery,Reduction Surgery,Yes,No,0,0
+2895,3335,Therapy,Physical Therapy,Yes,No,0,34
+2896,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,45
+2896,3542,Therapy,Dialectical Behavior Therapy,Yes,No,0,47
+2897,3674,Surgery,Lens Implant,Yes,No,0,0
+2898,3612,Drug,Flutamide,Yes,No,2,0
+2898,3611,Drug,Leuprolide,No,No,10,0
+2898,3492,Therapy,External Beam Radiation,Yes,Yes,0,0
+2898,3613,Therapy,Brachytherapy,Yes,No,0,0
+2899,3337,Drug,Statins,Yes,No,1,0
+2899,3327,Drug,ACE Inhibitors,Yes,Yes,1,0
+2899,3326,Drug,Beta Blockers,Yes,Yes,1,0
+2899,3321,Therapy,Lifestyle Changes,Yes,No,0,45
+2900,3708,Therapy,Voice Therapy,Yes,No,0,24
+2900,3709,Surgery,Nodule Removal Surgery,No,No,0,0
+2901,3344,Drug,Insulin,No,No,45,0
+2901,3322,Therapy,Dietary Management,Yes,No,0,39
+2901,3345,Therapy,Physical Activity,Yes,No,0,43
+2902,None,None,None,No,No,0,0
+2903,3530,Drug,SSRIs,Yes,Yes,2,0
+2903,3423,Drug,Antidepressants,Yes,No,2,0
+2903,3525,Drug,Tricyclic Antidepressants,No,No,2,0
+2903,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,44
+2903,3523,Therapy,Psychotherapy,Yes,No,0,0
+2904,3411,Drug,Memantine,Yes,Yes,2,0
+2904,3410,Drug,Donepezil,Yes,No,2,0
+2904,3405,Therapy,Physical Exercise,No,No,0,35
+2904,3412,Therapy,Cognitive Behavioral Therapy,No,No,0,35
+2905,3320,Drug,Hydrochlorothiazide,Yes,Yes,1,0
+2905,3319,Drug,Lisinopril,No,No,1,0
+2905,3321,Therapy,Lifestyle Changes,Yes,No,0,32
+2906,None,None,None,No,No,0,0
+2907,3381,Drug,Proton Pump Inhibitors (PPIs),No,Yes,1,0
+2907,3382,Drug,H2 Blockers,Yes,Yes,1,0
+2907,3321,Therapy,Lifestyle Changes,Yes,No,0,26
+2908,3461,Drug,Topical Antibiotics,Yes,Yes,15,0
+2908,3462,Drug,Oral Antibiotics,Yes,No,1,0
+2908,3458,Therapy,Light Therapy,No,No,0,33
+2909,3598,Therapy,Topical Insecticides,Yes,No,0,18
+2910,3622,Surgery,Wide Local Excision,Yes,Yes,0,0
+2910,3623,Drug,Dabrafenib,Yes,Yes,1,0
+2910,3624,Drug,Trametinib,Yes,No,1,0
+2910,3492,Therapy,External Beam Radiation,Yes,No,0,0
+2911,3568,Surgery,Tumor Resection Surgery,Yes,No,0,0
+2911,3388,Drug,Methotrexate,Yes,Yes,1,0
+2911,3490,Drug,Doxorubicin,Yes,Yes,12,0
+2911,3492,Therapy,External Beam Radiation,Yes,No,0,0
+2912,3598,Therapy,Topical Insecticides,Yes,No,0,16
+2913,3483,Drug,Immunoglobulins,Yes,No,13,0
+2913,3372,Drug,Antibiotics,No,No,13,0
+2913,3482,Surgery,Bone Marrow Transplant,Yes,No,0,0
+2914,3334,Drug,Corticosteroids,Yes,Yes,1,0
+2914,3366,Drug,Albuterol,Yes,No,20,0
+2914,3368,Therapy,Oxygen Therapy,No,Yes,0,21
+2915,3663,Therapy,Scaling and Root Planing,No,No,0,0
+2916,3347,Drug,Sulfonylureas,Yes,Yes,2,0
+2916,3344,Drug,Insulin,No,No,69,0
+2916,3346,Drug,Metformin,Yes,Yes,3,0
+2916,3322,Therapy,Dietary Management,No,No,0,43
+2917,3372,Drug,Antibiotics,No,No,11,0
+2917,3699,Drug,Corticosteroid Nasal Spray,Yes,Yes,21,0
+2917,3697,Drug,Decongestants,Yes,Yes,2,0
+2917,3698,Surgery,Sinus Surgery,Yes,No,0,0
+2918,3594,Drug,Doxycycline,Yes,Yes,1,0
+2918,3722,Drug,Zinc Supplements,Yes,Yes,1,0
+2918,3715,Therapy,Fluid Replacement,No,Yes,0,49
+2919,3679,Drug,Timolol,Yes,No,25,0
+2919,3678,Drug,Latanoprost,Yes,No,42,0
+2920,3325,Drug,Aspirin,Yes,Yes,1,0
+2920,3327,Drug,ACE Inhibitors,Yes,Yes,1,0
+2920,3321,Therapy,Lifestyle Changes,Yes,No,0,57
+2921,3445,Drug,Pregabalin,Yes,Yes,2,0
+2921,3393,Drug,Pain Relievers,Yes,No,1,0
+2921,3423,Drug,Antidepressants,Yes,Yes,3,0
+2921,3412,Therapy,Cognitive Behavioral Therapy,No,No,0,31
+2922,3461,Drug,Topical Antibiotics,Yes,No,15,0
+2922,3462,Drug,Oral Antibiotics,No,No,1,0
+2922,3458,Therapy,Light Therapy,No,No,0,14
+2923,3419,Drug,Tetrabenazine,Yes,No,2,0
+2923,3420,Drug,Antipsychotics,Yes,No,2,0
+2923,3418,Therapy,Speech Therapy,No,No,0,101
+2924,3393,Drug,Pain Relievers,Yes,No,1,0
+2924,3552,Drug,Hormone Therapy,Yes,Yes,1,0
+2924,3555,Therapy,Lifestyle Modifications,Yes,No,0,38
+2925,3594,Drug,Doxycycline,Yes,Yes,1,0
+2925,3722,Drug,Zinc Supplements,Yes,No,1,0
+2925,3715,Therapy,Fluid Replacement,Yes,No,0,33
+2926,3325,Drug,Aspirin,Yes,No,1,0
+2926,3337,Drug,Statins,No,Yes,1,0
+2926,3327,Drug,ACE Inhibitors,Yes,Yes,1,0
+2926,3326,Drug,Beta Blockers,No,No,1,0
+2926,3323,Surgery,Angioplasty,Yes,Yes,0,0
+2926,3324,Surgery,Coronary Artery Bypass Surgery,Yes,Yes,0,0
+2926,3321,Therapy,Lifestyle Changes,Yes,No,0,66
+2927,3395,Therapy,Hydration Therapy,Yes,No,0,35
+2928,3346,Drug,Metformin,Yes,Yes,2,0
+2928,3344,Drug,Insulin,Yes,Yes,73,0
+2928,3347,Drug,Sulfonylureas,Yes,Yes,2,0
+2928,3321,Therapy,Lifestyle Changes,No,No,0,48
+2928,3322,Therapy,Dietary Management,Yes,No,0,50
+2929,3373,Drug,Antiviral Medications,Yes,Yes,17,0
+2929,3716,Drug,Hepatitis B Immune Globulin,Yes,No,4,0
+2929,3404,Therapy,Rest,Yes,No,0,0
+2930,3370,Drug,Steroids,Yes,Yes,15,0
+2930,3369,Drug,Bronchodilators,No,No,1,0
+2930,3371,Therapy,Pulmonary Rehabilitation,Yes,No,0,40
+2931,3538,Drug,Mood Stabilizers,Yes,Yes,2,0
+2931,3420,Drug,Antipsychotics,No,No,2,0
+2931,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,40
+2932,3708,Therapy,Voice Therapy,Yes,No,0,23
+2933,3501,Drug,Azacitidine,No,No,15,0
+2933,3502,Drug,Decitabine,No,No,15,0
+2933,3481,Therapy,Blood Transfusions,No,No,0,21
+2934,3587,Drug,Antiviral Therapy,Yes,Yes,1,0
+2934,3588,Drug,Entecavir,Yes,Yes,2,0
+2934,3580,Drug,Tenofovir,Yes,Yes,2,0
+2935,3372,Drug,Antibiotics,Yes,Yes,10,0
+2935,3467,Therapy,Supportive Care,No,No,0,37
+2936,3598,Therapy,Topical Insecticides,No,Yes,0,18
+2937,3333,Drug,Penicillin,Yes,Yes,12,0
+2937,3724,Therapy,Airway Management,Yes,No,0,45
+2938,3663,Therapy,Scaling and Root Planing,Yes,No,0,0
+2939,3531,Drug,SNRIs,Yes,Yes,2,0
+2939,3423,Drug,Antidepressants,No,Yes,2,0
+2939,3525,Drug,Tricyclic Antidepressants,Yes,Yes,3,0
+2939,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,32
+2939,3523,Therapy,Psychotherapy,Yes,No,0,0
+2940,3334,Drug,Corticosteroids,Yes,No,1,0
+2940,3367,Therapy,Breathing Exercises,No,No,0,15
+2940,3368,Therapy,Oxygen Therapy,Yes,No,0,15
+2941,3468,Therapy,Pain Management,Yes,No,0,34
+2941,3517,Therapy,Chemotherapy,Yes,Yes,0,31
+2942,3388,Drug,Methotrexate,Yes,No,1,0
+2942,3387,Drug,Infliximab,No,Yes,6,0
+2942,3389,Surgery,Bowel Resection Surgery,Yes,Yes,0,0
+2942,3322,Therapy,Dietary Management,Yes,No,0,27
+2943,3374,Therapy,CPAP Therapy,Yes,No,0,0
+2944,3534,Therapy,Exposure Therapy,Yes,No,0,21
+2944,3530,Drug,SSRIs,Yes,Yes,3,0
+2944,3533,Drug,Benzodiazepines,Yes,No,1,0
+2945,3510,Drug,Onasemnogene,Yes,Yes,10,0
+2945,3335,Therapy,Physical Therapy,Yes,Yes,0,25
+2946,3327,Drug,ACE Inhibitors,No,Yes,1,0
+2946,3329,Drug,Diuretics,Yes,No,1,0
+2946,3338,Therapy,Exercise Therapy,Yes,Yes,0,27
+2947,3488,Drug,Imatinib,No,No,2,0
+2947,3656,Drug,Dasatinib,Yes,No,2,0
+2947,3657,Drug,Busulfan,No,Yes,8,0
+2947,3482,Surgery,Bone Marrow Transplant,Yes,No,0,0
+2948,3595,Drug,Metronidazole,No,No,1,0
+2948,3597,Drug,Tinidazole,No,No,1,0
+2948,3715,Therapy,Fluid Replacement,Yes,No,0,26
+2949,3362,Drug,Orlistat,Yes,No,4,0
+2949,3363,Drug,Phentermine,Yes,Yes,1,0
+2949,3364,Surgery,Gastric Bypass Surgery,Yes,Yes,0,0
+2949,3365,Surgery,Gastric Banding,Yes,Yes,0,0
+2949,3345,Therapy,Physical Activity,No,Yes,0,27
+2949,3322,Therapy,Dietary Management,Yes,No,0,24
+2950,3336,Drug,Cilostazol,No,No,1,0
+2950,3337,Drug,Statins,Yes,No,1,0
+2950,3325,Drug,Aspirin,Yes,No,1,0
+2950,3324,Surgery,Coronary Artery Bypass Surgery,Yes,Yes,0,0
+2950,3323,Surgery,Angioplasty,Yes,Yes,0,0
+2950,3338,Therapy,Exercise Therapy,Yes,No,0,37
+2951,3533,Drug,Benzodiazepines,No,Yes,1,0
+2951,3423,Drug,Antidepressants,Yes,No,2,0
+2951,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,24
+2951,3523,Therapy,Psychotherapy,Yes,No,0,0
+2952,3396,Surgery,Cholecystectomy,Yes,No,0,0
+2952,3322,Therapy,Dietary Management,Yes,No,0,26
+2953,3538,Drug,Mood Stabilizers,Yes,No,3,0
+2953,3420,Drug,Antipsychotics,Yes,Yes,2,0
+2953,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,42
+2954,3607,Drug,Carboplatin,Yes,No,7,0
+2954,3606,Drug,Pembrolizumab,No,No,7,0
+2954,3605,Drug,Etoposide,Yes,Yes,7,0
+2954,3604,Drug,Cisplatin,Yes,No,7,0
+2954,3608,Drug,Paclitaxel,Yes,Yes,7,0
+2954,3609,Therapy,Stereotactic Body Radiation Therapy (SBRT),Yes,No,0,0
+2955,3566,Surgery,Fracture Repair Surgery,Yes,No,0,0
+2955,3335,Therapy,Physical Therapy,Yes,No,0,32
+2956,3451,Drug,Cyclophosphamide,No,No,12,0
+2956,3654,Drug,Venetoclax,Yes,Yes,2,0
+2956,3653,Drug,Ibrutinib,Yes,Yes,2,0
+2956,3655,Drug,Fludarabine,No,Yes,11,0
+2956,3482,Surgery,Bone Marrow Transplant,Yes,No,0,0
+2957,3441,Drug,Prednisone,Yes,No,1,0
+2957,3440,Drug,Pyridostigmine,Yes,No,2,0
+2957,3335,Therapy,Physical Therapy,No,Yes,0,37
+2958,3372,Drug,Antibiotics,No,No,10,0
+2958,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,24
+2959,3327,Drug,ACE Inhibitors,Yes,No,1,0
+2959,3329,Drug,Diuretics,No,No,1,0
+2959,3326,Drug,Beta Blockers,No,No,1,0
+2959,3332,Drug,Calcium Channel Blockers,No,No,1,0
+2959,3321,Therapy,Lifestyle Changes,Yes,No,0,41
+2959,3338,Therapy,Exercise Therapy,Yes,No,0,43
+2959,3322,Therapy,Dietary Management,Yes,No,0,43
+2960,3434,Drug,Ibuprofen,No,No,1,0
+2960,3705,Therapy,Voice Rest,Yes,No,0,15
+2960,3706,Therapy,Steam Inhalation,Yes,No,0,18
+2961,3538,Drug,Mood Stabilizers,Yes,Yes,3,0
+2961,3423,Drug,Antidepressants,Yes,No,4,0
+2961,3412,Therapy,Cognitive Behavioral Therapy,No,No,0,29
+2961,3582,Therapy,Counseling,No,No,0,32
+2961,3523,Therapy,Psychotherapy,Yes,No,0,0
+2962,3690,Drug,Ciprofloxacin Ear Drops,No,No,13,0
+2962,3692,Therapy,Ear Cleaning,Yes,No,0,22
+2963,3434,Drug,Ibuprofen,Yes,No,1,0
+2963,3333,Drug,Penicillin,Yes,No,14,0
+2964,3685,Drug,Antibiotic Eye Drops,Yes,No,1,0
+2964,3686,Drug,Antihistamine Eye Drops,No,No,1,0
+2964,3687,Therapy,Warm Compress,Yes,No,0,19
+2965,3342,Drug,Warfarin,Yes,Yes,1,0
+2965,3341,Drug,Heparin,Yes,Yes,13,0
+2965,3332,Drug,Calcium Channel Blockers,Yes,No,1,0
+2965,3321,Therapy,Lifestyle Changes,No,No,0,48
+2966,3538,Drug,Mood Stabilizers,No,No,2,0
+2966,3423,Drug,Antidepressants,No,No,2,0
+2966,3412,Therapy,Cognitive Behavioral Therapy,Yes,Yes,0,35
+2966,3523,Therapy,Psychotherapy,No,No,0,0
+2966,3582,Therapy,Counseling,Yes,No,0,33
+2967,3327,Drug,ACE Inhibitors,No,Yes,2,0
+2967,3337,Drug,Statins,No,No,1,0
+2967,3326,Drug,Beta Blockers,Yes,No,1,0
+2967,3325,Drug,Aspirin,No,No,1,0
+2967,3324,Surgery,Coronary Artery Bypass Surgery,Yes,Yes,0,0
+2967,3323,Surgery,Angioplasty,Yes,No,0,0
+2967,3322,Therapy,Dietary Management,Yes,No,0,43
+2968,3478,Drug,Iron Supplements,No,Yes,2,0
+2968,3322,Therapy,Dietary Management,Yes,No,0,34
+2969,3663,Therapy,Scaling and Root Planing,No,Yes,0,0
+2970,None,None,None,No,No,0,0
+2971,3369,Drug,Bronchodilators,Yes,Yes,1,0
+2971,3370,Drug,Steroids,No,No,17,0
+2971,3371,Therapy,Pulmonary Rehabilitation,Yes,No,0,38
+2972,3344,Drug,Insulin,Yes,No,67,0
+2972,3345,Therapy,Physical Activity,Yes,No,0,31
+2972,3322,Therapy,Dietary Management,Yes,No,0,31
+2973,3325,Drug,Aspirin,Yes,No,1,0
+2973,3341,Drug,Heparin,Yes,Yes,13,0
+2973,3337,Drug,Statins,No,Yes,1,0
+2973,3321,Therapy,Lifestyle Changes,Yes,No,0,56
+2974,3327,Drug,ACE Inhibitors,Yes,Yes,1,0
+2974,3325,Drug,Aspirin,No,Yes,1,0
+2974,3326,Drug,Beta Blockers,Yes,No,1,0
+2974,3337,Drug,Statins,Yes,Yes,1,0
+2974,3323,Surgery,Angioplasty,Yes,No,0,0
+2974,3324,Surgery,Coronary Artery Bypass Surgery,Yes,No,0,0
+2974,3321,Therapy,Lifestyle Changes,Yes,No,0,46
+2974,3322,Therapy,Dietary Management,Yes,No,0,47
+2975,3441,Drug,Prednisone,No,Yes,1,0
+2975,3335,Therapy,Physical Therapy,Yes,No,0,39
+2976,3348,Drug,Methimazole,Yes,Yes,2,0
+2976,3350,Therapy,Radioactive Iodine Therapy,Yes,No,0,0
+2977,3660,Therapy,Fluoride Treatment,Yes,Yes,0,0
+2978,3467,Therapy,Supportive Care,Yes,No,0,15
+2979,3329,Drug,Diuretics,Yes,No,1,0
+2979,3326,Drug,Beta Blockers,Yes,No,2,0
+2979,3332,Drug,Calcium Channel Blockers,No,No,1,0
+2979,3322,Therapy,Dietary Management,No,No,0,34
+2979,3321,Therapy,Lifestyle Changes,Yes,No,0,29
+2979,3338,Therapy,Exercise Therapy,Yes,Yes,0,31
+2980,3342,Drug,Warfarin,No,Yes,1,0
+2980,3341,Drug,Heparin,No,No,12,0
+2980,3343,Therapy,Compression Stockings,Yes,No,0,0
+2981,3435,Drug,Sumatriptan,Yes,No,1,0
+2981,3449,Drug,NSAIDs,Yes,No,1,0
+2981,3393,Drug,Pain Relievers,Yes,No,1,0
+2981,3437,Therapy,Relaxation Techniques,No,No,0,14
+2982,3500,Drug,Interferon Alpha,Yes,No,22,0
+2982,3516,Surgery,Tumor Removal Surgery,Yes,No,0,0
+2982,3492,Therapy,External Beam Radiation,Yes,No,0,0
+2983,3342,Drug,Warfarin,Yes,Yes,1,0
+2983,3341,Drug,Heparin,Yes,No,13,0
+2983,3338,Therapy,Exercise Therapy,Yes,No,0,24
+2983,3343,Therapy,Compression Stockings,Yes,Yes,0,0
+2984,3554,Drug,Clomiphene,Yes,No,1,0
+2984,3346,Drug,Metformin,Yes,No,2,0
+2984,3555,Therapy,Lifestyle Modifications,Yes,No,0,19
+2985,3344,Drug,Insulin,Yes,No,40,0
+2985,3321,Therapy,Lifestyle Changes,Yes,No,0,38
+2986,3595,Drug,Metronidazole,Yes,No,2,0
+2986,3725,Drug,Tetanus Immune Globulin,Yes,No,2,0
+2986,3472,Therapy,Wound Care,Yes,No,0,26
+2987,None,None,None,No,No,0,0
+2988,3334,Drug,Corticosteroids,Yes,Yes,1,0
+2988,3329,Drug,Diuretics,Yes,Yes,1,0
+2988,3322,Therapy,Dietary Management,Yes,No,0,27
+2989,3411,Drug,Memantine,No,No,2,0
+2989,3410,Drug,Donepezil,Yes,No,2,0
+2989,3420,Drug,Antipsychotics,Yes,No,2,0
+2989,3467,Therapy,Supportive Care,Yes,No,0,62
+2989,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,56
+2990,3472,Therapy,Wound Care,Yes,No,0,48
+2991,3568,Surgery,Tumor Resection Surgery,Yes,Yes,0,0
+2991,3490,Drug,Doxorubicin,Yes,Yes,11,0
+2991,3388,Drug,Methotrexate,Yes,Yes,1,0
+2991,3492,Therapy,External Beam Radiation,Yes,No,0,0
+2992,3405,Therapy,Physical Exercise,Yes,No,0,32
+2993,3576,Therapy,Hearing Aids,Yes,No,0,30
+2993,3694,Surgery,Cochlear Implant Surgery,No,Yes,0,0
+2994,3391,Surgery,Colectomy,Yes,No,0,0
+2994,3615,Drug,Capecitabine,Yes,No,2,0
+2994,3616,Drug,Oxaliplatin,No,No,10,0
+2994,3492,Therapy,External Beam Radiation,Yes,No,0,0
+2995,3531,Drug,SNRIs,Yes,No,3,0
+2995,3530,Drug,SSRIs,Yes,Yes,2,0
+2995,3423,Drug,Antidepressants,No,Yes,4,0
+2995,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,51
+2996,3512,Therapy,Sun Protection Counseling,Yes,No,0,12
+2996,3511,Therapy,Vision Therapy,Yes,No,0,12
+2996,3513,Drug,Sunscreen,Yes,No,66,0
+2996,3514,Drug,Vitamin D Supplementation,Yes,No,1,0
+2997,3381,Drug,Proton Pump Inhibitors (PPIs),Yes,Yes,1,0
+2997,3321,Therapy,Lifestyle Changes,Yes,No,0,34
+2998,3334,Drug,Corticosteroids,No,Yes,1,0
+2998,3329,Drug,Diuretics,Yes,Yes,1,0
+2998,3322,Therapy,Dietary Management,Yes,No,0,51
+2999,3393,Drug,Pain Relievers,Yes,No,1,0
+2999,3556,Drug,GnRH Agonists,Yes,No,7,0
+2999,3558,Surgery,Hysterectomy,Yes,No,0,0
+2999,3557,Surgery,Myomectomy,Yes,Yes,0,0
+3000,3420,Drug,Antipsychotics,Yes,Yes,3,0
+3000,3410,Drug,Donepezil,No,No,3,0
+3000,3412,Therapy,Cognitive Behavioral Therapy,No,Yes,0,42
+3000,3467,Therapy,Supportive Care,Yes,No,0,46
+3001,3423,Drug,Antidepressants,Yes,Yes,2,0
+3001,3533,Drug,Benzodiazepines,Yes,No,1,0
+3001,3532,Therapy,Relaxation Therapy,No,No,0,34
+3001,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,32
+3001,3523,Therapy,Psychotherapy,Yes,No,0,0
+3002,None,None,None,No,No,0,0
+3003,3597,Drug,Tinidazole,Yes,Yes,1,0
+3003,3595,Drug,Metronidazole,Yes,No,1,0
+3003,3715,Therapy,Fluid Replacement,No,No,0,18
+3004,3338,Therapy,Exercise Therapy,Yes,No,0,24
+3004,3343,Therapy,Compression Stockings,Yes,No,0,0
+3004,3321,Therapy,Lifestyle Changes,Yes,No,0,22
+3005,3372,Drug,Antibiotics,Yes,No,10,0
+3005,3457,Drug,Topical Retinoids,Yes,No,23,0
+3005,3458,Therapy,Light Therapy,Yes,No,0,11
+3006,3372,Drug,Antibiotics,Yes,No,10,0
+3007,3341,Drug,Heparin,Yes,No,12,0
+3007,3321,Therapy,Lifestyle Changes,Yes,No,0,46
+3008,3449,Drug,NSAIDs,Yes,Yes,1,0
+3008,3435,Drug,Sumatriptan,Yes,No,1,0
+3008,3393,Drug,Pain Relievers,Yes,Yes,1,0
+3008,3437,Therapy,Relaxation Techniques,Yes,No,0,14
+3009,3356,Drug,Hydrocortisone,Yes,No,1,0
+3009,3357,Drug,Fludrocortisone,No,No,1,0
+3009,3322,Therapy,Dietary Management,Yes,Yes,0,31
+3010,3366,Drug,Albuterol,Yes,No,11,0
+3010,3334,Drug,Corticosteroids,Yes,Yes,1,0
+3010,3367,Therapy,Breathing Exercises,Yes,No,0,23
+3011,3460,Drug,Calcineurin Inhibitors,No,No,1,0
+3011,3459,Drug,Topical Steroids,Yes,No,23,0
+3011,3458,Therapy,Light Therapy,Yes,Yes,0,21
+3012,3370,Drug,Steroids,Yes,Yes,15,0
+3012,3444,Drug,Creatine,Yes,Yes,2,0
+3012,3426,Therapy,Occupational Therapy,Yes,No,0,49
+3012,3335,Therapy,Physical Therapy,Yes,No,0,49
+3013,3427,Drug,Carbamazepine,Yes,No,3,0
+3013,3430,Therapy,Vagus Nerve Stimulation,Yes,No,0,0
+3014,3372,Drug,Antibiotics,Yes,Yes,11,0
+3015,3333,Drug,Penicillin,Yes,Yes,15,0
+3015,3723,Drug,Antitoxin,Yes,No,7,0
+3015,3724,Therapy,Airway Management,Yes,No,0,42
+3016,3462,Drug,Oral Antibiotics,No,No,1,0
+3016,3472,Therapy,Wound Care,Yes,No,0,23
+3017,3467,Therapy,Supportive Care,Yes,Yes,0,18
+3018,3490,Drug,Doxorubicin,Yes,No,11,0
+3018,3388,Drug,Methotrexate,Yes,Yes,1,0
+3018,3492,Therapy,External Beam Radiation,Yes,No,0,0
+3019,3382,Drug,H2 Blockers,Yes,Yes,1,0
+3019,3381,Drug,Proton Pump Inhibitors (PPIs),Yes,No,1,0
+3019,3321,Therapy,Lifestyle Changes,Yes,No,0,47
+3020,3500,Drug,Interferon Alpha,Yes,No,23,0
+3020,3516,Surgery,Tumor Removal Surgery,Yes,No,0,0
+3020,3517,Therapy,Chemotherapy,Yes,No,0,47
+3020,3492,Therapy,External Beam Radiation,Yes,No,0,0
+3020,3321,Therapy,Lifestyle Changes,Yes,No,0,53
+3021,3688,Drug,Amoxicillin,Yes,Yes,1,0
+3021,3333,Drug,Penicillin,No,Yes,12,0
+3021,3711,Therapy,Fluids,Yes,No,0,0
+3021,3404,Therapy,Rest,Yes,No,0,0
+3022,3393,Drug,Pain Relievers,Yes,Yes,1,0
+3022,3423,Drug,Antidepressants,Yes,No,2,0
+3022,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,26
+3022,3338,Therapy,Exercise Therapy,Yes,No,0,29
+3023,3500,Drug,Interferon Alpha,Yes,Yes,24,0
+3023,3517,Therapy,Chemotherapy,No,No,0,52
+3023,3321,Therapy,Lifestyle Changes,Yes,No,0,51
+3024,3395,Therapy,Hydration Therapy,Yes,No,0,15
+3025,3573,Surgery,Spinal Fusion Surgery,Yes,No,0,0
+3025,3335,Therapy,Physical Therapy,Yes,No,0,50
+3026,3725,Drug,Tetanus Immune Globulin,Yes,No,4,0
+3026,3595,Drug,Metronidazole,Yes,No,1,0
+3026,3472,Therapy,Wound Care,Yes,No,0,49
+3027,3599,Surgery,Mastectomy,Yes,No,0,0
+3027,3601,Drug,Tamoxifen,Yes,No,2,0
+3027,3451,Drug,Cyclophosphamide,Yes,No,12,0
+3027,3490,Drug,Doxorubicin,No,No,11,0
+3027,3492,Therapy,External Beam Radiation,Yes,No,0,0
+3028,3700,Surgery,Septoplasty,No,No,0,0
+3029,3393,Drug,Pain Relievers,Yes,No,1,0
+3029,3449,Drug,NSAIDs,Yes,Yes,1,0
+3029,3335,Therapy,Physical Therapy,Yes,No,0,33
+3029,3447,Surgery,Joint Replacement,Yes,Yes,0,0
+3030,3479,Drug,Vitamin B12 Injections,Yes,No,10,0
+3030,3322,Therapy,Dietary Management,Yes,Yes,0,27
+3031,3422,Drug,Glatiramer Acetate,No,No,24,0
+3031,3421,Drug,Interferon Beta,Yes,No,24,0
+3031,3335,Therapy,Physical Therapy,Yes,No,0,50
+3032,3410,Drug,Donepezil,Yes,Yes,2,0
+3032,3467,Therapy,Supportive Care,Yes,No,0,69
+3032,3412,Therapy,Cognitive Behavioral Therapy,No,No,0,68
+3033,3664,Surgery,Gum Graft Surgery,Yes,No,0,0
+3033,3663,Therapy,Scaling and Root Planing,Yes,No,0,0
+3034,3570,Surgery,Rotator Cuff Repair Surgery,Yes,No,0,0
+3034,3335,Therapy,Physical Therapy,No,No,0,29
+3035,3423,Drug,Antidepressants,No,No,2,0
+3035,3533,Drug,Benzodiazepines,Yes,No,1,0
+3035,3532,Therapy,Relaxation Therapy,Yes,No,0,31
+3035,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,30
+3035,3523,Therapy,Psychotherapy,Yes,No,0,0
+3036,3329,Drug,Diuretics,No,Yes,1,0
+3036,3327,Drug,ACE Inhibitors,Yes,Yes,1,0
+3037,3326,Drug,Beta Blockers,Yes,Yes,2,0
+3037,3335,Therapy,Physical Therapy,Yes,No,0,35
+3038,3436,Drug,Ergotamine,Yes,No,1,0
+3038,3393,Drug,Pain Relievers,Yes,Yes,2,0
+3038,3449,Drug,NSAIDs,No,No,1,0
+3038,3437,Therapy,Relaxation Techniques,No,No,0,38
+3039,3554,Drug,Clomiphene,Yes,No,1,0
+3039,3346,Drug,Metformin,Yes,No,2,0
+3039,3555,Therapy,Lifestyle Modifications,No,No,0,38
+3040,3673,Therapy,Contact Lenses,Yes,No,0,21
+3040,3672,Therapy,Prescription Glasses,No,Yes,0,24
+3041,3423,Drug,Antidepressants,No,Yes,2,0
+3041,3525,Drug,Tricyclic Antidepressants,Yes,No,4,0
+3041,3531,Drug,SNRIs,Yes,Yes,3,0
+3041,3412,Therapy,Cognitive Behavioral Therapy,No,No,0,29
+3042,3341,Drug,Heparin,Yes,No,13,0
+3042,3486,Drug,Clotting Factor Concentrates,Yes,No,7,0
+3042,3481,Therapy,Blood Transfusions,Yes,No,0,57
+3043,3332,Drug,Calcium Channel Blockers,Yes,No,2,0
+3043,3326,Drug,Beta Blockers,Yes,Yes,1,0
+3044,3423,Drug,Antidepressants,Yes,No,2,0
+3044,3420,Drug,Antipsychotics,Yes,No,2,0
+3044,3538,Drug,Mood Stabilizers,Yes,No,3,0
+3044,3523,Therapy,Psychotherapy,Yes,No,0,0
+3045,3332,Drug,Calcium Channel Blockers,No,Yes,1,0
+3045,3326,Drug,Beta Blockers,No,No,2,0
+3045,3338,Therapy,Exercise Therapy,Yes,No,0,28
+3045,3321,Therapy,Lifestyle Changes,Yes,No,0,29
+3046,3484,Drug,Hydroxyurea,Yes,Yes,2,0
+3046,3333,Drug,Penicillin,Yes,Yes,14,0
+3046,3481,Therapy,Blood Transfusions,Yes,No,0,35
+3046,3482,Surgery,Bone Marrow Transplant,Yes,No,0,0
+3047,3423,Drug,Antidepressants,No,No,2,0
+3047,3523,Therapy,Psychotherapy,No,No,0,0
+3047,3532,Therapy,Relaxation Therapy,Yes,No,0,20
+3048,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,20
+3048,3533,Drug,Benzodiazepines,Yes,No,1,0
+3049,3344,Drug,Insulin,Yes,No,37,0
+3049,3346,Drug,Metformin,No,No,2,0
+3049,3322,Therapy,Dietary Management,Yes,No,0,32
+3050,3658,Surgery,Tooth Extraction,Yes,No,0,0
+3050,3660,Therapy,Fluoride Treatment,No,Yes,0,0
+3051,3643,Surgery,Esophagectomy,Yes,Yes,0,0
+3051,3641,Drug,Trastuzumab,No,No,10,0
+3051,3607,Drug,Carboplatin,Yes,Yes,9,0
+3051,3644,Drug,Nivolumab,Yes,Yes,10,0
+3051,3608,Drug,Paclitaxel,No,Yes,8,0
+3051,3492,Therapy,External Beam Radiation,No,No,0,0
+3052,3564,Drug,Calcium Supplements,Yes,Yes,3,0
+3052,3563,Drug,Bisphosphonates,No,Yes,15,0
+3052,3335,Therapy,Physical Therapy,Yes,No,0,34
+3053,3335,Therapy,Physical Therapy,Yes,No,0,30
+3054,3329,Drug,Diuretics,Yes,No,1,0
+3054,3327,Drug,ACE Inhibitors,Yes,Yes,1,0
+3055,3325,Drug,Aspirin,Yes,Yes,1,0
+3055,3326,Drug,Beta Blockers,Yes,Yes,1,0
+3055,3337,Drug,Statins,Yes,Yes,1,0
+3055,3327,Drug,ACE Inhibitors,Yes,Yes,1,0
+3055,3323,Surgery,Angioplasty,Yes,No,0,0
+3055,3321,Therapy,Lifestyle Changes,Yes,No,0,47
+3055,3322,Therapy,Dietary Management,Yes,Yes,0,56
+3056,3451,Drug,Cyclophosphamide,Yes,Yes,13,0
+3056,3649,Drug,Vincristine,No,No,8,0
+3056,3482,Surgery,Bone Marrow Transplant,Yes,Yes,0,0
+3057,3473,Drug,Permethrin Cream,No,No,8,0
+3057,3474,Drug,Ivermectin,No,No,1,0
+3057,3471,Therapy,Topical Treatment,Yes,No,0,0
+3058,3461,Drug,Topical Antibiotics,Yes,No,15,0
+3058,3462,Drug,Oral Antibiotics,No,Yes,1,0
+3058,3458,Therapy,Light Therapy,Yes,No,0,10
+3059,3411,Drug,Memantine,Yes,Yes,2,0
+3059,3420,Drug,Antipsychotics,Yes,Yes,3,0
+3059,3410,Drug,Donepezil,Yes,Yes,2,0
+3059,3467,Therapy,Supportive Care,Yes,No,0,55
+3059,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,50
+3060,3480,Drug,Eltrombopag,Yes,Yes,1,0
+3060,3370,Drug,Steroids,No,No,14,0
+3060,3504,Therapy,Platelet Transfusions,Yes,No,0,44
+3061,3486,Drug,Clotting Factor Concentrates,Yes,Yes,7,0
+3061,3487,Drug,Desmopressin,No,Yes,1,0
+3061,3504,Therapy,Platelet Transfusions,Yes,No,0,53
+3062,3525,Drug,Tricyclic Antidepressants,No,Yes,2,0
+3062,3423,Drug,Antidepressants,Yes,No,2,0
+3062,3530,Drug,SSRIs,Yes,No,2,0
+3062,3523,Therapy,Psychotherapy,Yes,Yes,0,0
+3063,3326,Drug,Beta Blockers,No,No,2,0
+3063,3335,Therapy,Physical Therapy,Yes,No,0,25
+3064,3388,Drug,Methotrexate,Yes,No,1,0
+3064,3334,Drug,Corticosteroids,Yes,Yes,1,0
+3064,3335,Therapy,Physical Therapy,Yes,Yes,0,26
+3065,3326,Drug,Beta Blockers,Yes,Yes,1,0
+3065,3332,Drug,Calcium Channel Blockers,No,Yes,1,0
+3065,3506,Surgery,Lens Replacement,Yes,No,0,0
+3066,3325,Drug,Aspirin,Yes,Yes,1,0
+3066,3334,Drug,Corticosteroids,Yes,Yes,1,0
+3066,3333,Drug,Penicillin,Yes,Yes,14,0
+3066,3335,Therapy,Physical Therapy,Yes,No,0,33
+3067,3674,Surgery,Lens Implant,Yes,No,0,0
+3067,3670,Surgery,LASIK,Yes,No,0,0
+3067,3672,Therapy,Prescription Glasses,Yes,No,0,22
+3068,3730,Drug,Nystatin,No,No,2,0
+3068,3729,Drug,Fluconazole,Yes,Yes,1,0
+3068,3731,Therapy,Topical Antifungal Treatment,Yes,No,0,0
+3069,3341,Drug,Heparin,Yes,Yes,13,0
+3069,3486,Drug,Clotting Factor Concentrates,Yes,Yes,7,0
+3069,3481,Therapy,Blood Transfusions,Yes,No,0,35
+3070,3681,Drug,Aflibercept,No,No,2,0
+3070,3680,Drug,Ranibizumab,Yes,No,2,0
+3070,3682,Therapy,Photodynamic Therapy,Yes,No,0,0
+3071,3634,Surgery,Nephrectomy,Yes,Yes,0,0
+3071,3633,Surgery,Ablation Therapy,Yes,No,0,0
+3071,3635,Drug,Sunitinib,Yes,No,1,0
+3071,3636,Drug,Pazopanib,Yes,Yes,1,0
+3072,3525,Drug,Tricyclic Antidepressants,Yes,Yes,2,0
+3072,3523,Therapy,Psychotherapy,Yes,No,0,0
+3073,3663,Therapy,Scaling and Root Planing,Yes,Yes,0,0
+3074,3652,Drug,Idarubicin,No,No,7,0
+3074,3650,Drug,Daunorubicin,Yes,No,7,0
+3074,3489,Drug,Cytarabine,Yes,Yes,10,0
+3074,3651,Drug,Mitoxantrone,Yes,No,7,0
+3075,3525,Drug,Tricyclic Antidepressants,Yes,No,2,0
+3075,3531,Drug,SNRIs,Yes,No,2,0
+3075,3530,Drug,SSRIs,Yes,Yes,3,0
+3075,3423,Drug,Antidepressants,No,Yes,4,0
+3075,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,52
+3075,3523,Therapy,Psychotherapy,Yes,No,0,0
+3076,3633,Surgery,Ablation Therapy,Yes,Yes,0,0
+3076,3636,Drug,Pazopanib,No,No,1,0
+3076,3635,Drug,Sunitinib,Yes,Yes,1,0
+3077,3544,Drug,Fever Reducers,Yes,Yes,1,0
+3077,3543,Drug,Vitamin A,Yes,No,1,0
+3077,3467,Therapy,Supportive Care,No,No,0,25
+3078,3393,Drug,Pain Relievers,Yes,No,1,0
+3078,3548,Drug,Muscle Relaxants,No,Yes,1,0
+3078,3335,Therapy,Physical Therapy,Yes,No,0,48
+3079,3334,Drug,Corticosteroids,No,No,1,0
+3079,3455,Drug,Antihistamines,No,No,1,0
+3079,3456,Therapy,Moisturizing Therapy,Yes,No,0,15
+3080,3663,Therapy,Scaling and Root Planing,Yes,Yes,0,0
+3081,3624,Drug,Trametinib,Yes,No,1,0
+3081,3623,Drug,Dabrafenib,Yes,Yes,1,0
+3081,3492,Therapy,External Beam Radiation,Yes,No,0,0
+3082,3388,Drug,Methotrexate,Yes,No,1,0
+3082,3334,Drug,Corticosteroids,Yes,Yes,1,0
+3082,3335,Therapy,Physical Therapy,No,No,0,17
+3083,3729,Drug,Fluconazole,Yes,Yes,1,0
+3083,3731,Therapy,Topical Antifungal Treatment,Yes,No,0,0
+3084,3733,Drug,Itraconazole,No,No,1,0
+3085,3436,Drug,Ergotamine,No,No,1,0
+3085,3393,Drug,Pain Relievers,No,No,1,0
+3085,3449,Drug,NSAIDs,Yes,No,1,0
+3085,3437,Therapy,Relaxation Techniques,Yes,No,0,35
+3086,3329,Drug,Diuretics,Yes,Yes,1,0
+3086,3327,Drug,ACE Inhibitors,Yes,Yes,1,0
+3087,3347,Drug,Sulfonylureas,No,No,2,0
+3087,3344,Drug,Insulin,No,No,67,0
+3087,3346,Drug,Metformin,No,No,3,0
+3087,3345,Therapy,Physical Activity,No,No,0,32
+3088,3591,Drug,Ceftriaxone,Yes,No,10,0
+3088,3721,Drug,Vancomycin,Yes,Yes,15,0
+3088,3368,Therapy,Oxygen Therapy,Yes,No,0,50
+3089,3372,Drug,Antibiotics,Yes,No,13,0
+3089,3369,Drug,Bronchodilators,Yes,Yes,2,0
+3089,3550,Therapy,Chest Physiotherapy,Yes,No,0,58
+3089,3551,Surgery,Lung Transplant,Yes,No,0,0
+3090,3333,Drug,Penicillin,Yes,Yes,12,0
+3091,3371,Therapy,Pulmonary Rehabilitation,Yes,No,0,23
+3092,3501,Drug,Azacitidine,Yes,Yes,15,0
+3092,3502,Drug,Decitabine,Yes,No,15,0
+3092,3481,Therapy,Blood Transfusions,Yes,No,0,55
+3093,3622,Surgery,Wide Local Excision,Yes,No,0,0
+3093,3624,Drug,Trametinib,No,Yes,1,0
+3093,3623,Drug,Dabrafenib,No,No,1,0
+3093,3492,Therapy,External Beam Radiation,Yes,No,0,0
+3094,3332,Drug,Calcium Channel Blockers,Yes,No,1,0
+3094,3341,Drug,Heparin,Yes,Yes,12,0
+3094,3326,Drug,Beta Blockers,Yes,Yes,1,0
+3094,3342,Drug,Warfarin,No,Yes,1,0
+3094,3321,Therapy,Lifestyle Changes,Yes,No,0,36
+3095,3334,Drug,Corticosteroids,No,No,1,0
+3095,3455,Drug,Antihistamines,No,No,1,0
+3095,3456,Therapy,Moisturizing Therapy,No,No,0,22
+3096,3530,Drug,SSRIs,Yes,No,3,0
+3096,3531,Drug,SNRIs,No,No,3,0
+3096,3423,Drug,Antidepressants,Yes,Yes,4,0
+3096,3412,Therapy,Cognitive Behavioral Therapy,No,No,0,38
+3097,3488,Drug,Imatinib,Yes,Yes,2,0
+3097,3490,Drug,Doxorubicin,Yes,Yes,12,0
+3097,3482,Surgery,Bone Marrow Transplant,Yes,Yes,0,0
+3098,3331,Surgery,Pacemaker Insertion,Yes,No,0,0
+3098,3332,Drug,Calcium Channel Blockers,Yes,Yes,1,0
+3098,3326,Drug,Beta Blockers,Yes,Yes,2,0
+3099,3500,Drug,Interferon Alpha,No,Yes,23,0
+3099,3484,Drug,Hydroxyurea,No,Yes,2,0
+3099,3407,Therapy,Phlebotomy,Yes,No,0,0
+3100,3332,Drug,Calcium Channel Blockers,Yes,No,1,0
+3100,3327,Drug,ACE Inhibitors,No,No,2,0
+3100,3326,Drug,Beta Blockers,No,No,2,0
+3100,3338,Therapy,Exercise Therapy,Yes,No,0,28
+3101,3372,Drug,Antibiotics,Yes,Yes,12,0
+3101,3327,Drug,ACE Inhibitors,Yes,Yes,1,0
+3101,3398,Therapy,Dialysis,Yes,No,0,42
+3102,3335,Therapy,Physical Therapy,Yes,No,0,40
+3103,3591,Drug,Ceftriaxone,No,No,7,0
+3103,3715,Therapy,Fluid Replacement,Yes,Yes,0,46
+3104,3423,Drug,Antidepressants,No,No,2,0
+3104,3530,Drug,SSRIs,Yes,No,2,0
+3104,3531,Drug,SNRIs,Yes,No,3,0
+3104,3523,Therapy,Psychotherapy,Yes,No,0,0
+3105,3449,Drug,NSAIDs,Yes,Yes,1,0
+3105,3393,Drug,Pain Relievers,No,No,1,0
+3105,3334,Drug,Corticosteroids,No,Yes,1,0
+3105,3335,Therapy,Physical Therapy,Yes,No,0,48
+3105,3338,Therapy,Exercise Therapy,Yes,Yes,0,50
+3106,3388,Drug,Methotrexate,Yes,No,1,0
+3106,3334,Drug,Corticosteroids,Yes,Yes,1,0
+3106,3335,Therapy,Physical Therapy,Yes,No,0,72
+3107,3721,Drug,Vancomycin,Yes,No,14,0
+3107,3591,Drug,Ceftriaxone,Yes,No,12,0
+3107,3368,Therapy,Oxygen Therapy,Yes,No,0,37
+3107,3715,Therapy,Fluid Replacement,Yes,No,0,41
+3108,3449,Drug,NSAIDs,No,Yes,1,0
+3108,3548,Drug,Muscle Relaxants,No,No,2,0
+3108,3335,Therapy,Physical Therapy,No,No,0,32
+3109,3423,Drug,Antidepressants,No,No,2,0
+3109,3531,Drug,SNRIs,Yes,Yes,2,0
+3109,3525,Drug,Tricyclic Antidepressants,Yes,No,2,0
+3109,3530,Drug,SSRIs,Yes,No,2,0
+3109,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,36
+3109,3523,Therapy,Psychotherapy,Yes,Yes,0,0
+3110,3423,Drug,Antidepressants,Yes,No,3,0
+3110,3523,Therapy,Psychotherapy,Yes,Yes,0,0
+3110,3582,Therapy,Counseling,No,No,0,37
+3111,3699,Drug,Corticosteroid Nasal Spray,No,No,26,0
+3111,3697,Drug,Decongestants,Yes,No,1,0
+3111,3701,Drug,Saline Nasal Spray,No,Yes,14,0
+3111,3698,Surgery,Sinus Surgery,No,No,0,0
+3112,3366,Drug,Albuterol,Yes,Yes,10,0
+3112,3334,Drug,Corticosteroids,Yes,No,1,0
+3112,3367,Therapy,Breathing Exercises,Yes,No,0,31
+3112,3368,Therapy,Oxygen Therapy,Yes,No,0,31
+3113,3334,Drug,Corticosteroids,No,No,1,0
+3113,3366,Drug,Albuterol,Yes,No,10,0
+3113,3368,Therapy,Oxygen Therapy,Yes,No,0,21
+3114,3347,Drug,Sulfonylureas,Yes,No,3,0
+3114,3344,Drug,Insulin,No,No,46,0
+3114,3345,Therapy,Physical Activity,Yes,No,0,33
+3114,3322,Therapy,Dietary Management,Yes,No,0,32
+3115,3552,Drug,Hormone Therapy,No,No,1,0
+3115,3553,Surgery,Laparoscopy,No,No,0,0
+3116,3480,Drug,Eltrombopag,Yes,Yes,1,0
+3116,3377,Drug,Immunosuppressants,Yes,Yes,2,0
+3116,3481,Therapy,Blood Transfusions,Yes,No,0,45
+3117,3381,Drug,Proton Pump Inhibitors (PPIs),Yes,No,1,0
+3117,3321,Therapy,Lifestyle Changes,Yes,Yes,0,15
+3118,3366,Drug,Albuterol,Yes,Yes,21,0
+3118,3334,Drug,Corticosteroids,Yes,No,1,0
+3118,3368,Therapy,Oxygen Therapy,No,No,0,35
+3118,3367,Therapy,Breathing Exercises,Yes,No,0,36
+3119,3405,Therapy,Physical Exercise,Yes,No,0,24
+3119,3322,Therapy,Dietary Management,Yes,No,0,23
+3120,3362,Drug,Orlistat,No,No,2,0
+3120,3363,Drug,Phentermine,Yes,Yes,1,0
+3120,3322,Therapy,Dietary Management,Yes,No,0,29
+3121,3490,Drug,Doxorubicin,No,No,10,0
+3121,3491,Drug,Rituximab,Yes,No,7,0
+3121,3451,Drug,Cyclophosphamide,Yes,No,10,0
+3121,3482,Surgery,Bone Marrow Transplant,Yes,No,0,0
+3122,3325,Drug,Aspirin,Yes,Yes,1,0
+3122,3327,Drug,ACE Inhibitors,Yes,Yes,1,0
+3122,3326,Drug,Beta Blockers,Yes,No,1,0
+3122,3324,Surgery,Coronary Artery Bypass Surgery,Yes,Yes,0,0
+3122,3323,Surgery,Angioplasty,No,No,0,0
+3122,3321,Therapy,Lifestyle Changes,Yes,No,0,64
+3122,3322,Therapy,Dietary Management,No,No,0,57
+3123,9997,Drug,Generic OTC Drug,No,No,1,0
+3124,3423,Drug,Antidepressants,Yes,Yes,2,0
+3124,3533,Drug,Benzodiazepines,No,Yes,1,0
+3124,3523,Therapy,Psychotherapy,Yes,No,0,0
+3124,3532,Therapy,Relaxation Therapy,Yes,No,0,47
+3124,3412,Therapy,Cognitive Behavioral Therapy,Yes,Yes,0,52
+3125,3334,Drug,Corticosteroids,Yes,Yes,1,0
+3125,3706,Therapy,Steam Inhalation,Yes,No,0,26
+3125,3705,Therapy,Voice Rest,Yes,Yes,0,29
+3126,3610,Surgery,Prostatectomy,Yes,No,0,0
+3126,3612,Drug,Flutamide,No,No,4,0
+3126,3611,Drug,Leuprolide,No,No,8,0
+3126,3613,Therapy,Brachytherapy,Yes,No,0,0
+3127,3590,Drug,Ribavirin,Yes,Yes,2,0
+3127,3589,Drug,Sofosbuvir,Yes,No,2,0
+3127,3587,Drug,Antiviral Therapy,No,Yes,1,0
+3128,3455,Drug,Antihistamines,No,No,1,0
+3128,3456,Therapy,Moisturizing Therapy,No,No,0,36
+3129,3656,Drug,Dasatinib,Yes,No,2,0
+3129,3488,Drug,Imatinib,Yes,No,2,0
+3129,3657,Drug,Busulfan,No,Yes,11,0
+3129,3482,Surgery,Bone Marrow Transplant,Yes,No,0,0
+3130,3344,Drug,Insulin,No,No,40,0
+3130,3322,Therapy,Dietary Management,Yes,No,0,42
+3131,3372,Drug,Antibiotics,No,Yes,12,0
+3131,3553,Surgery,Laparoscopy,No,No,0,0
+3132,3649,Drug,Vincristine,Yes,No,10,0
+3132,3648,Drug,Mercaptopurine,Yes,No,1,0
+3132,3388,Drug,Methotrexate,No,Yes,1,0
+3132,3482,Surgery,Bone Marrow Transplant,Yes,Yes,0,0
+3133,3357,Drug,Fludrocortisone,Yes,Yes,1,0
+3133,3356,Drug,Hydrocortisone,Yes,No,1,0
+3133,3322,Therapy,Dietary Management,Yes,No,0,42
+3134,3327,Drug,ACE Inhibitors,Yes,No,1,0
+3134,3372,Drug,Antibiotics,Yes,No,13,0
+3134,3398,Therapy,Dialysis,Yes,No,0,18
+3134,3399,Surgery,Kidney Transplant,Yes,No,0,0
+3135,3626,Surgery,Distal Pancreatectomy,Yes,No,0,0
+3135,3625,Surgery,Whipple Procedure,Yes,No,0,0
+3135,3627,Drug,Gemcitabine,No,No,10,0
+3135,3628,Drug,Erlotinib,Yes,No,1,0
+3135,3629,Drug,FOLFIRINOX,No,No,4,0
+3136,3332,Drug,Calcium Channel Blockers,No,No,1,0
+3136,3329,Drug,Diuretics,Yes,No,1,0
+3136,3322,Therapy,Dietary Management,Yes,No,0,30
+3136,3338,Therapy,Exercise Therapy,Yes,No,0,35
+3137,3640,Surgery,Endoscopic Mucosal Resection,Yes,No,0,0
+3137,3639,Surgery,Gastrectomy,No,No,0,0
+3137,3617,Drug,5-Fluorouracil,Yes,Yes,8,0
+3137,3641,Drug,Trastuzumab,Yes,Yes,9,0
+3137,3604,Drug,Cisplatin,Yes,Yes,9,0
+3137,3642,Drug,Ramucirumab,Yes,No,9,0
+3137,3492,Therapy,External Beam Radiation,No,No,0,0
+3138,3335,Therapy,Physical Therapy,Yes,No,0,18
+3139,3538,Drug,Mood Stabilizers,Yes,No,3,0
+3139,3420,Drug,Antipsychotics,Yes,No,2,0
+3139,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,32
+3140,3325,Drug,Aspirin,No,No,1,0
+3140,3327,Drug,ACE Inhibitors,Yes,No,2,0
+3140,3326,Drug,Beta Blockers,Yes,No,1,0
+3140,3337,Drug,Statins,No,No,2,0
+3140,3323,Surgery,Angioplasty,Yes,Yes,0,0
+3140,3324,Surgery,Coronary Artery Bypass Surgery,Yes,No,0,0
+3140,3321,Therapy,Lifestyle Changes,Yes,No,0,60
+3141,3351,Drug,Levothyroxine,Yes,Yes,2,0
+3141,3322,Therapy,Dietary Management,Yes,No,0,20
+3142,3728,Drug,Praziquantel,No,No,1,0
+3142,3715,Therapy,Fluid Replacement,Yes,No,0,19
+3143,3574,Surgery,Discectomy,Yes,No,0,0
+3143,3335,Therapy,Physical Therapy,Yes,No,0,43
+3144,3420,Drug,Antipsychotics,No,No,3,0
+3144,3538,Drug,Mood Stabilizers,No,Yes,3,0
+3144,3523,Therapy,Psychotherapy,Yes,No,0,0
+3144,3412,Therapy,Cognitive Behavioral Therapy,Yes,No,0,31
+3145,3655,Drug,Fludarabine,No,No,11,0
+3145,3654,Drug,Venetoclax,Yes,Yes,2,0
+3145,3451,Drug,Cyclophosphamide,Yes,No,11,0
+3145,3653,Drug,Ibrutinib,Yes,No,2,0
+3146,3659,Surgery,Filling,Yes,No,0,0
+3146,3658,Surgery,Tooth Extraction,Yes,No,0,0
+3146,3660,Therapy,Fluoride Treatment,Yes,No,0,0
+3147,3486,Drug,Clotting Factor Concentrates,Yes,No,8,0
+3147,3341,Drug,Heparin,Yes,Yes,21,0
+3147,3481,Therapy,Blood Transfusions,Yes,No,0,59
+3148,3648,Drug,Mercaptopurine,Yes,Yes,1,0
+3148,3649,Drug,Vincristine,No,Yes,10,0
+3148,3388,Drug,Methotrexate,Yes,No,1,0
+3148,3482,Surgery,Bone Marrow Transplant,Yes,Yes,0,0
+3149,3322,Therapy,Dietary Management,Yes,No,0,30
+3150,3401,Drug,Alpha Blockers,Yes,Yes,2,0
+3150,3393,Drug,Pain Relievers,No,No,1,0
+3150,3395,Therapy,Hydration Therapy,Yes,No,0,23
+3150,3403,Surgery,Ureteroscopy,Yes,Yes,0,0
+3150,3402,Surgery,Shock Wave Lithotripsy,Yes,No,0,0
+3151,3574,Surgery,Discectomy,Yes,Yes,0,0
+3151,3335,Therapy,Physical Therapy,Yes,No,0,18
+3152,3728,Drug,Praziquantel,Yes,No,1,0
+3152,3715,Therapy,Fluid Replacement,Yes,No,0,30
+3153,3332,Drug,Calcium Channel Blockers,Yes,Yes,2,0
+3153,3326,Drug,Beta Blockers,Yes,Yes,2,0
+3154,3381,Drug,Proton Pump Inhibitors (PPIs),No,No,1,0
+3154,3372,Drug,Antibiotics,Yes,No,10,0
+3154,3380,Drug,Antacids,Yes,Yes,1,0
+3154,3322,Therapy,Dietary Management,No,Yes,0,25

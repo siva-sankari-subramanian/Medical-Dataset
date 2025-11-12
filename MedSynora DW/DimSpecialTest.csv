@@ -1,0 +1,1927 @@
+Encounter_ID,Test_ID,Test_Phase,Test_Name,Test_Result
+2156,24854,Admission,D-Dimer,0.86
+2156,24855,Admission,Erythrocyte Sedimentation Rate (ESR),27.15
+2156,24856,Discharge,D-Dimer,0.72
+2156,24857,Discharge,Erythrocyte Sedimentation Rate (ESR),16.09
+2157,24858,Admission,D-Dimer,0.83
+2157,24859,Discharge,D-Dimer,0.47
+2158,24860,Admission,LDLR Gene Mutation Test,1.48
+2158,24861,Discharge,LDLR Gene Mutation Test,1.48
+2159,24862,Admission,Synovial Fluid Analysis,1.15
+2159,24863,Discharge,Synovial Fluid Analysis,1.15
+2161,24864,Admission,RSV PCR,1.82
+2161,24865,Discharge,RSV PCR,2.01
+2162,24866,Admission,Serum ACE (Angiotensin Converting Enzyme),75.45
+2162,24867,Discharge,Serum ACE (Angiotensin Converting Enzyme),57.79
+2166,24868,Admission,Anti-HCV Antibody,1.24
+2166,24869,Admission,HCV RNA,77.39
+2166,24870,Discharge,Anti-HCV Antibody,0.77
+2166,24871,Discharge,HCV RNA,60.39
+2167,24872,Admission,Ear Discharge Culture,1.2
+2167,24873,Discharge,Ear Discharge Culture,0.65
+2168,24874,Admission,24-Hour Urine Free Cortisol,64.13
+2168,24875,Admission,Late-Night Salivary Cortisol,7.04
+2168,24876,Admission,Low-Dose Dexamethasone Suppression Test,1.83
+2168,24877,Discharge,24-Hour Urine Free Cortisol,42.98
+2168,24878,Discharge,Late-Night Salivary Cortisol,4.78
+2168,24879,Discharge,Low-Dose Dexamethasone Suppression Test,1.83
+2169,24880,Admission,Plasma Epinephrine,169.75
+2169,24881,Discharge,Plasma Epinephrine,112.53
+2172,24882,Admission,Genetic Test (PKD1/PKD2),1.73
+2172,24883,Discharge,Genetic Test (PKD1/PKD2),1.73
+2174,24884,Admission,SARS-CoV-2 PCR,1.36
+2174,24885,Discharge,SARS-CoV-2 PCR,0.9
+2175,24886,Admission,vWF Antigen,167.42
+2175,24887,Admission,Ristocetin Cofactor Activity,279.05
+2175,24888,Discharge,vWF Antigen,205.76
+2175,24889,Discharge,Ristocetin Cofactor Activity,326.37
+2177,24890,Admission,Bacterial Culture (Lesion Swab),1.67
+2177,24891,Discharge,Bacterial Culture (Lesion Swab),1.01
+2178,24892,Admission,LDLR Gene Mutation Test,2.0
+2178,24893,Discharge,LDLR Gene Mutation Test,2.0
+2179,24894,Admission,Occupational Allergen-Specific IgE,5.9
+2179,24895,Discharge,Occupational Allergen-Specific IgE,3.71
+2180,24896,Admission,Flow Cytometry (Lymphoblasts),1.44
+2180,24897,Discharge,Flow Cytometry (Lymphoblasts),1.05
+2181,24898,Admission,24-Hour Urine Calcium,549.21
+2181,24899,Discharge,24-Hour Urine Calcium,457.07
+2183,24900,Admission,Hepatitis Panel,1.2
+2183,24901,Discharge,Hepatitis Panel,0.93
+2188,24902,Admission,Helicobacter pylori Stool Antigen,1.4
+2188,24903,Discharge,Helicobacter pylori Stool Antigen,1.0
+2189,24904,Admission,Parathyroid Hormone (PTH),108.96
+2189,24905,Discharge,Parathyroid Hormone (PTH),86.22
+2190,24906,Admission,Fecal Calprotectin,64.44
+2190,24907,Admission,Anti-Saccharomyces cerevisiae Antibodies (ASCA),17.1
+2190,24908,Discharge,Fecal Calprotectin,32.98
+2190,24909,Discharge,Anti-Saccharomyces cerevisiae Antibodies (ASCA),11.23
+2195,24910,Admission,Serum Total Testosterone,933.5
+2195,24911,Discharge,Serum Total Testosterone,900.57
+2196,24912,Admission,Anti-Platelet Antibody,1.69
+2196,24913,Discharge,Anti-Platelet Antibody,1.06
+2197,24914,Admission,Anti-tTG IgA,18.29
+2197,24915,Admission,Endomysial Antibody (EMA),1.63
+2197,24916,Admission,Deamidated Gliadin Peptide (DGP) IgA,19.67
+2197,24917,Discharge,Anti-tTG IgA,9.49
+2197,24918,Discharge,Endomysial Antibody (EMA),1.29
+2197,24919,Discharge,Deamidated Gliadin Peptide (DGP) IgA,14.2
+2200,24920,Admission,Serum ACE (Angiotensin Converting Enzyme),60.88
+2200,24921,Discharge,Serum ACE (Angiotensin Converting Enzyme),50.98
+2201,24922,Admission,CD15/CD30 Flow Cytometry,1.78
+2201,24923,Discharge,CD15/CD30 Flow Cytometry,1.32
+2202,24924,Admission,Serum IL-17,6.7
+2202,24925,Discharge,Serum IL-17,7.87
+2203,24926,Admission,Flow Cytometry (Myeloblasts),1.89
+2203,24927,Discharge,Flow Cytometry (Myeloblasts),1.13
+2204,24928,Admission,KOH Prep (Candida),1.95
+2204,24929,Discharge,KOH Prep (Candida),1.42
+2205,24930,Admission,Parathyroid Hormone (PTH),118.03
+2205,24931,Discharge,Parathyroid Hormone (PTH),91.42
+2207,24932,Admission,Vaginal Swab Microscopy,1.48
+2207,24933,Discharge,Vaginal Swab Microscopy,1.0
+2212,24934,Admission,KOH Prep (Candida),1.48
+2212,24935,Discharge,KOH Prep (Candida),0.98
+2213,24936,Admission,Alpha-Fetoprotein (AFP),19.45
+2213,24937,Discharge,Alpha-Fetoprotein (AFP),19.45
+2214,24938,Admission,Thyroid Stimulating Immunoglobulin (TSI),2.24
+2214,24939,Admission,TSH (Thyroid-Stimulating Hormone),5.97
+2214,24940,Admission,Free T3,5.47
+2214,24941,Admission,Free T4,3.03
+2214,24942,Admission,Radioactive Iodine Uptake (RAIU) Test,50.54
+2214,24943,Discharge,Thyroid Stimulating Immunoglobulin (TSI),1.26
+2214,24944,Discharge,TSH (Thyroid-Stimulating Hormone),5.97
+2214,24945,Discharge,Free T3,5.47
+2214,24946,Discharge,Free T4,3.03
+2214,24947,Discharge,Radioactive Iodine Uptake (RAIU) Test,52.73
+2215,24948,Admission,CSF Total Protein,66.38
+2215,24949,Admission,Anti-Ganglioside GM1 Antibody,1.83
+2215,24950,Discharge,CSF Total Protein,54.53
+2215,24951,Discharge,Anti-Ganglioside GM1 Antibody,2.28
+2217,24952,Admission,Plasma Homovanillic Acid (HVA),6.86
+2217,24953,Discharge,Plasma Homovanillic Acid (HVA),5.59
+2220,24954,Admission,CSF Beta-Amyloid (Aβ1-42),1427.42
+2220,24955,Admission,CSF Total Tau Protein,346.54
+2220,24956,Discharge,CSF Beta-Amyloid (Aβ1-42),1347.13
+2220,24957,Discharge,CSF Total Tau Protein,345.49
+2221,24958,Admission,"Lymphocyte Subset Panel (CD3,CD4,CD8)",2960.56
+2221,24959,Discharge,"Lymphocyte Subset Panel (CD3,CD4,CD8)",3714.32
+2222,24960,Admission,Total Serum IgE,134.88
+2222,24961,Discharge,Total Serum IgE,87.26
+2223,24962,Admission,Serum Mesothelin-Related Peptides (SMRP),1.89
+2223,24963,Discharge,Serum Mesothelin-Related Peptides (SMRP),1.98
+2224,24964,Admission,FMR1 CGG Repeat Analysis,81.12
+2224,24965,Discharge,FMR1 CGG Repeat Analysis,81.12
+2225,24966,Admission,24-Hour Urine Free Cortisol,59.24
+2225,24967,Admission,Late-Night Salivary Cortisol,6.75
+2225,24968,Admission,Low-Dose Dexamethasone Suppression Test,1.56
+2225,24969,Discharge,24-Hour Urine Free Cortisol,69.97
+2225,24970,Discharge,Late-Night Salivary Cortisol,4.7
+2225,24971,Discharge,Low-Dose Dexamethasone Suppression Test,1.62
+2226,24972,Admission,Fecal Calprotectin,56.99
+2226,24973,Admission,Fecal Lactoferrin,9.86
+2226,24974,Discharge,Fecal Calprotectin,43.25
+2226,24975,Discharge,Fecal Lactoferrin,6.11
+2227,24976,Admission,Exhaled Nitric Oxide,39.21
+2227,24977,Admission,Total Serum IgE,119.83
+2227,24978,Discharge,Exhaled Nitric Oxide,37.86
+2227,24979,Discharge,Total Serum IgE,91.2
+2229,24980,Admission,Fecal Elastase,862.52
+2229,24981,Discharge,Fecal Elastase,1118.86
+2230,24982,Admission,Dengue NS1 Antigen,1.47
+2230,24983,Admission,Dengue IgM Antibody,1.11
+2230,24984,Discharge,Dengue NS1 Antigen,0.84
+2230,24985,Discharge,Dengue IgM Antibody,0.79
+2231,24986,Admission,Stool Ova & Parasites (Giardia),1.23
+2231,24987,Discharge,Stool Ova & Parasites (Giardia),0.65
+2232,24988,Admission,"Lymphocyte Subset Panel (CD3,CD4,CD8)",3285.58
+2232,24989,Discharge,"Lymphocyte Subset Panel (CD3,CD4,CD8)",3642.58
+2233,24990,Admission,HLA-B27,1.18
+2233,24991,Admission,Erythrocyte Sedimentation Rate (ESR),34.16
+2233,24992,Discharge,HLA-B27,1.18
+2233,24993,Discharge,Erythrocyte Sedimentation Rate (ESR),24.21
+2236,24994,Admission,Serum Total Testosterone,1437.53
+2236,24995,Discharge,Serum Total Testosterone,1459.08
+2242,24996,Admission,Mumps IgM Antibody,1.53
+2242,24997,Discharge,Mumps IgM Antibody,0.8
+2243,24998,Admission,Serum CC16 (Clara Cell Protein),39.64
+2243,24999,Discharge,Serum CC16 (Clara Cell Protein),29.45
+2245,25000,Admission,CSF Alpha-Synuclein,44.67
+2245,25001,Discharge,CSF Alpha-Synuclein,44.0
+2247,25002,Admission,Exhaled Nitric Oxide,24.48
+2247,25003,Admission,Total Serum IgE,159.06
+2247,25004,Discharge,Exhaled Nitric Oxide,16.42
+2247,25005,Discharge,Total Serum IgE,129.03
+2249,25006,Admission,Serum S100 Protein,0.38
+2249,25007,Discharge,Serum S100 Protein,0.31
+2253,25008,Admission,"HFE Gene (C282Y, H63D) Mutation",1.38
+2253,25009,Discharge,"HFE Gene (C282Y, H63D) Mutation",1.43
+2254,25010,Admission,Urine/Stool Microscopy (Schistosoma Ova),1.45
+2254,25011,Discharge,Urine/Stool Microscopy (Schistosoma Ova),0.95
+2256,25012,Admission,Rubella IgM Antibody,1.45
+2256,25013,Discharge,Rubella IgM Antibody,0.94
+2260,25014,Admission,Mumps IgM Antibody,1.26
+2260,25015,Discharge,Mumps IgM Antibody,0.7
+2262,25016,Admission,Synovial Fluid Analysis,1.83
+2262,25017,Discharge,Synovial Fluid Analysis,1.83
+2263,25018,Admission,Urinary Dopamine,770.39
+2263,25019,Discharge,Urinary Dopamine,673.34
+2265,25020,Admission,D-Dimer,0.75
+2265,25021,Admission,Erythrocyte Sedimentation Rate (ESR),31.2
+2265,25022,Discharge,D-Dimer,0.5
+2265,25023,Discharge,Erythrocyte Sedimentation Rate (ESR),20.25
+2267,25024,Admission,SNRPN Methylation Analysis,1.36
+2267,25025,Discharge,SNRPN Methylation Analysis,1.36
+2268,25026,Admission,Plasma Serotonin,278.49
+2268,25027,Discharge,Plasma Serotonin,245.76
+2269,25028,Admission,Serum IL-17,8.66
+2269,25029,Discharge,Serum IL-17,6.14
+2270,25030,Admission,TYR Gene Mutation (OCA Type I),1.45
+2270,25031,Discharge,TYR Gene Mutation (OCA Type I),1.42
+2271,25032,Admission,HTT Gene CAG Repeat Test,40.09
+2271,25033,Discharge,HTT Gene CAG Repeat Test,40.09
+2273,25034,Admission,Enterovirus PCR,1.89
+2273,25035,Discharge,Enterovirus PCR,1.35
+2274,25036,Admission,Parathyroid Hormone (PTH),115.32
+2274,25037,Discharge,Parathyroid Hormone (PTH),85.03
+2276,25038,Admission,Fecal Calprotectin,68.26
+2276,25039,Admission,Fecal Lactoferrin,9.51
+2276,25040,Discharge,Fecal Calprotectin,53.41
+2276,25041,Discharge,Fecal Lactoferrin,5.01
+2277,25042,Admission,Mumps IgM Antibody,1.91
+2277,25043,Discharge,Mumps IgM Antibody,1.37
+2279,25044,Admission,Serum ACE (Angiotensin Converting Enzyme),72.42
+2279,25045,Discharge,Serum ACE (Angiotensin Converting Enzyme),56.9
+2280,25046,Admission,NF1/NF2 Gene Mutation Test,1.91
+2280,25047,Discharge,NF1/NF2 Gene Mutation Test,1.91
+2282,25048,Admission,Exhaled Nitric Oxide,26.6
+2282,25049,Admission,Total Serum IgE,152.31
+2282,25050,Discharge,Exhaled Nitric Oxide,21.0
+2282,25051,Discharge,Total Serum IgE,118.72
+2283,25052,Admission,HTT Gene CAG Repeat Test,43.19
+2283,25053,Discharge,HTT Gene CAG Repeat Test,43.19
+2284,25054,Admission,Prothrombin Time (PT/INR),2.28
+2284,25055,Discharge,Prothrombin Time (PT/INR),1.45
+2287,25056,Admission,SCC Antigen (SCCA),2.56
+2287,25057,Discharge,SCC Antigen (SCCA),2.17
+2288,25058,Admission,Plasma Oxytocin,38.21
+2288,25059,Discharge,Plasma Oxytocin,45.33
+2290,25060,Admission,Total Serum IgE,162.99
+2290,25061,Discharge,Total Serum IgE,115.93
+2291,25062,Admission,SARS-CoV-2 PCR,1.76
+2291,25063,Discharge,SARS-CoV-2 PCR,1.01
+2293,25064,Admission,Skin Scraping Microscopy,1.6
+2293,25065,Discharge,Skin Scraping Microscopy,0.76
+2295,25066,Admission,Serum Magnesium,4.1
+2295,25067,Discharge,Serum Magnesium,3.85
+2296,25068,Admission,Serum Total Testosterone,856.58
+2296,25069,Discharge,Serum Total Testosterone,750.49
+2297,25070,Admission,Erythrocyte Sedimentation Rate (ESR),23.01
+2297,25071,Admission,High-Sensitivity CRP,3.93
+2297,25072,Discharge,Erythrocyte Sedimentation Rate (ESR),14.53
+2297,25073,Discharge,High-Sensitivity CRP,2.62
+2298,25074,Admission,HIV Viral Load,73.1
+2298,25075,Admission,CD4 Count,2768.64
+2298,25076,Discharge,HIV Viral Load,41.15
+2298,25077,Discharge,CD4 Count,3445.8
+2299,25078,Admission,Anti-Platelet Antibody,2.14
+2299,25079,Discharge,Anti-Platelet Antibody,1.74
+2300,25080,Admission,FBN1 Gene Mutation Test,1.39
+2300,25081,Discharge,FBN1 Gene Mutation Test,1.39
+2301,25082,Admission,ANCA (p-ANCA or c-ANCA),19.96
+2301,25083,Admission,Erythrocyte Sedimentation Rate (ESR),36.83
+2301,25084,Discharge,ANCA (p-ANCA or c-ANCA),20.62
+2301,25085,Discharge,Erythrocyte Sedimentation Rate (ESR),32.88
+2302,25086,Admission,Serum C-Terminal Telopeptide (CTX),0.8
+2302,25087,Discharge,Serum C-Terminal Telopeptide (CTX),0.53
+2303,25088,Admission,SCA Genetic Panel,1.1
+2303,25089,Discharge,SCA Genetic Panel,1.15
+2305,25090,Admission,FibroScan (Liver Stiffness),6.61
+2305,25091,Discharge,FibroScan (Liver Stiffness),4.81
+2306,25092,Admission,SCC Antigen (SCCA),2.72
+2306,25093,Discharge,SCC Antigen (SCCA),1.92
+2307,25094,Admission,Helicobacter pylori Stool Antigen,1.13
+2307,25095,Discharge,Helicobacter pylori Stool Antigen,1.17
+2308,25096,Admission,ANCA (p-ANCA or c-ANCA),19.71
+2308,25097,Admission,Erythrocyte Sedimentation Rate (ESR),23.73
+2308,25098,Discharge,ANCA (p-ANCA or c-ANCA),22.18
+2308,25099,Discharge,Erythrocyte Sedimentation Rate (ESR),23.27
+2309,25100,Admission,Serum C-Terminal Telopeptide (CTX),0.97
+2309,25101,Discharge,Serum C-Terminal Telopeptide (CTX),0.95
+2310,25102,Admission,Transferrin Saturation,83.8
+2310,25103,Admission,Serum Ferritin,392.27
+2310,25104,Discharge,Transferrin Saturation,60.43
+2310,25105,Discharge,Serum Ferritin,333.17
+2311,25106,Admission,Lesion Swab Culture,1.45
+2311,25107,Discharge,Lesion Swab Culture,1.43
+2312,25108,Admission,Fecal Calprotectin,67.31
+2312,25109,Admission,Anti-Saccharomyces cerevisiae Antibodies (ASCA),13.3
+2312,25110,Discharge,Fecal Calprotectin,39.62
+2312,25111,Discharge,Anti-Saccharomyces cerevisiae Antibodies (ASCA),8.03
+2315,25112,Admission,Flow Cytometry (Lymph Node Aspirate),1.57
+2315,25113,Discharge,Flow Cytometry (Lymph Node Aspirate),1.33
+2316,25114,Admission,Anti-Acetylcholine Receptor Antibody,0.59
+2316,25115,Admission,Anti-MuSK Antibody,1.21
+2316,25116,Discharge,Anti-Acetylcholine Receptor Antibody,0.58
+2316,25117,Discharge,Anti-MuSK Antibody,1.19
+2319,25118,Admission,Parathyroid Hormone (PTH),102.65
+2319,25119,Discharge,Parathyroid Hormone (PTH),119.98
+2322,25120,Admission,BCR-ABL1 PCR,1.89
+2322,25121,Discharge,BCR-ABL1 PCR,1.8
+2323,25122,Admission,Serum Neurofilament Light Chain (NFL),83.2
+2323,25123,Discharge,Serum Neurofilament Light Chain (NFL),74.39
+2324,25124,Admission,Rubella IgM Antibody,1.28
+2324,25125,Discharge,Rubella IgM Antibody,1.27
+2325,25126,Admission,Hepatitis Panel,1.77
+2325,25127,Discharge,Hepatitis Panel,1.31
+2326,25128,Admission,Clue Cell Microscopy,1.15
+2326,25129,Discharge,Clue Cell Microscopy,0.52
+2328,25130,Admission,Serum Mesothelin-Related Peptides (SMRP),1.3
+2328,25131,Discharge,Serum Mesothelin-Related Peptides (SMRP),1.05
+2329,25132,Admission,Serum Creatine Kinase (CK),673.35
+2329,25133,Admission,Serum Aldolase,13.83
+2329,25134,Discharge,Serum Creatine Kinase (CK),503.37
+2329,25135,Discharge,Serum Aldolase,8.38
+2331,25136,Admission,Sinus Aspirate Culture,1.11
+2331,25137,Discharge,Sinus Aspirate Culture,0.7
+2332,25138,Admission,Serum Neurofilament Light Chain (NFL),65.73
+2332,25139,Discharge,Serum Neurofilament Light Chain (NFL),56.24
+2333,25140,Admission,HTT Gene CAG Repeat Test,43.23
+2333,25141,Discharge,HTT Gene CAG Repeat Test,41.18
+2334,25142,Admission,Serum IL-17,8.32
+2334,25143,Discharge,Serum IL-17,8.58
+2335,25144,Admission,Carcinoembryonic Antigen (CEA),5.22
+2335,25145,Admission,Stool DNA Test (Cologuard),1.6
+2335,25146,Discharge,Carcinoembryonic Antigen (CEA),4.64
+2335,25147,Discharge,Stool DNA Test (Cologuard),1.6
+2337,25148,Admission,CSF Gram Stain,2.55
+2337,25149,Admission,CSF Culture,1.36
+2337,25150,Discharge,CSF Gram Stain,2.01
+2337,25151,Discharge,CSF Culture,1.3
+2338,25152,Admission,Serum Mesothelin-Related Peptides (SMRP),1.62
+2338,25153,Discharge,Serum Mesothelin-Related Peptides (SMRP),1.33
+2339,25154,Admission,Lyme IgM/IgG Western Blot,1.35
+2339,25155,Admission,Borrelia burgdorferi PCR,1.38
+2339,25156,Discharge,Lyme IgM/IgG Western Blot,0.81
+2339,25157,Discharge,Borrelia burgdorferi PCR,1.02
+2342,25158,Admission,HPRT Enzyme Activity,150.64
+2342,25159,Discharge,HPRT Enzyme Activity,150.64
+2343,25160,Admission,Serum Total Testosterone,963.54
+2343,25161,Discharge,Serum Total Testosterone,859.05
+2344,25162,Admission,High-Sensitivity Troponin I,0.05
+2344,25163,Admission,D-Dimer,0.65
+2344,25164,Admission,High-Sensitivity CRP,5.21
+2344,25165,Admission,Electrocardiogram (ECG),0.0
+2344,25166,Admission,Echocardiogram (ECHO),0.0
+2344,25167,Admission,Exercise Treadmill Stress Test,0.0
+2344,25168,Discharge,High-Sensitivity Troponin I,0.04
+2344,25169,Discharge,D-Dimer,0.49
+2344,25170,Discharge,High-Sensitivity CRP,4.14
+2344,25171,Discharge,Electrocardiogram (ECG),0.0
+2344,25172,Discharge,Echocardiogram (ECHO),0.0
+2344,25173,Discharge,Exercise Treadmill Stress Test,0.0
+2346,25174,Admission,Circulating Tumor DNA (ctDNA),6.93
+2346,25175,Discharge,Circulating Tumor DNA (ctDNA),5.22
+2347,25176,Admission,Exhaled Nitric Oxide,31.79
+2347,25177,Admission,Total Serum IgE,156.66
+2347,25178,Discharge,Exhaled Nitric Oxide,22.24
+2347,25179,Discharge,Total Serum IgE,130.02
+2349,25180,Admission,Cosyntropin (ACTH) Stimulation Test,27.42
+2349,25181,Admission,Plasma ACTH Level,74.55
+2349,25182,Discharge,Cosyntropin (ACTH) Stimulation Test,19.78
+2349,25183,Discharge,Plasma ACTH Level,74.55
+2350,25184,Admission,Erythrocyte Sedimentation Rate (ESR),27.6
+2350,25185,Discharge,Erythrocyte Sedimentation Rate (ESR),18.74
+2351,25186,Admission,Anti-Phospholipid Antibodies,13.03
+2351,25187,Discharge,Anti-Phospholipid Antibodies,10.48
+2352,25188,Admission,CSF Oligoclonal Bands,1.94
+2352,25189,Discharge,CSF Oligoclonal Bands,1.64
+2353,25190,Admission,Alpha-Fetoprotein (AFP),17.29
+2353,25191,Discharge,Alpha-Fetoprotein (AFP),15.08
+2354,25192,Admission,Erythrocyte Sedimentation Rate (ESR),23.4
+2354,25193,Discharge,Erythrocyte Sedimentation Rate (ESR),23.97
+2356,25194,Admission,BCR-ABL1 PCR,1.9
+2356,25195,Discharge,BCR-ABL1 PCR,1.45
+2358,25196,Admission,Occupational Allergen-Specific IgE,6.15
+2358,25197,Discharge,Occupational Allergen-Specific IgE,4.08
+2359,25198,Admission,HSV-2 PCR,1.52
+2359,25199,Discharge,HSV-2 PCR,0.93
+2361,25200,Admission,Anti-dsDNA Antibody,11.85
+2361,25201,Admission,Anti-Smith Antibody,1.28
+2361,25202,Admission,Complement C3/C4,24.98
+2361,25203,Discharge,Anti-dsDNA Antibody,11.38
+2361,25204,Discharge,Anti-Smith Antibody,1.24
+2361,25205,Discharge,Complement C3/C4,20.86
+2362,25206,Admission,Serum Mesothelin-Related Peptides (SMRP),1.73
+2362,25207,Discharge,Serum Mesothelin-Related Peptides (SMRP),1.5
+2364,25208,Admission,Serum Haptoglobin,276.5
+2364,25209,Discharge,Serum Haptoglobin,342.98
+2365,25210,Admission,Anti-Melanocyte Antibody,1.23
+2365,25211,Discharge,Anti-Melanocyte Antibody,0.98
+2367,25212,Admission,Rapid Plasma Reagin (RPR),1.51
+2367,25213,Discharge,Rapid Plasma Reagin (RPR),1.51
+2368,25214,Admission,Urinary Dopamine,477.39
+2368,25215,Discharge,Urinary Dopamine,418.36
+2369,25216,Admission,Flow Cytometry (Myeloblasts),1.65
+2369,25217,Discharge,Flow Cytometry (Myeloblasts),1.28
+2370,25218,Admission,Immunophenotyping (CD19/CD20),1.83
+2370,25219,Discharge,Immunophenotyping (CD19/CD20),1.47
+2371,25220,Admission,Alpha-Fetoprotein (AFP),14.97
+2371,25221,Discharge,Alpha-Fetoprotein (AFP),14.97
+2373,25222,Admission,Plasma Epinephrine,196.21
+2373,25223,Discharge,Plasma Epinephrine,125.5
+2374,25224,Admission,Sinus Aspirate Culture,1.67
+2374,25225,Discharge,Sinus Aspirate Culture,1.02
+2375,25226,Admission,Carcinoembryonic Antigen (CEA),4.3
+2375,25227,Admission,Stool DNA Test (Cologuard),1.59
+2375,25228,Discharge,Carcinoembryonic Antigen (CEA),3.21
+2375,25229,Discharge,Stool DNA Test (Cologuard),1.59
+2376,25230,Admission,CSF Progranulin,38.04
+2376,25231,Discharge,CSF Progranulin,39.88
+2378,25232,Admission,Plasma Histamine,1.62
+2378,25233,Discharge,Plasma Histamine,1.31
+2380,25234,Admission,Anti-Intrinsic Factor Antibody,1.44
+2380,25235,Admission,Anti-Parietal Cell Antibody,1.28
+2380,25236,Discharge,Anti-Intrinsic Factor Antibody,1.25
+2380,25237,Discharge,Anti-Parietal Cell Antibody,1.33
+2381,25238,Admission,H. pylori Stool Antigen,1.65
+2381,25239,Discharge,H. pylori Stool Antigen,1.72
+2382,25240,Admission,Allergen-Specific IgE (Nasopharyngeal),6.83
+2382,25241,Discharge,Allergen-Specific IgE (Nasopharyngeal),4.16
+2383,25242,Admission,UBE3A Gene Methylation Test,1.85
+2383,25243,Discharge,UBE3A Gene Methylation Test,1.85
+2384,25244,Admission,"Lymphocyte Subset Panel (CD3,CD4,CD8)",2684.1
+2384,25245,Discharge,"Lymphocyte Subset Panel (CD3,CD4,CD8)",3429.79
+2385,25246,Admission,Serum S100 Protein,0.38
+2385,25247,Discharge,Serum S100 Protein,0.4
+2387,25248,Admission,Leptin Level,28.33
+2387,25249,Discharge,Leptin Level,23.41
+2389,25250,Admission,Throat Swab Rapid Strep Test,1.6
+2389,25251,Discharge,Throat Swab Rapid Strep Test,1.08
+2390,25252,Admission,Interferon Gamma Release Assay (IGRA),1.29
+2390,25253,Admission,Sputum AFB (Acid-Fast Bacilli) Stain,1.59
+2390,25254,Discharge,Interferon Gamma Release Assay (IGRA),1.13
+2390,25255,Discharge,Sputum AFB (Acid-Fast Bacilli) Stain,1.27
+2391,25256,Admission,Prothrombin Time (INR),1.43
+2391,25257,Discharge,Prothrombin Time (INR),0.9
+2392,25258,Admission,HIV Viral Load,83.51
+2392,25259,Admission,CD4 Count,1776.79
+2392,25260,Discharge,HIV Viral Load,27.1
+2392,25261,Discharge,CD4 Count,2197.58
+2394,25262,Admission,CA 72-4,7.36
+2394,25263,Discharge,CA 72-4,7.62
+2395,25264,Admission,Circulating Tumor DNA (ctDNA),5.78
+2395,25265,Discharge,Circulating Tumor DNA (ctDNA),4.58
+2396,25266,Admission,SCC Antigen (SCCA),2.48
+2396,25267,Discharge,SCC Antigen (SCCA),1.75
+2399,25268,Admission,Serum Neurofilament Light Chain (NFL),60.58
+2399,25269,Discharge,Serum Neurofilament Light Chain (NFL),61.1
+2400,25270,Admission,Pertussis PCR,1.69
+2400,25271,Discharge,Pertussis PCR,1.69
+2401,25272,Admission,Cosyntropin (ACTH) Stimulation Test,33.41
+2401,25273,Admission,Plasma ACTH Level,96.21
+2401,25274,Discharge,Cosyntropin (ACTH) Stimulation Test,25.26
+2401,25275,Discharge,Plasma ACTH Level,96.21
+2402,25276,Admission,Patch Testing (Contact Allergen),1.7
+2402,25277,Discharge,Patch Testing (Contact Allergen),1.3
+2404,25278,Admission,Anti-GAD Antibodies,19.05
+2404,25279,Admission,Insulin Autoantibodies (IAA),11.25
+2404,25280,Admission,C-Peptide,3.53
+2404,25281,Discharge,Anti-GAD Antibodies,13.73
+2404,25282,Discharge,Insulin Autoantibodies (IAA),8.38
+2404,25283,Discharge,C-Peptide,3.53
+2405,25284,Admission,Bacterial Culture (Lesion Swab),1.42
+2405,25285,Discharge,Bacterial Culture (Lesion Swab),1.12
+2406,25286,Admission,Anti-Intrinsic Factor Antibody,1.28
+2406,25287,Admission,Anti-Parietal Cell Antibody,1.38
+2406,25288,Discharge,Anti-Intrinsic Factor Antibody,1.05
+2406,25289,Discharge,Anti-Parietal Cell Antibody,1.41
+2407,25290,Admission,Vaginal Swab Microscopy,1.61
+2407,25291,Discharge,Vaginal Swab Microscopy,0.83
+2408,25292,Admission,Prothrombin Time (INR),1.85
+2408,25293,Discharge,Prothrombin Time (INR),1.26
+2410,25294,Admission,Exhaled Nitric Oxide,24.04
+2410,25295,Admission,Total Serum IgE,191.74
+2410,25296,Discharge,Exhaled Nitric Oxide,18.08
+2410,25297,Discharge,Total Serum IgE,152.01
+2411,25298,Admission,Allergen-Specific IgE (Nasopharyngeal),8.62
+2411,25299,Discharge,Allergen-Specific IgE (Nasopharyngeal),5.84
+2412,25300,Admission,ASO Titer,381.11
+2412,25301,Discharge,ASO Titer,273.05
+2414,25302,Admission,FMR1 CGG Repeat Analysis,62.56
+2414,25303,Discharge,FMR1 CGG Repeat Analysis,62.76
+2415,25304,Admission,LDLR Gene Mutation Test,1.95
+2415,25305,Discharge,LDLR Gene Mutation Test,1.95
+2416,25306,Admission,Lyme IgM/IgG Western Blot,1.34
+2416,25307,Admission,Borrelia burgdorferi PCR,1.59
+2416,25308,Discharge,Lyme IgM/IgG Western Blot,0.82
+2416,25309,Discharge,Borrelia burgdorferi PCR,1.03
+2417,25310,Admission,Leptin Level,18.74
+2417,25311,Discharge,Leptin Level,18.98
+2418,25312,Admission,High-Sensitivity Troponin I,0.09
+2418,25313,Admission,D-Dimer,0.98
+2418,25314,Admission,High-Sensitivity CRP,5.74
+2418,25315,Admission,Electrocardiogram (ECG),0.0
+2418,25316,Admission,Echocardiogram (ECHO),0.0
+2418,25317,Admission,Exercise Treadmill Stress Test,0.0
+2418,25318,Discharge,High-Sensitivity Troponin I,0.09
+2418,25319,Discharge,D-Dimer,0.69
+2418,25320,Discharge,High-Sensitivity CRP,4.09
+2418,25321,Discharge,Electrocardiogram (ECG),0.0
+2418,25322,Discharge,Echocardiogram (ECHO),0.0
+2418,25323,Discharge,Exercise Treadmill Stress Test,0.0
+2419,25324,Admission,CSF Beta-Amyloid (Aβ1-42),1983.71
+2419,25325,Admission,CSF Total Tau Protein,449.75
+2419,25326,Discharge,CSF Beta-Amyloid (Aβ1-42),1915.31
+2419,25327,Discharge,CSF Total Tau Protein,417.32
+2420,25328,Admission,Dengue NS1 Antigen,1.12
+2420,25329,Admission,Dengue IgM Antibody,2.0
+2420,25330,Discharge,Dengue NS1 Antigen,0.87
+2420,25331,Discharge,Dengue IgM Antibody,2.03
+2421,25332,Admission,Urine/Stool Microscopy (Schistosoma Ova),1.38
+2421,25333,Discharge,Urine/Stool Microscopy (Schistosoma Ova),1.0
+2425,25334,Admission,Erythrocyte Sedimentation Rate (ESR),24.81
+2425,25335,Admission,High-Sensitivity CRP,5.21
+2425,25336,Discharge,Erythrocyte Sedimentation Rate (ESR),25.74
+2425,25337,Discharge,High-Sensitivity CRP,5.15
+2426,25338,Admission,"HFE Gene (C282Y, H63D) Mutation",1.69
+2426,25339,Discharge,"HFE Gene (C282Y, H63D) Mutation",1.69
+2427,25340,Admission,"Lymphocyte Subset Panel (CD3,CD4,CD8)",3187.6
+2427,25341,Discharge,"Lymphocyte Subset Panel (CD3,CD4,CD8)",4071.06
+2428,25342,Admission,HSV PCR (Lesion Swab),1.7
+2428,25343,Discharge,HSV PCR (Lesion Swab),1.07
+2429,25344,Admission,H. pylori Stool Antigen,2.0
+2429,25345,Discharge,H. pylori Stool Antigen,1.01
+2430,25346,Admission,Serum Phenylalanine,3.39
+2430,25347,Discharge,Serum Phenylalanine,1.86
+2431,25348,Admission,Procalcitonin,0.09
+2431,25349,Admission,Blood Culture,1.4
+2431,25350,Discharge,Procalcitonin,0.07
+2431,25351,Discharge,Blood Culture,0.97
+2434,25352,Admission,Anti-tTG IgA,16.0
+2434,25353,Admission,Endomysial Antibody (EMA),1.31
+2434,25354,Admission,Deamidated Gliadin Peptide (DGP) IgA,13.56
+2434,25355,Discharge,Anti-tTG IgA,12.26
+2434,25356,Discharge,Endomysial Antibody (EMA),0.92
+2434,25357,Discharge,Deamidated Gliadin Peptide (DGP) IgA,9.95
+2435,25358,Admission,Flow Cytometry (Myeloblasts),1.77
+2435,25359,Discharge,Flow Cytometry (Myeloblasts),0.92
+2436,25360,Admission,Serum Galactomannan,0.89
+2436,25361,Discharge,Serum Galactomannan,0.7
+2439,25362,Admission,Hemoglobin Electrophoresis,8.6
+2439,25363,Discharge,Hemoglobin Electrophoresis,7.55
+2440,25364,Admission,Anti-Streptolysin O (ASO) Titer,396.21
+2440,25365,Admission,Erythrocyte Sedimentation Rate (ESR),38.78
+2440,25366,Admission,High-Sensitivity CRP,5.87
+2440,25367,Admission,Electrocardiogram (ECG),0.0
+2440,25368,Admission,Echocardiogram (ECHO),0.0
+2440,25369,Admission,Anti-DNase B Titer,284.35
+2440,25370,Discharge,Anti-Streptolysin O (ASO) Titer,274.68
+2440,25371,Discharge,Erythrocyte Sedimentation Rate (ESR),22.81
+2440,25372,Discharge,High-Sensitivity CRP,4.64
+2440,25373,Discharge,Electrocardiogram (ECG),0.0
+2440,25374,Discharge,Echocardiogram (ECHO),0.0
+2440,25375,Discharge,Anti-DNase B Titer,169.06
+2441,25376,Admission,Flow Cytometry (Lymph Node Aspirate),1.5
+2441,25377,Discharge,Flow Cytometry (Lymph Node Aspirate),1.21
+2442,25378,Admission,Trisomy 21 Karyotype,1.74
+2442,25379,Discharge,Trisomy 21 Karyotype,1.74
+2443,25380,Admission,ANCA (p-ANCA or c-ANCA),17.55
+2443,25381,Admission,Erythrocyte Sedimentation Rate (ESR),24.91
+2443,25382,Discharge,ANCA (p-ANCA or c-ANCA),11.98
+2443,25383,Discharge,Erythrocyte Sedimentation Rate (ESR),18.13
+2445,25384,Admission,Total Serum IgE,155.82
+2445,25385,Discharge,Total Serum IgE,155.24
+2446,25386,Admission,Influenza Rapid Antigen,1.46
+2446,25387,Discharge,Influenza Rapid Antigen,0.62
+2447,25388,Admission,Flow Cytometry (Lymph Node Aspirate),1.37
+2447,25389,Discharge,Flow Cytometry (Lymph Node Aspirate),0.86
+2448,25390,Admission,High-Sensitivity CRP,4.61
+2448,25391,Admission,Proinsulin,11.59
+2448,25392,Admission,C-Peptide,3.81
+2448,25393,Discharge,High-Sensitivity CRP,3.12
+2448,25394,Discharge,Proinsulin,9.43
+2448,25395,Discharge,C-Peptide,3.81
+2449,25396,Admission,HIV Viral Load,89.82
+2449,25397,Admission,CD4 Count,2212.16
+2449,25398,Discharge,HIV Viral Load,34.58
+2449,25399,Discharge,CD4 Count,2802.79
+2450,25400,Admission,Serum Total Testosterone,1467.87
+2450,25401,Discharge,Serum Total Testosterone,1633.24
+2451,25402,Admission,FibroScan (Liver Stiffness),11.82
+2451,25403,Discharge,FibroScan (Liver Stiffness),9.52
+2452,25404,Admission,Fecal Elastase,574.14
+2452,25405,Discharge,Fecal Elastase,702.98
+2453,25406,Admission,CSF Beta-Amyloid (Aβ1-42),1889.6
+2453,25407,Admission,CSF Total Tau Protein,511.4
+2453,25408,Discharge,CSF Beta-Amyloid (Aβ1-42),1785.69
+2453,25409,Discharge,CSF Total Tau Protein,465.98
+2455,25410,Admission,High-Sensitivity CRP,4.62
+2455,25411,Discharge,High-Sensitivity CRP,3.37
+2457,25412,Admission,Serum IL-17,5.71
+2457,25413,Discharge,Serum IL-17,5.88
+2459,25414,Admission,JAK2 V617F Mutation,1.48
+2459,25415,Discharge,JAK2 V617F Mutation,1.48
+2460,25416,Admission,Insulin-Like Growth Factor 1 (IGF-1),503.23
+2460,25417,Admission,Growth Hormone Suppression Test,1.73
+2460,25418,Discharge,Insulin-Like Growth Factor 1 (IGF-1),633.17
+2460,25419,Discharge,Growth Hormone Suppression Test,1.12
+2461,25420,Admission,ASO Titer,232.72
+2461,25421,Discharge,ASO Titer,157.35
+2462,25422,Admission,High-Sensitivity Troponin T,0.04
+2462,25423,Admission,B-type Natriuretic Peptide (BNP),121.87
+2462,25424,Admission,Electrocardiogram (ECG),0.0
+2462,25425,Admission,Echocardiogram (ECHO),0.0
+2462,25426,Discharge,High-Sensitivity Troponin T,0.03
+2462,25427,Discharge,B-type Natriuretic Peptide (BNP),95.72
+2462,25428,Discharge,Electrocardiogram (ECG),0.0
+2462,25429,Discharge,Echocardiogram (ECHO),0.0
+2463,25430,Admission,Dental Abscess Culture,1.25
+2463,25431,Discharge,Dental Abscess Culture,0.96
+2465,25432,Admission,CSF Alpha-Synuclein,41.71
+2465,25433,Discharge,CSF Alpha-Synuclein,37.64
+2466,25434,Admission,Hepatitis Panel,1.59
+2466,25435,Discharge,Hepatitis Panel,0.96
+2467,25436,Admission,Rheumatoid Factor (RF),24.85
+2467,25437,Admission,Anti-CCP Antibody,37.93
+2467,25438,Discharge,Rheumatoid Factor (RF),20.31
+2467,25439,Discharge,Anti-CCP Antibody,27.99
+2469,25440,Admission,Rubella IgM Antibody,1.39
+2469,25441,Discharge,Rubella IgM Antibody,1.38
+2471,25442,Admission,Anti-SSA (Anti-Ro),1.59
+2471,25443,Admission,Anti-SSB (Anti-La),1.65
+2471,25444,Discharge,Anti-SSA (Anti-Ro),1.11
+2471,25445,Discharge,Anti-SSB (Anti-La),1.17
+2472,25446,Admission,Insulin-Like Growth Factor 1 (IGF-1),348.22
+2472,25447,Admission,Growth Hormone Suppression Test,1.31
+2472,25448,Discharge,Insulin-Like Growth Factor 1 (IGF-1),239.26
+2472,25449,Discharge,Growth Hormone Suppression Test,0.92
+2474,25450,Admission,HLA-B51,1.44
+2474,25451,Discharge,HLA-B51,1.44
+2475,25452,Admission,Serum Protein Electrophoresis (SPEP),0.71
+2475,25453,Admission,Serum Free Light Chains (kappa/lambda),9.7
+2475,25454,Discharge,Serum Protein Electrophoresis (SPEP),0.57
+2475,25455,Discharge,Serum Free Light Chains (kappa/lambda),8.47
+2477,25456,Admission,Bone Marrow Cytogenetics,0.0
+2477,25457,Discharge,Bone Marrow Cytogenetics,0.0
+2478,25458,Admission,Serum Neurofilament Light Chain (NFL),77.64
+2478,25459,Discharge,Serum Neurofilament Light Chain (NFL),63.8
+2479,25460,Admission,Alpha-Fetoprotein (AFP),10.52
+2479,25461,Discharge,Alpha-Fetoprotein (AFP),10.52
+2480,25462,Admission,Serum Orexin-A,68.98
+2480,25463,Discharge,Serum Orexin-A,64.85
+2481,25464,Admission,B-type Natriuretic Peptide (BNP),154.16
+2481,25465,Admission,High-Sensitivity Troponin T,0.04
+2481,25466,Admission,Serum Ferritin,292.46
+2481,25467,Admission,Electrocardiogram (ECG),0.0
+2481,25468,Admission,Echocardiogram (ECHO),0.0
+2481,25469,Admission,NT-proBNP,219.28
+2481,25470,Discharge,B-type Natriuretic Peptide (BNP),78.53
+2481,25471,Discharge,High-Sensitivity Troponin T,0.03
+2481,25472,Discharge,Serum Ferritin,283.3
+2481,25473,Discharge,Electrocardiogram (ECG),0.0
+2481,25474,Discharge,Echocardiogram (ECHO),0.0
+2481,25475,Discharge,NT-proBNP,107.58
+2482,25476,Admission,Anti-dsDNA Antibody,11.63
+2482,25477,Admission,Anti-Smith Antibody,1.11
+2482,25478,Admission,Complement C3/C4,37.37
+2482,25479,Discharge,Anti-dsDNA Antibody,8.28
+2482,25480,Discharge,Anti-Smith Antibody,0.91
+2482,25481,Discharge,Complement C3/C4,33.31
+2483,25482,Admission,Anti-Platelet Antibody,1.47
+2483,25483,Discharge,Anti-Platelet Antibody,1.19
+2484,25484,Admission,High-Sensitivity CRP,4.12
+2484,25485,Admission,Proinsulin,16.11
+2484,25486,Admission,C-Peptide,3.07
+2484,25487,Discharge,High-Sensitivity CRP,3.4
+2484,25488,Discharge,Proinsulin,10.41
+2484,25489,Discharge,C-Peptide,3.05
+2486,25490,Admission,Serum Lipase,86.61
+2486,25491,Admission,Serum Amylase,166.95
+2486,25492,Discharge,Serum Lipase,66.66
+2486,25493,Discharge,Serum Amylase,116.9
+2487,25494,Admission,Serum Ferritin,285.86
+2487,25495,Admission,Total Iron Binding Capacity (TIBC),799.75
+2487,25496,Discharge,Serum Ferritin,345.93
+2487,25497,Discharge,Total Iron Binding Capacity (TIBC),486.58
+2488,25498,Admission,Stool Culture (Vibrio cholerae),1.14
+2488,25499,Discharge,Stool Culture (Vibrio cholerae),0.48
+2489,25500,Admission,Vaginal Swab Microscopy,1.15
+2489,25501,Discharge,Vaginal Swab Microscopy,0.88
+2490,25502,Admission,SMN1 Gene Deletion Test,1.73
+2490,25503,Discharge,SMN1 Gene Deletion Test,1.76
+2491,25504,Admission,FibroScan (Liver Stiffness),10.81
+2491,25505,Discharge,FibroScan (Liver Stiffness),7.69
+2492,25506,Admission,Serum C-Terminal Telopeptide (CTX),1.35
+2492,25507,Discharge,Serum C-Terminal Telopeptide (CTX),1.33
+2494,25508,Admission,CYFRA 21-1,6.41
+2494,25509,Discharge,CYFRA 21-1,7.22
+2495,25510,Admission,HSV PCR (Lesion Swab),1.5
+2495,25511,Discharge,HSV PCR (Lesion Swab),1.09
+2498,25512,Admission,Anti-HCV Antibody,1.8
+2498,25513,Admission,HCV RNA,82.19
+2498,25514,Discharge,Anti-HCV Antibody,1.08
+2498,25515,Discharge,HCV RNA,53.44
+2502,25516,Admission,Serum CGRP (Calcitonin Gene-Related Peptide),85.24
+2502,25517,Admission,Serum Magnesium,3.05
+2502,25518,Discharge,Serum CGRP (Calcitonin Gene-Related Peptide),64.47
+2502,25519,Discharge,Serum Magnesium,2.52
+2503,25520,Admission,Total Serum IgE,169.0
+2503,25521,Discharge,Total Serum IgE,167.2
+2505,25522,Admission,TYR Gene Mutation (OCA Type I),1.21
+2505,25523,Discharge,TYR Gene Mutation (OCA Type I),1.24
+2506,25524,Admission,Anti-dsDNA Antibody,27.81
+2506,25525,Admission,Anti-Smith Antibody,1.9
+2506,25526,Admission,Complement C3/C4,32.61
+2506,25527,Discharge,Anti-dsDNA Antibody,17.48
+2506,25528,Discharge,Anti-Smith Antibody,1.47
+2506,25529,Discharge,Complement C3/C4,24.64
+2509,25530,Admission,SMN1 Gene Deletion Test,1.4
+2509,25531,Discharge,SMN1 Gene Deletion Test,1.37
+2510,25532,Admission,Reticulocyte Count,2.94
+2510,25533,Discharge,Reticulocyte Count,3.69
+2513,25534,Admission,Cortisol Awakening Response (Salivary),26.15
+2513,25535,Discharge,Cortisol Awakening Response (Salivary),30.66
+2514,25536,Admission,Serum Protein Electrophoresis (SPEP),0.95
+2514,25537,Admission,Serum Free Light Chains (kappa/lambda),5.6
+2514,25538,Discharge,Serum Protein Electrophoresis (SPEP),0.59
+2514,25539,Discharge,Serum Free Light Chains (kappa/lambda),4.63
+2515,25540,Admission,24-Hour Esophageal pH Monitoring,6.76
+2515,25541,Discharge,24-Hour Esophageal pH Monitoring,5.03
+2516,25542,Admission,Throat Swab Culture,1.39
+2516,25543,Discharge,Throat Swab Culture,0.84
+2517,25544,Admission,Circulating Tumor DNA (ctDNA),6.77
+2517,25545,Discharge,Circulating Tumor DNA (ctDNA),4.84
+2519,25546,Admission,Serum PINP,97.81
+2519,25547,Discharge,Serum PINP,87.01
+2522,25548,Admission,Fecal Elastase,778.23
+2522,25549,Discharge,Fecal Elastase,900.61
+2525,25550,Admission,vWF Antigen,172.02
+2525,25551,Admission,Ristocetin Cofactor Activity,199.18
+2525,25552,Discharge,vWF Antigen,191.83
+2525,25553,Discharge,Ristocetin Cofactor Activity,238.67
+2527,25554,Admission,Serum Lipase,78.36
+2527,25555,Admission,Serum Amylase,190.5
+2527,25556,Discharge,Serum Lipase,57.21
+2527,25557,Discharge,Serum Amylase,144.96
+2528,25558,Admission,Clue Cell Microscopy,1.14
+2528,25559,Discharge,Clue Cell Microscopy,1.11
+2529,25560,Admission,CA-125,55.44
+2529,25561,Admission,HE4 (Human Epididymis Protein 4),113.46
+2529,25562,Discharge,CA-125,66.18
+2529,25563,Discharge,HE4 (Human Epididymis Protein 4),97.84
+2532,25564,Admission,Reticulocyte Count,2.75
+2532,25565,Discharge,Reticulocyte Count,3.17
+2533,25566,Admission,Urinary NMP22,25.31
+2533,25567,Discharge,Urinary NMP22,20.88
+2534,25568,Admission,High-Sensitivity CRP,5.2
+2534,25569,Discharge,High-Sensitivity CRP,3.96
+2535,25570,Admission,Lyme IgM/IgG Western Blot,1.53
+2535,25571,Admission,Borrelia burgdorferi PCR,1.02
+2535,25572,Discharge,Lyme IgM/IgG Western Blot,1.11
+2535,25573,Discharge,Borrelia burgdorferi PCR,0.84
+2539,25574,Admission,Serum Total Testosterone,1446.17
+2539,25575,Discharge,Serum Total Testosterone,1152.72
+2540,25576,Admission,Endocervical Swab Culture,1.27
+2540,25577,Discharge,Endocervical Swab Culture,0.79
+2543,25578,Admission,Anti-Intrinsic Factor Antibody,1.63
+2543,25579,Admission,Anti-Parietal Cell Antibody,1.39
+2543,25580,Discharge,Anti-Intrinsic Factor Antibody,1.37
+2543,25581,Discharge,Anti-Parietal Cell Antibody,1.17
+2545,25582,Admission,High-Sensitivity Troponin I,0.08
+2545,25583,Admission,D-Dimer,0.57
+2545,25584,Admission,High-Sensitivity CRP,5.94
+2545,25585,Admission,Electrocardiogram (ECG),0.0
+2545,25586,Admission,Echocardiogram (ECHO),0.0
+2545,25587,Admission,Exercise Treadmill Stress Test,0.0
+2545,25588,Discharge,High-Sensitivity Troponin I,0.05
+2545,25589,Discharge,D-Dimer,0.58
+2545,25590,Discharge,High-Sensitivity CRP,3.5
+2545,25591,Discharge,Electrocardiogram (ECG),0.0
+2545,25592,Discharge,Echocardiogram (ECHO),0.0
+2545,25593,Discharge,Exercise Treadmill Stress Test,0.0
+2546,25594,Admission,Exhaled Nitric Oxide,38.96
+2546,25595,Admission,Total Serum IgE,118.16
+2546,25596,Discharge,Exhaled Nitric Oxide,28.98
+2546,25597,Discharge,Total Serum IgE,82.75
+2547,25598,Admission,"Lymphocyte Subset Panel (CD3,CD4,CD8)",3242.17
+2547,25599,Discharge,"Lymphocyte Subset Panel (CD3,CD4,CD8)",3855.17
+2548,25600,Admission,Serum Total Testosterone,1425.14
+2548,25601,Discharge,Serum Total Testosterone,1453.1
+2550,25602,Admission,Trisomy 21 Karyotype,1.54
+2550,25603,Discharge,Trisomy 21 Karyotype,1.54
+2551,25604,Admission,vWF Antigen,254.7
+2551,25605,Admission,Ristocetin Cofactor Activity,205.75
+2551,25606,Discharge,vWF Antigen,247.53
+2551,25607,Discharge,Ristocetin Cofactor Activity,205.08
+2553,25608,Admission,Flow Cytometry (Lymph Node Aspirate),1.86
+2553,25609,Discharge,Flow Cytometry (Lymph Node Aspirate),1.35
+2554,25610,Admission,Anti-Melanocyte Antibody,1.61
+2554,25611,Discharge,Anti-Melanocyte Antibody,1.14
+2558,25612,Admission,Serum IL-17,9.44
+2558,25613,Discharge,Serum IL-17,11.38
+2559,25614,Admission,Bone ALP Isoenzyme,24.6
+2559,25615,Discharge,Bone ALP Isoenzyme,21.4
+2560,25616,Admission,D-Dimer,0.58
+2560,25617,Discharge,D-Dimer,0.43
+2561,25618,Admission,Salivary Alpha-Amylase,146.47
+2561,25619,Discharge,Salivary Alpha-Amylase,105.22
+2563,25620,Admission,SMN1 Gene Deletion Test,1.16
+2563,25621,Discharge,SMN1 Gene Deletion Test,1.15
+2564,25622,Admission,Leptin Level,26.09
+2564,25623,Discharge,Leptin Level,16.75
+2565,25624,Admission,Reticulocyte Count,1.94
+2565,25625,Discharge,Reticulocyte Count,2.48
+2566,25626,Admission,Anti-SSA (Anti-Ro),1.76
+2566,25627,Admission,Anti-SSB (Anti-La),1.24
+2566,25628,Discharge,Anti-SSA (Anti-Ro),1.82
+2566,25629,Discharge,Anti-SSB (Anti-La),0.9
+2569,25630,Admission,Rheumatoid Factor (RF),28.07
+2569,25631,Admission,Anti-CCP Antibody,27.77
+2569,25632,Discharge,Rheumatoid Factor (RF),21.23
+2569,25633,Discharge,Anti-CCP Antibody,23.58
+2571,25634,Admission,Sinus Aspirate Culture,1.89
+2571,25635,Discharge,Sinus Aspirate Culture,1.34
+2573,25636,Admission,Glucocerebrosidase Enzyme Activity,166.97
+2573,25637,Discharge,Glucocerebrosidase Enzyme Activity,181.96
+2574,25638,Admission,High-Sensitivity CRP,4.54
+2574,25639,Admission,Proinsulin,15.27
+2574,25640,Admission,C-Peptide,3.42
+2574,25641,Discharge,High-Sensitivity CRP,4.39
+2574,25642,Discharge,Proinsulin,11.42
+2574,25643,Discharge,C-Peptide,3.42
+2576,25644,Admission,ANCA (p-ANCA or c-ANCA),14.09
+2576,25645,Admission,Erythrocyte Sedimentation Rate (ESR),36.59
+2576,25646,Discharge,ANCA (p-ANCA or c-ANCA),11.53
+2576,25647,Discharge,Erythrocyte Sedimentation Rate (ESR),30.09
+2577,25648,Admission,Anti-Thyroid Peroxidase (TPO),45.63
+2577,25649,Discharge,Anti-Thyroid Peroxidase (TPO),32.41
+2578,25650,Admission,SCC Antigen (SCCA),2.71
+2578,25651,Discharge,SCC Antigen (SCCA),2.1
+2579,25652,Admission,Serum Ceruloplasmin,53.53
+2579,25653,Admission,24-Hour Urinary Copper,72.97
+2579,25654,Discharge,Serum Ceruloplasmin,42.34
+2579,25655,Discharge,24-Hour Urinary Copper,46.14
+2580,25656,Admission,Anti-GAD Antibodies,16.21
+2580,25657,Admission,Insulin Autoantibodies (IAA),11.52
+2580,25658,Admission,C-Peptide,3.32
+2580,25659,Discharge,Anti-GAD Antibodies,12.49
+2580,25660,Discharge,Insulin Autoantibodies (IAA),10.13
+2580,25661,Discharge,C-Peptide,3.39
+2582,25662,Admission,Erythrocyte Sedimentation Rate (ESR),22.02
+2582,25663,Admission,High-Sensitivity CRP,3.78
+2582,25664,Discharge,Erythrocyte Sedimentation Rate (ESR),18.39
+2582,25665,Discharge,High-Sensitivity CRP,2.8
+2583,25666,Admission,SNRPN Methylation Analysis,1.64
+2583,25667,Discharge,SNRPN Methylation Analysis,1.64
+2584,25668,Admission,Helicobacter pylori Stool Antigen,1.51
+2584,25669,Discharge,Helicobacter pylori Stool Antigen,0.98
+2586,25670,Admission,Serum S100 Protein,0.28
+2586,25671,Discharge,Serum S100 Protein,0.2
+2588,25672,Admission,RSV PCR,1.52
+2588,25673,Discharge,RSV PCR,0.91
+2590,25674,Admission,Insulin-Like Growth Factor 1 (IGF-1),450.11
+2590,25675,Admission,Growth Hormone Suppression Test,1.9
+2590,25676,Discharge,Insulin-Like Growth Factor 1 (IGF-1),280.89
+2590,25677,Discharge,Growth Hormone Suppression Test,1.35
+2591,25678,Admission,HTT Gene CAG Repeat Test,66.97
+2591,25679,Discharge,HTT Gene CAG Repeat Test,66.97
+2592,25680,Admission,Genetic Panel (CHD-related),1.88
+2592,25681,Discharge,Genetic Panel (CHD-related),1.88
+2595,25682,Admission,CSF Total Protein,78.17
+2595,25683,Admission,Anti-Ganglioside GM1 Antibody,1.41
+2595,25684,Discharge,CSF Total Protein,76.97
+2595,25685,Discharge,Anti-Ganglioside GM1 Antibody,1.43
+2596,25686,Admission,Skin Scraping Microscopy,1.69
+2596,25687,Discharge,Skin Scraping Microscopy,1.61
+2597,25688,Admission,FMR1 CGG Repeat Analysis,78.7
+2597,25689,Discharge,FMR1 CGG Repeat Analysis,75.73
+2598,25690,Admission,Plasma Epinephrine,123.73
+2598,25691,Discharge,Plasma Epinephrine,85.83
+2599,25692,Admission,Hemoglobin Electrophoresis,5.54
+2599,25693,Discharge,Hemoglobin Electrophoresis,5.12
+2600,25694,Admission,Sweat Chloride Test,60.19
+2600,25695,Admission,CFTR Gene Mutation Panel,1.93
+2600,25696,Discharge,Sweat Chloride Test,56.59
+2600,25697,Discharge,CFTR Gene Mutation Panel,1.93
+2602,25698,Admission,CA-125,69.27
+2602,25699,Admission,HE4 (Human Epididymis Protein 4),137.72
+2602,25700,Discharge,CA-125,55.44
+2602,25701,Discharge,HE4 (Human Epididymis Protein 4),115.38
+2603,25702,Admission,Fecal Calprotectin,75.84
+2603,25703,Admission,Anti-Saccharomyces cerevisiae Antibodies (ASCA),17.04
+2603,25704,Discharge,Fecal Calprotectin,76.05
+2603,25705,Discharge,Anti-Saccharomyces cerevisiae Antibodies (ASCA),17.36
+2604,25706,Admission,High-Sensitivity CRP,3.44
+2604,25707,Discharge,High-Sensitivity CRP,2.87
+2605,25708,Admission,Anti-Melanocyte Antibody,1.28
+2605,25709,Discharge,Anti-Melanocyte Antibody,1.02
+2606,25710,Admission,"Lymphocyte Subset Panel (CD3,CD4,CD8)",3293.73
+2606,25711,Discharge,"Lymphocyte Subset Panel (CD3,CD4,CD8)",4194.91
+2607,25712,Admission,SMN1 Gene Deletion Test,1.37
+2607,25713,Discharge,SMN1 Gene Deletion Test,1.37
+2608,25714,Admission,Influenza Rapid Antigen,1.94
+2608,25715,Discharge,Influenza Rapid Antigen,2.02
+2609,25716,Admission,Procalcitonin,0.17
+2609,25717,Admission,Blood Culture,1.2
+2609,25718,Discharge,Procalcitonin,0.09
+2609,25719,Discharge,Blood Culture,0.76
+2610,25720,Admission,SCC Antigen (SCCA),1.98
+2610,25721,Discharge,SCC Antigen (SCCA),1.48
+2611,25722,Admission,Exhaled Nitric Oxide,31.79
+2611,25723,Admission,Total Serum IgE,192.72
+2611,25724,Discharge,Exhaled Nitric Oxide,24.25
+2611,25725,Discharge,Total Serum IgE,231.52
+2612,25726,Admission,Serum Magnesium,3.97
+2612,25727,Discharge,Serum Magnesium,3.33
+2613,25728,Admission,Laryngeal Swab Culture,1.25
+2613,25729,Discharge,Laryngeal Swab Culture,0.78
+2614,25730,Admission,Parathyroid Hormone (PTH),107.85
+2614,25731,Discharge,Parathyroid Hormone (PTH),90.03
+2616,25732,Admission,Urinary NMP22,11.27
+2616,25733,Discharge,Urinary NMP22,8.62
+2622,25734,Admission,High-Sensitivity CRP,3.4
+2622,25735,Admission,Proinsulin,11.26
+2622,25736,Admission,C-Peptide,2.86
+2622,25737,Discharge,High-Sensitivity CRP,2.64
+2622,25738,Discharge,Proinsulin,8.09
+2622,25739,Discharge,C-Peptide,2.86
+2623,25740,Admission,Serum Total Testosterone,929.48
+2623,25741,Discharge,Serum Total Testosterone,932.39
+2625,25742,Admission,Periodontal Bacteria Culture,1.68
+2625,25743,Discharge,Periodontal Bacteria Culture,0.87
+2626,25744,Admission,Serum Creatine Kinase (CK),308.18
+2626,25745,Admission,Dystrophin Gene Deletion Test,1.5
+2626,25746,Discharge,Serum Creatine Kinase (CK),219.79
+2626,25747,Discharge,Dystrophin Gene Deletion Test,1.5
+2628,25748,Admission,High-Sensitivity Troponin I,0.05
+2628,25749,Admission,D-Dimer,0.66
+2628,25750,Admission,Electrocardiogram (ECG),0.0
+2628,25751,Admission,Echocardiogram (ECHO),0.0
+2628,25752,Admission,Holter Monitoring (24-hour ECG),0.0
+2628,25753,Admission,Electrophysiological Study (EPS),0.0
+2628,25754,Discharge,High-Sensitivity Troponin I,0.03
+2628,25755,Discharge,D-Dimer,0.67
+2628,25756,Discharge,Electrocardiogram (ECG),0.0
+2628,25757,Discharge,Echocardiogram (ECHO),0.0
+2628,25758,Discharge,Holter Monitoring (24-hour ECG),0.0
+2628,25759,Discharge,Electrophysiological Study (EPS),0.0
+2629,25760,Admission,Anti-Acetylcholine Receptor Antibody,0.52
+2629,25761,Admission,Anti-MuSK Antibody,1.12
+2629,25762,Discharge,Anti-Acetylcholine Receptor Antibody,0.32
+2629,25763,Discharge,Anti-MuSK Antibody,0.88
+2631,25764,Admission,Fecal Calprotectin,70.29
+2631,25765,Admission,Anti-Saccharomyces cerevisiae Antibodies (ASCA),14.37
+2631,25766,Discharge,Fecal Calprotectin,70.94
+2631,25767,Discharge,Anti-Saccharomyces cerevisiae Antibodies (ASCA),8.79
+2632,25768,Admission,Salivary Alpha-Amylase,119.53
+2632,25769,Discharge,Salivary Alpha-Amylase,99.62
+2633,25770,Admission,Serum Total Testosterone,1582.52
+2633,25771,Discharge,Serum Total Testosterone,1125.55
+2634,25772,Admission,CSF Beta-Amyloid (Aβ1-42),1112.02
+2634,25773,Admission,CSF Total Tau Protein,515.16
+2634,25774,Discharge,CSF Beta-Amyloid (Aβ1-42),1080.56
+2634,25775,Discharge,CSF Total Tau Protein,492.59
+2635,25776,Admission,Anti-Thyroid Peroxidase (TPO),61.41
+2635,25777,Discharge,Anti-Thyroid Peroxidase (TPO),63.65
+2636,25778,Admission,Rheumatoid Factor (RF),21.29
+2636,25779,Admission,Anti-CCP Antibody,24.48
+2636,25780,Discharge,Rheumatoid Factor (RF),24.92
+2636,25781,Discharge,Anti-CCP Antibody,21.92
+2637,25782,Admission,Lyme IgM/IgG Western Blot,1.72
+2637,25783,Admission,Borrelia burgdorferi PCR,2.0
+2637,25784,Discharge,Lyme IgM/IgG Western Blot,1.25
+2637,25785,Discharge,Borrelia burgdorferi PCR,1.39
+2638,25786,Admission,Transferrin Saturation,77.72
+2638,25787,Admission,Serum Ferritin,269.64
+2638,25788,Discharge,Transferrin Saturation,46.88
+2638,25789,Discharge,Serum Ferritin,218.75
+2639,25790,Admission,Prothrombin Time (PT/INR),2.0
+2639,25791,Discharge,Prothrombin Time (PT/INR),1.54
+2640,25792,Admission,Clue Cell Microscopy,1.35
+2640,25793,Discharge,Clue Cell Microscopy,0.63
+2641,25794,Admission,SCC Antigen (SCCA),1.57
+2641,25795,Discharge,SCC Antigen (SCCA),1.25
+2642,25796,Admission,LH:FSH Ratio,2.37
+2642,25797,Admission,Serum Total Testosterone,107.82
+2642,25798,Admission,Serum DHEA-S,854.58
+2642,25799,Discharge,LH:FSH Ratio,1.95
+2642,25800,Discharge,Serum Total Testosterone,112.8
+2642,25801,Discharge,Serum DHEA-S,603.25
+2643,25802,Admission,CYFRA 21-1,4.81
+2643,25803,Discharge,CYFRA 21-1,3.93
+2645,25804,Admission,LH:FSH Ratio,2.06
+2645,25805,Admission,Serum Total Testosterone,145.76
+2645,25806,Admission,Serum DHEA-S,518.36
+2645,25807,Discharge,LH:FSH Ratio,1.57
+2645,25808,Discharge,Serum Total Testosterone,103.84
+2645,25809,Discharge,Serum DHEA-S,530.27
+2647,25810,Admission,Flow Cytometry (Lymphoblasts),1.83
+2647,25811,Discharge,Flow Cytometry (Lymphoblasts),1.86
+2649,25812,Admission,Transferrin Saturation,62.28
+2649,25813,Admission,Serum Ferritin,329.13
+2649,25814,Discharge,Transferrin Saturation,65.2
+2649,25815,Discharge,Serum Ferritin,247.86
+2650,25816,Admission,Occupational Allergen-Specific IgE,7.67
+2650,25817,Discharge,Occupational Allergen-Specific IgE,5.29
+2651,25818,Admission,Bone Marrow Cytogenetics,0.0
+2651,25819,Discharge,Bone Marrow Cytogenetics,0.0
+2652,25820,Admission,B-type Natriuretic Peptide (BNP),186.31
+2652,25821,Admission,High-Sensitivity Troponin T,0.06
+2652,25822,Admission,Serum Ferritin,197.06
+2652,25823,Admission,Electrocardiogram (ECG),0.0
+2652,25824,Admission,Echocardiogram (ECHO),0.0
+2652,25825,Admission,NT-proBNP,217.34
+2652,25826,Discharge,B-type Natriuretic Peptide (BNP),190.18
+2652,25827,Discharge,High-Sensitivity Troponin T,0.05
+2652,25828,Discharge,Serum Ferritin,123.72
+2652,25829,Discharge,Electrocardiogram (ECG),0.0
+2652,25830,Discharge,Echocardiogram (ECHO),0.0
+2652,25831,Discharge,NT-proBNP,100.44
+2655,25832,Admission,HPV DNA PCR,1.43
+2655,25833,Discharge,HPV DNA PCR,1.08
+2656,25834,Admission,Procalcitonin,0.11
+2656,25835,Discharge,Procalcitonin,0.07
+2657,25836,Admission,Serum Creatine Kinase (CK),245.01
+2657,25837,Admission,Serum Aldolase,13.67
+2657,25838,Discharge,Serum Creatine Kinase (CK),234.81
+2657,25839,Discharge,Serum Aldolase,16.8
+2658,25840,Admission,High-Sensitivity CRP,4.33
+2658,25841,Admission,Serum Ferritin,277.67
+2658,25842,Discharge,High-Sensitivity CRP,2.72
+2658,25843,Discharge,Serum Ferritin,172.65
+2659,25844,Admission,Trisomy 21 Karyotype,1.71
+2659,25845,Discharge,Trisomy 21 Karyotype,1.71
+2660,25846,Admission,Anti-dsDNA Antibody,13.14
+2660,25847,Admission,Anti-Smith Antibody,1.78
+2660,25848,Admission,Complement C3/C4,39.34
+2660,25849,Discharge,Anti-dsDNA Antibody,8.9
+2660,25850,Discharge,Anti-Smith Antibody,1.28
+2660,25851,Discharge,Complement C3/C4,31.5
+2661,25852,Admission,H. pylori Stool Antigen,1.53
+2661,25853,Discharge,H. pylori Stool Antigen,1.17
+2662,25854,Admission,Anti-GAD Antibodies,12.36
+2662,25855,Admission,Insulin Autoantibodies (IAA),12.5
+2662,25856,Admission,C-Peptide,2.56
+2662,25857,Discharge,Anti-GAD Antibodies,9.8
+2662,25858,Discharge,Insulin Autoantibodies (IAA),12.59
+2662,25859,Discharge,C-Peptide,2.56
+2664,25860,Admission,Procalcitonin,0.1
+2664,25861,Admission,Blood Culture,1.13
+2664,25862,Discharge,Procalcitonin,0.07
+2664,25863,Discharge,Blood Culture,1.14
+2665,25864,Admission,HPRT Enzyme Activity,167.78
+2665,25865,Discharge,HPRT Enzyme Activity,175.82
+2668,25866,Admission,HLA-B51,1.58
+2668,25867,Discharge,HLA-B51,1.58
+2670,25868,Admission,Prothrombin Time (INR),1.43
+2670,25869,Discharge,Prothrombin Time (INR),1.1
+2672,25870,Admission,Laryngeal Swab Culture,1.71
+2672,25871,Discharge,Laryngeal Swab Culture,2.03
+2673,25872,Admission,Serum Haptoglobin,253.38
+2673,25873,Discharge,Serum Haptoglobin,294.71
+2674,25874,Admission,Serum S100 Protein,0.3
+2674,25875,Discharge,Serum S100 Protein,0.24
+2675,25876,Admission,CSF Oligoclonal Bands,1.66
+2675,25877,Discharge,CSF Oligoclonal Bands,1.22
+2676,25878,Admission,Bacterial Culture (Lesion Swab),1.26
+2676,25879,Discharge,Bacterial Culture (Lesion Swab),0.64
+2677,25880,Admission,SCC Antigen (SCCA),2.7
+2677,25881,Discharge,SCC Antigen (SCCA),2.35
+2678,25882,Admission,Rapid Plasma Reagin (RPR),1.83
+2678,25883,Discharge,Rapid Plasma Reagin (RPR),1.41
+2680,25884,Admission,Factor VIII Activity,282.15
+2680,25885,Discharge,Factor VIII Activity,337.11
+2681,25886,Admission,Mumps IgM Antibody,1.63
+2681,25887,Discharge,Mumps IgM Antibody,0.95
+2682,25888,Admission,HLA-B51,1.94
+2682,25889,Discharge,HLA-B51,1.94
+2683,25890,Admission,Serum GFAP,0.74
+2683,25891,Discharge,Serum GFAP,0.59
+2684,25892,Admission,High-Sensitivity Troponin I,0.05
+2684,25893,Admission,D-Dimer,0.69
+2684,25894,Admission,High-Sensitivity CRP,5.65
+2684,25895,Admission,Electrocardiogram (ECG),0.0
+2684,25896,Admission,Echocardiogram (ECHO),0.0
+2684,25897,Admission,Exercise Treadmill Stress Test,0.0
+2684,25898,Discharge,High-Sensitivity Troponin I,0.03
+2684,25899,Discharge,D-Dimer,0.53
+2684,25900,Discharge,High-Sensitivity CRP,5.41
+2684,25901,Discharge,Electrocardiogram (ECG),0.0
+2684,25902,Discharge,Echocardiogram (ECHO),0.0
+2684,25903,Discharge,Exercise Treadmill Stress Test,0.0
+2690,25904,Admission,Urinary NMP22,17.23
+2690,25905,Discharge,Urinary NMP22,14.85
+2692,25906,Admission,HSV-2 PCR,1.89
+2692,25907,Discharge,HSV-2 PCR,1.19
+2693,25908,Admission,Ear Discharge Culture,1.7
+2693,25909,Discharge,Ear Discharge Culture,0.95
+2695,25910,Admission,High-Sensitivity CRP,3.76
+2695,25911,Discharge,High-Sensitivity CRP,3.69
+2696,25912,Admission,Stool Culture (Vibrio cholerae),1.75
+2696,25913,Discharge,Stool Culture (Vibrio cholerae),1.04
+2697,25914,Admission,SMN1 Gene Deletion Test,1.89
+2697,25915,Discharge,SMN1 Gene Deletion Test,1.89
+2700,25916,Admission,Interferon Gamma Release Assay (IGRA),1.31
+2700,25917,Admission,Sputum AFB (Acid-Fast Bacilli) Stain,1.39
+2700,25918,Discharge,Interferon Gamma Release Assay (IGRA),1.16
+2700,25919,Discharge,Sputum AFB (Acid-Fast Bacilli) Stain,0.95
+2702,25920,Admission,Leptin Level,22.04
+2702,25921,Discharge,Leptin Level,16.52
+2703,25922,Admission,Endocervical Swab Culture,1.95
+2703,25923,Discharge,Endocervical Swab Culture,1.4
+2705,25924,Admission,Serum KL-6,875.11
+2705,25925,Discharge,Serum KL-6,674.72
+2708,25926,Admission,Subgingival Plaque Culture,1.71
+2708,25927,Discharge,Subgingival Plaque Culture,1.1
+2711,25928,Admission,Stool Ova & Parasites (Giardia),1.14
+2711,25929,Discharge,Stool Ova & Parasites (Giardia),0.87
+2713,25930,Admission,High-Sensitivity Troponin I,0.04
+2713,25931,Admission,D-Dimer,0.59
+2713,25932,Admission,High-Sensitivity CRP,4.74
+2713,25933,Admission,Electrocardiogram (ECG),0.0
+2713,25934,Admission,Echocardiogram (ECHO),0.0
+2713,25935,Admission,Exercise Treadmill Stress Test,0.0
+2713,25936,Discharge,High-Sensitivity Troponin I,0.03
+2713,25937,Discharge,D-Dimer,0.45
+2713,25938,Discharge,High-Sensitivity CRP,2.78
+2713,25939,Discharge,Electrocardiogram (ECG),0.0
+2713,25940,Discharge,Echocardiogram (ECHO),0.0
+2713,25941,Discharge,Exercise Treadmill Stress Test,0.0
+2714,25942,Admission,High-Sensitivity Troponin I,0.06
+2714,25943,Admission,D-Dimer,0.58
+2714,25944,Admission,High-Sensitivity CRP,5.05
+2714,25945,Admission,Electrocardiogram (ECG),0.0
+2714,25946,Admission,Echocardiogram (ECHO),0.0
+2714,25947,Admission,Exercise Treadmill Stress Test,0.0
+2714,25948,Discharge,High-Sensitivity Troponin I,0.04
+2714,25949,Discharge,D-Dimer,0.57
+2714,25950,Discharge,High-Sensitivity CRP,4.95
+2714,25951,Discharge,Electrocardiogram (ECG),0.0
+2714,25952,Discharge,Echocardiogram (ECHO),0.0
+2714,25953,Discharge,Exercise Treadmill Stress Test,0.0
+2715,25954,Admission,Serum Protein Electrophoresis (SPEP),0.61
+2715,25955,Admission,Serum Free Light Chains (kappa/lambda),7.61
+2715,25956,Discharge,Serum Protein Electrophoresis (SPEP),0.39
+2715,25957,Discharge,Serum Free Light Chains (kappa/lambda),6.05
+2717,25958,Admission,HPRT Enzyme Activity,193.56
+2717,25959,Discharge,HPRT Enzyme Activity,193.56
+2718,25960,Admission,Serum Vitamin B12,961.15
+2718,25961,Admission,Serum Methylmalonic Acid (MMA),417.31
+2718,25962,Discharge,Serum Vitamin B12,1167.69
+2718,25963,Discharge,Serum Methylmalonic Acid (MMA),415.46
+2719,25964,Admission,Tympanic Membrane Exudate Culture,1.63
+2719,25965,Discharge,Tympanic Membrane Exudate Culture,0.84
+2720,25966,Admission,Hexosaminidase A Activity,166.3
+2720,25967,Discharge,Hexosaminidase A Activity,163.2
+2721,25968,Admission,Sinus Aspirate Culture,1.91
+2721,25969,Discharge,Sinus Aspirate Culture,1.38
+2722,25970,Admission,Serum Haptoglobin,337.13
+2722,25971,Discharge,Serum Haptoglobin,392.23
+2723,25972,Admission,Synovial Fluid Crystal Analysis,1.36
+2723,25973,Discharge,Synovial Fluid Crystal Analysis,1.32
+2725,25974,Admission,Bone Biopsy Culture,1.87
+2725,25975,Discharge,Bone Biopsy Culture,1.16
+2728,25976,Admission,Anti-Scl-70 (Anti-Topoisomerase I),1.74
+2728,25977,Admission,Anti-Centromere Antibody,1.72
+2728,25978,Discharge,Anti-Scl-70 (Anti-Topoisomerase I),1.54
+2728,25979,Discharge,Anti-Centromere Antibody,1.43
+2730,25980,Admission,Erythrocyte Sedimentation Rate (ESR),22.76
+2730,25981,Admission,High-Sensitivity CRP,3.9
+2730,25982,Discharge,Erythrocyte Sedimentation Rate (ESR),18.21
+2730,25983,Discharge,High-Sensitivity CRP,3.07
+2731,25984,Admission,Fecal Calprotectin,66.59
+2731,25985,Admission,Fecal Lactoferrin,8.14
+2731,25986,Discharge,Fecal Calprotectin,51.84
+2731,25987,Discharge,Fecal Lactoferrin,4.94
+2732,25988,Admission,Erythrocyte Sedimentation Rate (ESR),24.17
+2732,25989,Admission,High-Sensitivity CRP,5.64
+2732,25990,Discharge,Erythrocyte Sedimentation Rate (ESR),19.98
+2732,25991,Discharge,High-Sensitivity CRP,4.04
+2733,25992,Admission,Procalcitonin,0.17
+2733,25993,Admission,High-Sensitivity CRP,4.74
+2733,25994,Admission,Sputum Culture,1.86
+2733,25995,Admission,Urinary Antigen Test (Pneumococcus/Legionella),1.47
+2733,25996,Discharge,Procalcitonin,0.11
+2733,25997,Discharge,High-Sensitivity CRP,3.69
+2733,25998,Discharge,Sputum Culture,1.41
+2733,25999,Discharge,Urinary Antigen Test (Pneumococcus/Legionella),0.92
+2735,26000,Admission,Flow Cytometry (Blast Population),1.19
+2735,26001,Discharge,Flow Cytometry (Blast Population),0.69
+2736,26002,Admission,H. pylori Stool Antigen,1.75
+2736,26003,Discharge,H. pylori Stool Antigen,1.16
+2739,26004,Admission,Serum CC16 (Clara Cell Protein),27.8
+2739,26005,Discharge,Serum CC16 (Clara Cell Protein),21.32
+2741,26006,Admission,CSF Beta-Amyloid (Aβ1-42),1450.32
+2741,26007,Admission,CSF Total Tau Protein,497.48
+2741,26008,Discharge,CSF Beta-Amyloid (Aβ1-42),1456.64
+2741,26009,Discharge,CSF Total Tau Protein,554.68
+2742,26010,Admission,Serum KL-6,690.6
+2742,26011,Discharge,Serum KL-6,585.05
+2745,26012,Admission,Erythrocyte Sedimentation Rate (ESR),33.42
+2745,26013,Admission,High-Sensitivity CRP,5.16
+2745,26014,Discharge,Erythrocyte Sedimentation Rate (ESR),40.05
+2745,26015,Discharge,High-Sensitivity CRP,5.25
+2747,26016,Admission,High-Sensitivity Troponin I,0.08
+2747,26017,Admission,D-Dimer,0.81
+2747,26018,Admission,Electrocardiogram (ECG),0.0
+2747,26019,Admission,Echocardiogram (ECHO),0.0
+2747,26020,Admission,Holter Monitoring (24-hour ECG),0.0
+2747,26021,Admission,Electrophysiological Study (EPS),0.0
+2747,26022,Discharge,High-Sensitivity Troponin I,0.05
+2747,26023,Discharge,D-Dimer,0.49
+2747,26024,Discharge,Electrocardiogram (ECG),0.0
+2747,26025,Discharge,Echocardiogram (ECHO),0.0
+2747,26026,Discharge,Holter Monitoring (24-hour ECG),0.0
+2747,26027,Discharge,Electrophysiological Study (EPS),0.0
+2750,26028,Admission,Anti-dsDNA Antibody,17.91
+2750,26029,Admission,Anti-Smith Antibody,1.57
+2750,26030,Admission,Complement C3/C4,38.88
+2750,26031,Discharge,Anti-dsDNA Antibody,17.49
+2750,26032,Discharge,Anti-Smith Antibody,1.26
+2750,26033,Discharge,Complement C3/C4,34.18
+2751,26034,Admission,Serum S100 Protein,0.25
+2751,26035,Discharge,Serum S100 Protein,0.22
+2752,26036,Admission,FMR1 CGG Repeat Analysis,67.25
+2752,26037,Discharge,FMR1 CGG Repeat Analysis,68.14
+2755,26038,Admission,Hemoglobin Electrophoresis,1.6
+2755,26039,Discharge,Hemoglobin Electrophoresis,1.61
+2756,26040,Admission,Measles IgM Antibody,1.72
+2756,26041,Discharge,Measles IgM Antibody,1.01
+2758,26042,Admission,Thyroid Stimulating Immunoglobulin (TSI),1.81
+2758,26043,Admission,TSH (Thyroid-Stimulating Hormone),5.38
+2758,26044,Admission,Free T3,6.87
+2758,26045,Admission,Free T4,2.54
+2758,26046,Admission,Radioactive Iodine Uptake (RAIU) Test,79.99
+2758,26047,Discharge,Thyroid Stimulating Immunoglobulin (TSI),1.4
+2758,26048,Discharge,TSH (Thyroid-Stimulating Hormone),5.12
+2758,26049,Discharge,Free T3,6.87
+2758,26050,Discharge,Free T4,2.54
+2758,26051,Discharge,Radioactive Iodine Uptake (RAIU) Test,79.99
+2759,26052,Admission,Plasma Oxytocin,34.48
+2759,26053,Discharge,Plasma Oxytocin,43.69
+2763,26054,Admission,Anti-Melanocyte Antibody,1.7
+2763,26055,Discharge,Anti-Melanocyte Antibody,1.22
+2764,26056,Admission,MECP2 Gene Analysis,1.31
+2764,26057,Discharge,MECP2 Gene Analysis,1.31
+2766,26058,Admission,Cortisol Awakening Response (Salivary),18.01
+2766,26059,Discharge,Cortisol Awakening Response (Salivary),21.35
+2767,26060,Admission,D-Dimer,0.66
+2767,26061,Discharge,D-Dimer,0.48
+2770,26062,Admission,SCC Antigen (SCCA),2.9
+2770,26063,Discharge,SCC Antigen (SCCA),2.2
+2771,26064,Admission,CSF Progranulin,28.64
+2771,26065,Discharge,CSF Progranulin,28.25
+2772,26066,Admission,Bone Biopsy Culture,1.3
+2772,26067,Discharge,Bone Biopsy Culture,0.81
+2774,26068,Admission,Rubella IgM Antibody,1.27
+2774,26069,Discharge,Rubella IgM Antibody,0.88
+2775,26070,Admission,SCC Antigen (SCCA),2.86
+2775,26071,Discharge,SCC Antigen (SCCA),2.31
+2776,26072,Admission,Urinary Dopamine,714.64
+2776,26073,Discharge,Urinary Dopamine,584.35
+2777,26074,Admission,Varicella IgM Antibody,1.69
+2777,26075,Discharge,Varicella IgM Antibody,1.21
+2778,26076,Admission,Serum KL-6,655.21
+2778,26077,Discharge,Serum KL-6,549.49
+2780,26078,Admission,Procalcitonin,0.15
+2780,26079,Discharge,Procalcitonin,0.08
+2781,26080,Admission,CSF Alpha-Synuclein,57.5
+2781,26081,Discharge,CSF Alpha-Synuclein,56.84
+2782,26082,Admission,Anti-Scl-70 (Anti-Topoisomerase I),1.29
+2782,26083,Admission,Anti-Centromere Antibody,1.54
+2782,26084,Discharge,Anti-Scl-70 (Anti-Topoisomerase I),1.06
+2782,26085,Discharge,Anti-Centromere Antibody,1.3
+2784,26086,Admission,Plasma Homovanillic Acid (HVA),6.57
+2784,26087,Discharge,Plasma Homovanillic Acid (HVA),6.0
+2786,26088,Admission,Erythrocyte Sedimentation Rate (ESR),27.72
+2786,26089,Discharge,Erythrocyte Sedimentation Rate (ESR),13.94
+2788,26090,Admission,Exhaled Nitric Oxide,22.54
+2788,26091,Admission,Total Serum IgE,150.54
+2788,26092,Discharge,Exhaled Nitric Oxide,14.18
+2788,26093,Discharge,Total Serum IgE,107.21
+2789,26094,Admission,Serum Galactomannan,0.88
+2789,26095,Discharge,Serum Galactomannan,0.65
+2790,26096,Admission,Serum Prolactin (Postictal),26.55
+2790,26097,Discharge,Serum Prolactin (Postictal),24.37
+2791,26098,Admission,Clue Cell Microscopy,1.56
+2791,26099,Discharge,Clue Cell Microscopy,1.12
+2792,26100,Admission,Rapid Urease Test (CLO),1.44
+2792,26101,Discharge,Rapid Urease Test (CLO),1.05
+2793,26102,Admission,FibroScan (Liver Stiffness),8.61
+2793,26103,Discharge,FibroScan (Liver Stiffness),8.48
+2794,26104,Admission,Fecal Calprotectin,63.46
+2794,26105,Admission,Fecal Lactoferrin,8.32
+2794,26106,Discharge,Fecal Calprotectin,38.01
+2794,26107,Discharge,Fecal Lactoferrin,6.48
+2795,26108,Admission,LH:FSH Ratio,1.98
+2795,26109,Admission,Serum Total Testosterone,98.23
+2795,26110,Admission,Serum DHEA-S,589.93
+2795,26111,Discharge,LH:FSH Ratio,2.01
+2795,26112,Discharge,Serum Total Testosterone,87.05
+2795,26113,Discharge,Serum DHEA-S,432.88
+2796,26114,Admission,Dengue NS1 Antigen,1.94
+2796,26115,Admission,Dengue IgM Antibody,1.72
+2796,26116,Discharge,Dengue NS1 Antigen,1.53
+2796,26117,Discharge,Dengue IgM Antibody,1.21
+2798,26118,Admission,HLA-B51,1.28
+2798,26119,Discharge,HLA-B51,1.28
+2799,26120,Admission,Anti-tTG IgA,12.77
+2799,26121,Admission,Endomysial Antibody (EMA),1.74
+2799,26122,Admission,Deamidated Gliadin Peptide (DGP) IgA,17.13
+2799,26123,Discharge,Anti-tTG IgA,9.5
+2799,26124,Discharge,Endomysial Antibody (EMA),1.15
+2799,26125,Discharge,Deamidated Gliadin Peptide (DGP) IgA,10.48
+2800,26126,Admission,Parathyroid Hormone (PTH),119.58
+2800,26127,Discharge,Parathyroid Hormone (PTH),88.17
+2803,26128,Admission,Anti-Platelet Antibody,2.46
+2803,26129,Discharge,Anti-Platelet Antibody,1.8
+2805,26130,Admission,Lyme IgM/IgG Western Blot,1.17
+2805,26131,Admission,Borrelia burgdorferi PCR,1.9
+2805,26132,Discharge,Lyme IgM/IgG Western Blot,1.36
+2805,26133,Discharge,Borrelia burgdorferi PCR,1.88
+2806,26134,Admission,Skin Scraping Microscopy,1.55
+2806,26135,Discharge,Skin Scraping Microscopy,1.19
+2807,26136,Admission,Serum ACE (Angiotensin Converting Enzyme),96.45
+2807,26137,Discharge,Serum ACE (Angiotensin Converting Enzyme),71.82
+2808,26138,Admission,Serum IL-17,5.87
+2808,26139,Discharge,Serum IL-17,4.41
+2810,26140,Admission,KOH Prep (Candida),1.81
+2810,26141,Discharge,KOH Prep (Candida),1.34
+2811,26142,Admission,D-Dimer,0.83
+2811,26143,Discharge,D-Dimer,0.62
+2814,26144,Admission,LH:FSH Ratio,2.05
+2814,26145,Admission,Serum Total Testosterone,84.4
+2814,26146,Admission,Serum DHEA-S,687.68
+2814,26147,Discharge,LH:FSH Ratio,1.97
+2814,26148,Discharge,Serum Total Testosterone,74.86
+2814,26149,Discharge,Serum DHEA-S,586.77
+2815,26150,Admission,Stool Culture (Vibrio cholerae),1.1
+2815,26151,Discharge,Stool Culture (Vibrio cholerae),0.53
+2817,26152,Admission,Serum S100 Protein,0.35
+2817,26153,Discharge,Serum S100 Protein,0.26
+2818,26154,Admission,Endocervical Swab Culture,1.87
+2818,26155,Discharge,Endocervical Swab Culture,1.01
+2819,26156,Admission,Carcinoembryonic Antigen (CEA),3.56
+2819,26157,Admission,Stool DNA Test (Cologuard),1.97
+2819,26158,Discharge,Carcinoembryonic Antigen (CEA),2.53
+2819,26159,Discharge,Stool DNA Test (Cologuard),1.97
+2820,26160,Admission,Serum Neurofilament Light Chain (NFL),84.2
+2820,26161,Discharge,Serum Neurofilament Light Chain (NFL),73.89
+2821,26162,Admission,Factor VIII Activity,195.38
+2821,26163,Discharge,Factor VIII Activity,185.7
+2822,26164,Admission,Allergen-Specific IgE (Nasal),5.95
+2822,26165,Discharge,Allergen-Specific IgE (Nasal),4.76
+2823,26166,Admission,Periodontal Bacteria Culture,1.95
+2823,26167,Discharge,Periodontal Bacteria Culture,1.38
+2825,26168,Admission,Serum CC16 (Clara Cell Protein),26.15
+2825,26169,Discharge,Serum CC16 (Clara Cell Protein),19.71
+2826,26170,Admission,ASO Titer,330.55
+2826,26171,Discharge,ASO Titer,180.36
+2827,26172,Admission,Interferon Gamma Release Assay (IGRA),1.62
+2827,26173,Admission,Sputum AFB (Acid-Fast Bacilli) Stain,2.18
+2827,26174,Discharge,Interferon Gamma Release Assay (IGRA),1.65
+2827,26175,Discharge,Sputum AFB (Acid-Fast Bacilli) Stain,2.16
+2828,26176,Admission,Leptin Level,22.29
+2828,26177,Discharge,Leptin Level,17.7
+2829,26178,Admission,Varicella-Zoster Virus PCR,1.4
+2829,26179,Discharge,Varicella-Zoster Virus PCR,0.77
+2830,26180,Admission,B-type Natriuretic Peptide (BNP),194.22
+2830,26181,Admission,High-Sensitivity Troponin T,0.06
+2830,26182,Admission,Serum Ferritin,181.04
+2830,26183,Admission,Electrocardiogram (ECG),0.0
+2830,26184,Admission,Echocardiogram (ECHO),0.0
+2830,26185,Admission,NT-proBNP,519.45
+2830,26186,Discharge,B-type Natriuretic Peptide (BNP),123.0
+2830,26187,Discharge,High-Sensitivity Troponin T,0.04
+2830,26188,Discharge,Serum Ferritin,127.69
+2830,26189,Discharge,Electrocardiogram (ECG),0.0
+2830,26190,Discharge,Echocardiogram (ECHO),0.0
+2830,26191,Discharge,NT-proBNP,346.93
+2831,26192,Admission,Fecal Calprotectin,72.81
+2831,26193,Admission,Fecal Lactoferrin,11.66
+2831,26194,Discharge,Fecal Calprotectin,76.22
+2831,26195,Discharge,Fecal Lactoferrin,8.89
+2832,26196,Admission,Anti-Phospholipid Antibodies,16.88
+2832,26197,Discharge,Anti-Phospholipid Antibodies,13.49
+2834,26198,Admission,Procalcitonin,0.14
+2834,26199,Admission,Blood Culture,1.85
+2834,26200,Discharge,Procalcitonin,0.1
+2834,26201,Discharge,Blood Culture,0.94
+2836,26202,Admission,Rubella IgM Antibody,1.02
+2836,26203,Discharge,Rubella IgM Antibody,0.58
+2837,26204,Admission,Procalcitonin,0.1
+2837,26205,Admission,Blood Culture,1.53
+2837,26206,Discharge,Procalcitonin,0.05
+2837,26207,Discharge,Blood Culture,0.96
+2838,26208,Admission,Varicella-Zoster Virus PCR,1.73
+2838,26209,Discharge,Varicella-Zoster Virus PCR,0.97
+2840,26210,Admission,Reticulocyte Count,2.56
+2840,26211,Discharge,Reticulocyte Count,2.55
+2841,26212,Admission,COL5A1 Genetic Test,1.49
+2841,26213,Discharge,COL5A1 Genetic Test,1.49
+2842,26214,Admission,Serum CC16 (Clara Cell Protein),38.12
+2842,26215,Discharge,Serum CC16 (Clara Cell Protein),26.94
+2843,26216,Admission,Exhaled Nitric Oxide,38.48
+2843,26217,Admission,Total Serum IgE,161.62
+2843,26218,Discharge,Exhaled Nitric Oxide,39.32
+2843,26219,Discharge,Total Serum IgE,98.74
+2844,26220,Admission,Serum Ceruloplasmin,75.46
+2844,26221,Admission,24-Hour Urinary Copper,61.76
+2844,26222,Discharge,Serum Ceruloplasmin,62.3
+2844,26223,Discharge,24-Hour Urinary Copper,39.32
+2845,26224,Admission,Genetic Test (PKD1/PKD2),1.4
+2845,26225,Discharge,Genetic Test (PKD1/PKD2),1.4
+2847,26226,Admission,High-Sensitivity CRP,4.18
+2847,26227,Admission,Plasma Renin Activity,2.72
+2847,26228,Admission,Electrocardiogram (ECG),0.0
+2847,26229,Admission,Echocardiogram (ECHO),0.0
+2847,26230,Admission,Plasma Aldosterone Concentration,29.81
+2847,26231,Admission,24-Hour Ambulatory Blood Pressure Monitoring,0.0
+2847,26232,Discharge,High-Sensitivity CRP,2.82
+2847,26233,Discharge,Plasma Renin Activity,1.95
+2847,26234,Discharge,Electrocardiogram (ECG),0.0
+2847,26235,Discharge,Echocardiogram (ECHO),0.0
+2847,26236,Discharge,Plasma Aldosterone Concentration,33.82
+2847,26237,Discharge,24-Hour Ambulatory Blood Pressure Monitoring,0.0
+2848,26238,Admission,Stool Ova & Parasites (Giardia),1.85
+2848,26239,Discharge,Stool Ova & Parasites (Giardia),1.05
+2850,26240,Admission,Erythrocyte Sedimentation Rate (ESR),37.57
+2850,26241,Admission,High-Sensitivity CRP,4.71
+2850,26242,Discharge,Erythrocyte Sedimentation Rate (ESR),26.81
+2850,26243,Discharge,High-Sensitivity CRP,3.81
+2851,26244,Admission,Bone Marrow Cytogenetics,0.0
+2851,26245,Discharge,Bone Marrow Cytogenetics,0.0
+2852,26246,Admission,Rheumatoid Factor (RF),21.56
+2852,26247,Admission,Anti-CCP Antibody,34.94
+2852,26248,Discharge,Rheumatoid Factor (RF),13.11
+2852,26249,Discharge,Anti-CCP Antibody,29.21
+2853,26250,Admission,Anti-dsDNA Antibody,25.44
+2853,26251,Admission,Anti-Smith Antibody,1.81
+2853,26252,Admission,Complement C3/C4,30.98
+2853,26253,Discharge,Anti-dsDNA Antibody,18.33
+2853,26254,Discharge,Anti-Smith Antibody,1.47
+2853,26255,Discharge,Complement C3/C4,27.85
+2854,26256,Admission,CSF Total Protein,55.5
+2854,26257,Admission,Anti-Ganglioside GM1 Antibody,1.56
+2854,26258,Discharge,CSF Total Protein,49.54
+2854,26259,Discharge,Anti-Ganglioside GM1 Antibody,1.25
+2855,26260,Admission,Anti-GAD Antibodies,12.93
+2855,26261,Admission,Insulin Autoantibodies (IAA),14.91
+2855,26262,Admission,C-Peptide,2.52
+2855,26263,Discharge,Anti-GAD Antibodies,10.69
+2855,26264,Discharge,Insulin Autoantibodies (IAA),18.35
+2855,26265,Discharge,C-Peptide,2.42
+2857,26266,Admission,Serum Total Testosterone,1317.11
+2857,26267,Discharge,Serum Total Testosterone,1175.84
+2860,26268,Admission,Serum CGRP (Calcitonin Gene-Related Peptide),98.81
+2860,26269,Admission,Serum Magnesium,3.32
+2860,26270,Discharge,Serum CGRP (Calcitonin Gene-Related Peptide),70.14
+2860,26271,Discharge,Serum Magnesium,2.8
+2861,26272,Admission,Anti-GAD Antibodies,13.19
+2861,26273,Admission,Insulin Autoantibodies (IAA),17.51
+2861,26274,Admission,C-Peptide,3.15
+2861,26275,Discharge,Anti-GAD Antibodies,9.39
+2861,26276,Discharge,Insulin Autoantibodies (IAA),14.74
+2861,26277,Discharge,C-Peptide,3.15
+2862,26278,Admission,Procalcitonin,0.09
+2862,26279,Admission,Blood Culture,1.87
+2862,26280,Discharge,Procalcitonin,0.06
+2862,26281,Discharge,Blood Culture,1.25
+2863,26282,Admission,Anti-dsDNA Antibody,13.47
+2863,26283,Admission,Anti-Smith Antibody,1.79
+2863,26284,Admission,Complement C3/C4,36.65
+2863,26285,Discharge,Anti-dsDNA Antibody,15.91
+2863,26286,Discharge,Anti-Smith Antibody,1.11
+2863,26287,Discharge,Complement C3/C4,26.7
+2864,26288,Admission,Serum Neurofilament Light Chain (NFL),84.21
+2864,26289,Discharge,Serum Neurofilament Light Chain (NFL),68.96
+2866,26290,Admission,HPRT Enzyme Activity,176.64
+2866,26291,Discharge,HPRT Enzyme Activity,176.64
+2868,26292,Admission,Throat Swab Culture,1.43
+2868,26293,Discharge,Throat Swab Culture,0.76
+2869,26294,Admission,Late-Night Salivary Cortisol,6.09
+2869,26295,Discharge,Late-Night Salivary Cortisol,5.43
+2870,26296,Admission,p-ANCA,19.0
+2870,26297,Admission,Fecal Calprotectin,54.12
+2870,26298,Discharge,p-ANCA,18.74
+2870,26299,Discharge,Fecal Calprotectin,39.17
+2873,26300,Admission,Total Serum IgE,180.88
+2873,26301,Discharge,Total Serum IgE,186.72
+2874,26302,Admission,Serum IL-17,8.85
+2874,26303,Discharge,Serum IL-17,7.6
+2878,26304,Admission,Serum Total Testosterone,984.58
+2878,26305,Discharge,Serum Total Testosterone,723.83
+2879,26306,Admission,Dental Abscess Culture,1.51
+2879,26307,Discharge,Dental Abscess Culture,0.88
+2880,26308,Admission,Carbohydrate-Deficient Transferrin (CDT),2.9
+2880,26309,Discharge,Carbohydrate-Deficient Transferrin (CDT),2.36
+2881,26310,Admission,"Lymphocyte Subset Panel (CD3,CD4,CD8)",2324.35
+2881,26311,Discharge,"Lymphocyte Subset Panel (CD3,CD4,CD8)",2781.92
+2882,26312,Admission,Serum Total Testosterone,1467.51
+2882,26313,Discharge,Serum Total Testosterone,1699.15
+2888,26314,Admission,HSV PCR (Lesion Swab),1.94
+2888,26315,Discharge,HSV PCR (Lesion Swab),2.24
+2890,26316,Admission,Mumps IgM Antibody,1.31
+2890,26317,Discharge,Mumps IgM Antibody,0.92
+2891,26318,Admission,FibroScan (Liver Stiffness),11.47
+2891,26319,Discharge,FibroScan (Liver Stiffness),11.04
+2893,26320,Admission,Laryngeal Swab Culture,1.89
+2893,26321,Discharge,Laryngeal Swab Culture,1.94
+2894,26322,Admission,IgM anti-HAV,1.89
+2894,26323,Discharge,IgM anti-HAV,1.51
+2898,26324,Admission,PSA (Prostate-Specific Antigen),4.95
+2898,26325,Discharge,PSA (Prostate-Specific Antigen),3.54
+2901,26326,Admission,Anti-GAD Antibodies,17.6
+2901,26327,Admission,Insulin Autoantibodies (IAA),16.64
+2901,26328,Admission,C-Peptide,3.92
+2901,26329,Discharge,Anti-GAD Antibodies,13.35
+2901,26330,Discharge,Insulin Autoantibodies (IAA),14.58
+2901,26331,Discharge,C-Peptide,3.92
+2902,26332,Admission,Parathyroid Hormone (PTH),123.06
+2902,26333,Discharge,Parathyroid Hormone (PTH),103.26
+2904,26334,Admission,CSF Beta-Amyloid (Aβ1-42),1694.14
+2904,26335,Admission,CSF Total Tau Protein,510.06
+2904,26336,Discharge,CSF Beta-Amyloid (Aβ1-42),1552.31
+2904,26337,Discharge,CSF Total Tau Protein,499.59
+2905,26338,Admission,High-Sensitivity CRP,5.77
+2905,26339,Admission,Plasma Renin Activity,3.33
+2905,26340,Admission,Electrocardiogram (ECG),0.0
+2905,26341,Admission,Echocardiogram (ECHO),0.0
+2905,26342,Admission,Plasma Aldosterone Concentration,27.36
+2905,26343,Admission,24-Hour Ambulatory Blood Pressure Monitoring,0.0
+2905,26344,Discharge,High-Sensitivity CRP,3.27
+2905,26345,Discharge,Plasma Renin Activity,1.87
+2905,26346,Discharge,Electrocardiogram (ECG),0.0
+2905,26347,Discharge,Echocardiogram (ECHO),0.0
+2905,26348,Discharge,Plasma Aldosterone Concentration,28.5
+2905,26349,Discharge,24-Hour Ambulatory Blood Pressure Monitoring,0.0
+2906,26350,Admission,HLA-B51,1.97
+2906,26351,Discharge,HLA-B51,1.97
+2910,26352,Admission,Serum S100 Protein,0.3
+2910,26353,Discharge,Serum S100 Protein,0.21
+2911,26354,Admission,Bone ALP Isoenzyme,27.82
+2911,26355,Discharge,Bone ALP Isoenzyme,21.56
+2913,26356,Admission,"Lymphocyte Subset Panel (CD3,CD4,CD8)",3592.96
+2913,26357,Discharge,"Lymphocyte Subset Panel (CD3,CD4,CD8)",4570.76
+2914,26358,Admission,Exhaled Nitric Oxide,32.05
+2914,26359,Admission,Total Serum IgE,166.98
+2914,26360,Discharge,Exhaled Nitric Oxide,24.56
+2914,26361,Discharge,Total Serum IgE,121.84
+2915,26362,Admission,Periodontal Bacteria Culture,1.63
+2915,26363,Discharge,Periodontal Bacteria Culture,1.57
+2918,26364,Admission,Stool Culture (Vibrio cholerae),1.55
+2918,26365,Discharge,Stool Culture (Vibrio cholerae),0.68
+2923,26366,Admission,HTT Gene CAG Repeat Test,41.4
+2923,26367,Discharge,HTT Gene CAG Repeat Test,41.4
+2925,26368,Admission,Stool Culture (Vibrio cholerae),1.96
+2925,26369,Discharge,Stool Culture (Vibrio cholerae),0.81
+2927,26370,Admission,IgM anti-HAV,1.35
+2927,26371,Discharge,IgM anti-HAV,1.4
+2929,26372,Admission,Hepatitis Panel,1.77
+2929,26373,Discharge,Hepatitis Panel,1.74
+2930,26374,Admission,Alpha-1 Antitrypsin Level,260.0
+2930,26375,Discharge,Alpha-1 Antitrypsin Level,187.86
+2931,26376,Admission,Plasma Homovanillic Acid (HVA),8.06
+2931,26377,Discharge,Plasma Homovanillic Acid (HVA),7.41
+2933,26378,Admission,Bone Marrow Cytogenetics,0.0
+2933,26379,Discharge,Bone Marrow Cytogenetics,0.0
+2934,26380,Admission,Hepatitis B Surface Antigen (HBsAg),1.81
+2934,26381,Admission,HBV DNA,25464.53
+2934,26382,Discharge,Hepatitis B Surface Antigen (HBsAg),1.16
+2934,26383,Discharge,HBV DNA,24696.78
+2935,26384,Admission,Anti-Streptolysin O (ASO) Titer,296.06
+2935,26385,Discharge,Anti-Streptolysin O (ASO) Titer,153.24
+2937,26386,Admission,C. diphtheriae Culture (Throat Swab),2.12
+2937,26387,Discharge,C. diphtheriae Culture (Throat Swab),1.16
+2938,26388,Admission,Periodontal Bacteria Culture,1.43
+2938,26389,Discharge,Periodontal Bacteria Culture,0.84
+2940,26390,Admission,Exhaled Nitric Oxide,28.05
+2940,26391,Admission,Total Serum IgE,128.17
+2940,26392,Discharge,Exhaled Nitric Oxide,19.37
+2940,26393,Discharge,Total Serum IgE,107.14
+2941,26394,Admission,NF1/NF2 Gene Mutation Test,1.48
+2941,26395,Discharge,NF1/NF2 Gene Mutation Test,1.48
+2942,26396,Admission,Fecal Calprotectin,64.95
+2942,26397,Admission,Anti-Saccharomyces cerevisiae Antibodies (ASCA),19.13
+2942,26398,Discharge,Fecal Calprotectin,83.14
+2942,26399,Discharge,Anti-Saccharomyces cerevisiae Antibodies (ASCA),12.29
+2943,26400,Admission,High-Sensitivity CRP,3.92
+2943,26401,Discharge,High-Sensitivity CRP,3.35
+2945,26402,Admission,SMN1 Gene Deletion Test,1.78
+2945,26403,Discharge,SMN1 Gene Deletion Test,1.78
+2947,26404,Admission,BCR-ABL1 PCR,1.37
+2947,26405,Discharge,BCR-ABL1 PCR,0.95
+2948,26406,Admission,Stool Ova & Parasites (Giardia),1.59
+2948,26407,Discharge,Stool Ova & Parasites (Giardia),1.52
+2949,26408,Admission,Leptin Level,26.32
+2949,26409,Discharge,Leptin Level,27.21
+2953,26410,Admission,Plasma Homovanillic Acid (HVA),6.46
+2953,26411,Discharge,Plasma Homovanillic Acid (HVA),5.95
+2954,26412,Admission,CYFRA 21-1,4.9
+2954,26413,Discharge,CYFRA 21-1,3.76
+2956,26414,Admission,Flow Cytometry (CD19+/CD5+ Lymphocytes),2.87
+2956,26415,Discharge,Flow Cytometry (CD19+/CD5+ Lymphocytes),2.17
+2957,26416,Admission,Anti-Acetylcholine Receptor Antibody,0.76
+2957,26417,Admission,Anti-MuSK Antibody,1.25
+2957,26418,Discharge,Anti-Acetylcholine Receptor Antibody,0.57
+2957,26419,Discharge,Anti-MuSK Antibody,0.93
+2958,26420,Admission,Lyme IgG Western Blot,1.23
+2958,26421,Discharge,Lyme IgG Western Blot,0.81
+2960,26422,Admission,Laryngeal Swab Culture,1.16
+2960,26423,Discharge,Laryngeal Swab Culture,0.72
+2962,26424,Admission,Ear Discharge Culture,1.31
+2962,26425,Discharge,Ear Discharge Culture,0.67
+2963,26426,Admission,Throat Swab Rapid Strep Test,1.65
+2963,26427,Discharge,Throat Swab Rapid Strep Test,1.58
+2964,26428,Admission,Conjunctival Swab Culture,1.01
+2964,26429,Discharge,Conjunctival Swab Culture,0.42
+2968,26430,Admission,Serum Ferritin,318.77
+2968,26431,Admission,Total Iron Binding Capacity (TIBC),685.78
+2968,26432,Discharge,Serum Ferritin,408.49
+2968,26433,Discharge,Total Iron Binding Capacity (TIBC),571.44
+2969,26434,Admission,Subgingival Plaque Culture,1.62
+2969,26435,Discharge,Subgingival Plaque Culture,1.14
+2970,26436,Admission,Parathyroid Hormone (PTH),122.57
+2970,26437,Discharge,Parathyroid Hormone (PTH),92.57
+2972,26438,Admission,Anti-GAD Antibodies,14.74
+2972,26439,Admission,Insulin Autoantibodies (IAA),15.52
+2972,26440,Admission,C-Peptide,3.48
+2972,26441,Discharge,Anti-GAD Antibodies,18.58
+2972,26442,Discharge,Insulin Autoantibodies (IAA),17.69
+2972,26443,Discharge,C-Peptide,3.48
+2973,26444,Admission,Anti-Phospholipid Antibodies,13.99
+2973,26445,Discharge,Anti-Phospholipid Antibodies,10.07
+2975,26446,Admission,Anti-Acetylcholine Receptor Antibody,0.77
+2975,26447,Admission,Anti-MuSK Antibody,1.13
+2975,26448,Discharge,Anti-Acetylcholine Receptor Antibody,0.52
+2975,26449,Discharge,Anti-MuSK Antibody,0.73
+2976,26450,Admission,Thyroid Stimulating Immunoglobulin (TSI),2.24
+2976,26451,Admission,TSH (Thyroid-Stimulating Hormone),7.75
+2976,26452,Admission,Free T3,6.41
+2976,26453,Admission,Free T4,2.63
+2976,26454,Admission,Radioactive Iodine Uptake (RAIU) Test,74.33
+2976,26455,Discharge,Thyroid Stimulating Immunoglobulin (TSI),1.51
+2976,26456,Discharge,TSH (Thyroid-Stimulating Hormone),7.75
+2976,26457,Discharge,Free T3,6.41
+2976,26458,Discharge,Free T4,2.63
+2976,26459,Discharge,Radioactive Iodine Uptake (RAIU) Test,74.33
+2978,26460,Admission,Rubella IgM Antibody,1.54
+2978,26461,Discharge,Rubella IgM Antibody,1.05
+2980,26462,Admission,D-Dimer,0.96
+2980,26463,Discharge,D-Dimer,0.67
+2982,26464,Admission,Circulating Tumor DNA (ctDNA),6.36
+2982,26465,Discharge,Circulating Tumor DNA (ctDNA),4.97
+2983,26466,Admission,D-Dimer,0.78
+2983,26467,Discharge,D-Dimer,0.52
+2984,26468,Admission,LH:FSH Ratio,2.52
+2984,26469,Admission,Serum Total Testosterone,105.42
+2984,26470,Admission,Serum DHEA-S,595.06
+2984,26471,Discharge,LH:FSH Ratio,2.09
+2984,26472,Discharge,Serum Total Testosterone,88.0
+2984,26473,Discharge,Serum DHEA-S,616.71
+2985,26474,Admission,Fecal Elastase,801.3
+2985,26475,Discharge,Fecal Elastase,995.54
+2987,26476,Admission,Anti-SSA (Anti-Ro),1.46
+2987,26477,Admission,Anti-SSB (Anti-La),1.85
+2987,26478,Discharge,Anti-SSA (Anti-Ro),1.68
+2987,26479,Discharge,Anti-SSB (Anti-La),1.86
+2988,26480,Admission,24-Hour Urine Protein,0.24
+2988,26481,Admission,Erythrocyte Sedimentation Rate (ESR),36.06
+2988,26482,Discharge,24-Hour Urine Protein,0.25
+2988,26483,Discharge,Erythrocyte Sedimentation Rate (ESR),36.87
+2991,26484,Admission,Bone ALP Isoenzyme,35.07
+2991,26485,Discharge,Bone ALP Isoenzyme,29.25
+2992,26486,Admission,FibroScan (Liver Stiffness),7.69
+2992,26487,Discharge,FibroScan (Liver Stiffness),5.51
+2994,26488,Admission,Carcinoembryonic Antigen (CEA),3.33
+2994,26489,Admission,Stool DNA Test (Cologuard),1.54
+2994,26490,Discharge,Carcinoembryonic Antigen (CEA),2.67
+2994,26491,Discharge,Stool DNA Test (Cologuard),1.54
+2996,26492,Admission,TYR Gene Mutation (OCA Type I),1.16
+2996,26493,Discharge,TYR Gene Mutation (OCA Type I),1.16
+2997,26494,Admission,H. pylori Stool Antigen,1.52
+2997,26495,Discharge,H. pylori Stool Antigen,0.99
+2998,26496,Admission,24-Hour Urine Protein,0.75
+2998,26497,Admission,Erythrocyte Sedimentation Rate (ESR),30.82
+2998,26498,Discharge,24-Hour Urine Protein,0.57
+2998,26499,Discharge,Erythrocyte Sedimentation Rate (ESR),21.65
+3002,26500,Admission,Parathyroid Hormone (PTH),119.31
+3002,26501,Discharge,Parathyroid Hormone (PTH),91.14
+3003,26502,Admission,Stool Ova & Parasites (Giardia),1.55
+3003,26503,Discharge,Stool Ova & Parasites (Giardia),1.52
+3005,26504,Admission,Serum Total Testosterone,1427.87
+3005,26505,Discharge,Serum Total Testosterone,1069.03
+3007,26506,Admission,Anti-Phospholipid Antibodies,17.3
+3007,26507,Discharge,Anti-Phospholipid Antibodies,14.69
+3009,26508,Admission,Cosyntropin (ACTH) Stimulation Test,22.18
+3009,26509,Admission,Plasma ACTH Level,89.13
+3009,26510,Discharge,Cosyntropin (ACTH) Stimulation Test,19.5
+3009,26511,Discharge,Plasma ACTH Level,89.13
+3010,26512,Admission,Exhaled Nitric Oxide,24.61
+3010,26513,Admission,Total Serum IgE,111.68
+3010,26514,Discharge,Exhaled Nitric Oxide,16.09
+3010,26515,Discharge,Total Serum IgE,85.07
+3011,26516,Admission,Anti-Melanocyte Antibody,1.94
+3011,26517,Discharge,Anti-Melanocyte Antibody,1.65
+3012,26518,Admission,Serum Creatine Kinase (CK),230.46
+3012,26519,Admission,Serum Aldolase,9.36
+3012,26520,Discharge,Serum Creatine Kinase (CK),198.0
+3012,26521,Discharge,Serum Aldolase,7.5
+3013,26522,Admission,Serum Prolactin (Postictal),22.33
+3013,26523,Discharge,Serum Prolactin (Postictal),18.21
+3014,26524,Admission,Bone Biopsy Culture,2.29
+3014,26525,Discharge,Bone Biopsy Culture,1.3
+3015,26526,Admission,C. diphtheriae Culture (Throat Swab),1.73
+3015,26527,Discharge,C. diphtheriae Culture (Throat Swab),1.74
+3016,26528,Admission,Bacterial Culture (Lesion Swab),1.94
+3016,26529,Discharge,Bacterial Culture (Lesion Swab),1.87
+3017,26530,Admission,Parvovirus B19 IgM,1.74
+3017,26531,Discharge,Parvovirus B19 IgM,1.03
+3018,26532,Admission,Bone ALP Isoenzyme,27.71
+3018,26533,Discharge,Bone ALP Isoenzyme,20.45
+3020,26534,Admission,Circulating Tumor DNA (ctDNA),8.64
+3020,26535,Discharge,Circulating Tumor DNA (ctDNA),6.18
+3021,26536,Admission,ASO Titer,378.17
+3021,26537,Discharge,ASO Titer,211.7
+3023,26538,Admission,Circulating Tumor DNA (ctDNA),7.95
+3023,26539,Discharge,Circulating Tumor DNA (ctDNA),6.78
+3024,26540,Admission,IgM anti-HAV,1.2
+3024,26541,Discharge,IgM anti-HAV,0.86
+3027,26542,Admission,CA 15-3,33.06
+3027,26543,Discharge,CA 15-3,27.79
+3030,26544,Admission,Anti-Intrinsic Factor Antibody,1.78
+3030,26545,Admission,Anti-Parietal Cell Antibody,1.94
+3030,26546,Discharge,Anti-Intrinsic Factor Antibody,1.58
+3030,26547,Discharge,Anti-Parietal Cell Antibody,1.96
+3031,26548,Admission,CSF Oligoclonal Bands,1.26
+3031,26549,Discharge,CSF Oligoclonal Bands,1.11
+3033,26550,Admission,Subgingival Plaque Culture,1.72
+3033,26551,Discharge,Subgingival Plaque Culture,1.22
+3036,26552,Admission,Genetic Panel (CHD-related),1.23
+3036,26553,Discharge,Genetic Panel (CHD-related),1.25
+3037,26554,Admission,COL5A1 Genetic Test,1.2
+3037,26555,Discharge,COL5A1 Genetic Test,1.2
+3039,26556,Admission,LH:FSH Ratio,2.05
+3039,26557,Admission,Serum Total Testosterone,131.58
+3039,26558,Admission,Serum DHEA-S,610.64
+3039,26559,Discharge,LH:FSH Ratio,1.81
+3039,26560,Discharge,Serum Total Testosterone,105.77
+3039,26561,Discharge,Serum DHEA-S,490.11
+3042,26562,Admission,D-Dimer,0.62
+3042,26563,Admission,Fibrinogen Level,709.78
+3042,26564,Discharge,D-Dimer,0.41
+3042,26565,Discharge,Fibrinogen Level,946.36
+3043,26566,Admission,FBN1 Gene Mutation Test,1.38
+3043,26567,Discharge,FBN1 Gene Mutation Test,1.35
+3046,26568,Admission,Hemoglobin Electrophoresis,1.46
+3046,26569,Discharge,Hemoglobin Electrophoresis,1.7
+3048,26570,Admission,Plasma Epinephrine,145.84
+3048,26571,Discharge,Plasma Epinephrine,123.76
+3051,26572,Admission,SCC Antigen (SCCA),1.97
+3051,26573,Discharge,SCC Antigen (SCCA),1.74
+3052,26574,Admission,Serum C-Terminal Telopeptide (CTX),1.0
+3052,26575,Discharge,Serum C-Terminal Telopeptide (CTX),0.66
+3054,26576,Admission,Genetic Panel (CHD-related),1.19
+3054,26577,Discharge,Genetic Panel (CHD-related),1.19
+3056,26578,Admission,Flow Cytometry (Lymphoblasts),1.7
+3056,26579,Discharge,Flow Cytometry (Lymphoblasts),1.69
+3057,26580,Admission,Skin Scraping Microscopy,1.17
+3057,26581,Discharge,Skin Scraping Microscopy,0.48
+3060,26582,Admission,Anti-Platelet Antibody,1.92
+3060,26583,Discharge,Anti-Platelet Antibody,1.27
+3061,26584,Admission,Prothrombin Time (PT/INR),1.4
+3061,26585,Discharge,Prothrombin Time (PT/INR),1.1
+3063,26586,Admission,COL5A1 Genetic Test,1.36
+3063,26587,Discharge,COL5A1 Genetic Test,1.3
+3064,26588,Admission,Erythrocyte Sedimentation Rate (ESR),35.88
+3064,26589,Discharge,Erythrocyte Sedimentation Rate (ESR),43.98
+3065,26590,Admission,FBN1 Gene Mutation Test,1.68
+3065,26591,Discharge,FBN1 Gene Mutation Test,1.68
+3066,26592,Admission,Anti-Streptolysin O (ASO) Titer,306.9
+3066,26593,Admission,Erythrocyte Sedimentation Rate (ESR),31.29
+3066,26594,Admission,High-Sensitivity CRP,4.75
+3066,26595,Admission,Electrocardiogram (ECG),0.0
+3066,26596,Admission,Echocardiogram (ECHO),0.0
+3066,26597,Admission,Anti-DNase B Titer,383.68
+3066,26598,Discharge,Anti-Streptolysin O (ASO) Titer,173.1
+3066,26599,Discharge,Erythrocyte Sedimentation Rate (ESR),17.84
+3066,26600,Discharge,High-Sensitivity CRP,3.69
+3066,26601,Discharge,Electrocardiogram (ECG),0.0
+3066,26602,Discharge,Echocardiogram (ECHO),0.0
+3066,26603,Discharge,Anti-DNase B Titer,226.22
+3068,26604,Admission,KOH Prep (Candida),1.39
+3068,26605,Discharge,KOH Prep (Candida),1.45
+3069,26606,Admission,D-Dimer,1.0
+3069,26607,Admission,Fibrinogen Level,457.25
+3069,26608,Discharge,D-Dimer,1.01
+3069,26609,Discharge,Fibrinogen Level,582.13
+3071,26610,Admission,Carbonic Anhydrase IX,2.91
+3071,26611,Discharge,Carbonic Anhydrase IX,2.58
+3073,26612,Admission,Subgingival Plaque Culture,1.98
+3073,26613,Discharge,Subgingival Plaque Culture,1.53
+3074,26614,Admission,Flow Cytometry (Myeloblasts),1.48
+3074,26615,Discharge,Flow Cytometry (Myeloblasts),0.97
+3076,26616,Admission,Carbonic Anhydrase IX,2.21
+3076,26617,Discharge,Carbonic Anhydrase IX,1.94
+3077,26618,Admission,Measles IgM Antibody,1.21
+3077,26619,Discharge,Measles IgM Antibody,0.63
+3079,26620,Admission,Total Serum IgE,120.09
+3079,26621,Discharge,Total Serum IgE,81.03
+3080,26622,Admission,Subgingival Plaque Culture,1.93
+3080,26623,Discharge,Subgingival Plaque Culture,1.17
+3081,26624,Admission,Serum S100 Protein,0.31
+3081,26625,Discharge,Serum S100 Protein,0.25
+3082,26626,Admission,Erythrocyte Sedimentation Rate (ESR),36.55
+3082,26627,Discharge,Erythrocyte Sedimentation Rate (ESR),37.52
+3083,26628,Admission,KOH Prep (Candida),1.27
+3083,26629,Discharge,KOH Prep (Candida),0.78
+3084,26630,Admission,Serum Galactomannan,0.86
+3084,26631,Discharge,Serum Galactomannan,0.58
+3086,26632,Admission,Genetic Panel (CHD-related),1.68
+3086,26633,Discharge,Genetic Panel (CHD-related),1.68
+3087,26634,Admission,High-Sensitivity CRP,3.59
+3087,26635,Admission,Proinsulin,14.02
+3087,26636,Admission,C-Peptide,3.78
+3087,26637,Discharge,High-Sensitivity CRP,2.47
+3087,26638,Discharge,Proinsulin,11.92
+3087,26639,Discharge,C-Peptide,3.78
+3088,26640,Admission,CSF Gram Stain,1.55
+3088,26641,Admission,CSF Culture,1.1
+3088,26642,Discharge,CSF Gram Stain,0.91
+3088,26643,Discharge,CSF Culture,0.7
+3089,26644,Admission,Sweat Chloride Test,47.45
+3089,26645,Admission,CFTR Gene Mutation Panel,1.5
+3089,26646,Discharge,Sweat Chloride Test,49.27
+3089,26647,Discharge,CFTR Gene Mutation Panel,1.5
+3090,26648,Admission,Throat Swab Rapid Strep Test,1.6
+3090,26649,Discharge,Throat Swab Rapid Strep Test,1.1
+3091,26650,Admission,Serum CC16 (Clara Cell Protein),31.99
+3091,26651,Discharge,Serum CC16 (Clara Cell Protein),24.02
+3092,26652,Admission,Bone Marrow Cytogenetics,0.0
+3092,26653,Discharge,Bone Marrow Cytogenetics,0.0
+3093,26654,Admission,Serum S100 Protein,0.38
+3093,26655,Discharge,Serum S100 Protein,0.29
+3095,26656,Admission,Total Serum IgE,188.25
+3095,26657,Discharge,Total Serum IgE,143.93
+3097,26658,Admission,Flow Cytometry (Blast Population),1.62
+3097,26659,Discharge,Flow Cytometry (Blast Population),0.9
+3098,26660,Admission,High-Sensitivity Troponin I,0.05
+3098,26661,Admission,D-Dimer,0.79
+3098,26662,Admission,Electrocardiogram (ECG),0.0
+3098,26663,Admission,Echocardiogram (ECHO),0.0
+3098,26664,Admission,Holter Monitoring (24-hour ECG),0.0
+3098,26665,Admission,Electrophysiological Study (EPS),0.0
+3098,26666,Discharge,High-Sensitivity Troponin I,0.05
+3098,26667,Discharge,D-Dimer,0.51
+3098,26668,Discharge,Electrocardiogram (ECG),0.0
+3098,26669,Discharge,Echocardiogram (ECHO),0.0
+3098,26670,Discharge,Holter Monitoring (24-hour ECG),0.0
+3098,26671,Discharge,Electrophysiological Study (EPS),0.0
+3099,26672,Admission,JAK2 V617F Mutation,1.81
+3099,26673,Discharge,JAK2 V617F Mutation,1.81
+3101,26674,Admission,Genetic Test (PKD1/PKD2),1.99
+3101,26675,Discharge,Genetic Test (PKD1/PKD2),1.99
+3103,26676,Admission,CSF Gram Stain,1.25
+3103,26677,Admission,CSF Culture,1.52
+3103,26678,Discharge,CSF Gram Stain,0.85
+3103,26679,Discharge,CSF Culture,1.81
+3106,26680,Admission,Rheumatoid Factor (RF),19.63
+3106,26681,Admission,Anti-CCP Antibody,24.84
+3106,26682,Discharge,Rheumatoid Factor (RF),13.87
+3106,26683,Discharge,Anti-CCP Antibody,24.22
+3107,26684,Admission,CSF Gram Stain,1.6
+3107,26685,Admission,CSF Culture,1.68
+3107,26686,Discharge,CSF Gram Stain,0.8
+3107,26687,Discharge,CSF Culture,1.26
+3112,26688,Admission,Exhaled Nitric Oxide,35.28
+3112,26689,Admission,Total Serum IgE,113.3
+3112,26690,Discharge,Exhaled Nitric Oxide,26.81
+3112,26691,Discharge,Total Serum IgE,91.63
+3113,26692,Admission,Exhaled Nitric Oxide,25.85
+3113,26693,Admission,Total Serum IgE,172.54
+3113,26694,Discharge,Exhaled Nitric Oxide,16.19
+3113,26695,Discharge,Total Serum IgE,135.44
+3114,26696,Admission,High-Sensitivity CRP,3.53
+3114,26697,Admission,Proinsulin,11.99
+3114,26698,Admission,C-Peptide,3.51
+3114,26699,Discharge,High-Sensitivity CRP,2.25
+3114,26700,Discharge,Proinsulin,8.69
+3114,26701,Discharge,C-Peptide,3.51
+3115,26702,Admission,CA-125,59.05
+3115,26703,Admission,HE4 (Human Epididymis Protein 4),112.48
+3115,26704,Discharge,CA-125,60.1
+3115,26705,Discharge,HE4 (Human Epididymis Protein 4),84.99
+3116,26706,Admission,Reticulocyte Count,2.8
+3116,26707,Discharge,Reticulocyte Count,3.14
+3117,26708,Admission,24-Hour Esophageal pH Monitoring,5.55
+3117,26709,Discharge,24-Hour Esophageal pH Monitoring,4.41
+3118,26710,Admission,Exhaled Nitric Oxide,22.41
+3118,26711,Admission,Total Serum IgE,174.83
+3118,26712,Discharge,Exhaled Nitric Oxide,14.19
+3118,26713,Discharge,Total Serum IgE,170.67
+3119,26714,Admission,Carbohydrate-Deficient Transferrin (CDT),3.46
+3119,26715,Discharge,Carbohydrate-Deficient Transferrin (CDT),2.73
+3120,26716,Admission,Leptin Level,26.64
+3120,26717,Discharge,Leptin Level,21.75
+3121,26718,Admission,Immunophenotyping (CD19/CD20),1.86
+3121,26719,Discharge,Immunophenotyping (CD19/CD20),1.3
+3125,26720,Admission,Laryngeal Swab Culture,1.65
+3125,26721,Discharge,Laryngeal Swab Culture,1.31
+3126,26722,Admission,PSA (Prostate-Specific Antigen),3.1
+3126,26723,Discharge,PSA (Prostate-Specific Antigen),3.98
+3127,26724,Admission,Anti-HCV Antibody,1.59
+3127,26725,Admission,HCV RNA,79.08
+3127,26726,Discharge,Anti-HCV Antibody,0.92
+3127,26727,Discharge,HCV RNA,80.22
+3128,26728,Admission,Total Serum IgE,144.46
+3128,26729,Discharge,Total Serum IgE,139.8
+3129,26730,Admission,BCR-ABL1 PCR,1.9
+3129,26731,Discharge,BCR-ABL1 PCR,1.44
+3130,26732,Admission,Anti-GAD Antibodies,26.11
+3130,26733,Admission,Insulin Autoantibodies (IAA),18.33
+3130,26734,Admission,C-Peptide,3.45
+3130,26735,Discharge,Anti-GAD Antibodies,31.69
+3130,26736,Discharge,Insulin Autoantibodies (IAA),14.6
+3130,26737,Discharge,C-Peptide,3.36
+3131,26738,Admission,Endocervical Swab Culture,1.65
+3131,26739,Discharge,Endocervical Swab Culture,1.06
+3132,26740,Admission,Flow Cytometry (Lymphoblasts),1.37
+3132,26741,Discharge,Flow Cytometry (Lymphoblasts),0.8
+3133,26742,Admission,Cosyntropin (ACTH) Stimulation Test,29.29
+3133,26743,Admission,Plasma ACTH Level,117.25
+3133,26744,Discharge,Cosyntropin (ACTH) Stimulation Test,25.47
+3133,26745,Discharge,Plasma ACTH Level,117.25
+3134,26746,Admission,Genetic Test (PKD1/PKD2),1.73
+3134,26747,Discharge,Genetic Test (PKD1/PKD2),1.73
+3135,26748,Admission,CA 19-9,54.28
+3135,26749,Discharge,CA 19-9,48.19
+3137,26750,Admission,CA 72-4,6.97
+3137,26751,Discharge,CA 72-4,6.04
+3141,26752,Admission,Anti-Thyroid Peroxidase (Anti-TPO),66.82
+3141,26753,Admission,Anti-Thyroglobulin Antibody,19.42
+3141,26754,Admission,TSH (Thyroid-Stimulating Hormone),6.5
+3141,26755,Admission,Free T3,6.02
+3141,26756,Admission,Free T4,2.99
+3141,26757,Discharge,Anti-Thyroid Peroxidase (Anti-TPO),54.1
+3141,26758,Discharge,Anti-Thyroglobulin Antibody,20.1
+3141,26759,Discharge,TSH (Thyroid-Stimulating Hormone),6.5
+3141,26760,Discharge,Free T3,6.02
+3141,26761,Discharge,Free T4,2.99
+3142,26762,Admission,Urine/Stool Microscopy (Schistosoma Ova),1.32
+3142,26763,Discharge,Urine/Stool Microscopy (Schistosoma Ova),1.3
+3145,26764,Admission,Flow Cytometry (CD19+/CD5+ Lymphocytes),3.17
+3145,26765,Discharge,Flow Cytometry (CD19+/CD5+ Lymphocytes),3.2
+3147,26766,Admission,D-Dimer,3.25
+3147,26767,Admission,Fibrinogen Level,594.56
+3147,26768,Discharge,D-Dimer,2.49
+3147,26769,Discharge,Fibrinogen Level,816.67
+3148,26770,Admission,Flow Cytometry (Lymphoblasts),1.34
+3148,26771,Discharge,Flow Cytometry (Lymphoblasts),1.0
+3150,26772,Admission,24-Hour Urine Calcium,471.89
+3150,26773,Discharge,24-Hour Urine Calcium,348.82
+3152,26774,Admission,Urine/Stool Microscopy (Schistosoma Ova),1.81
+3152,26775,Discharge,Urine/Stool Microscopy (Schistosoma Ova),1.15
+3153,26776,Admission,FBN1 Gene Mutation Test,1.14
+3153,26777,Discharge,FBN1 Gene Mutation Test,1.09
+3154,26778,Admission,Helicobacter pylori Stool Antigen,1.18
+3154,26779,Discharge,Helicobacter pylori Stool Antigen,0.62

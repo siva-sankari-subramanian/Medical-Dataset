@@ -1,0 +1,302 @@
+Disease_ID,Admission Diagnosis,Disease Type,Disease Severity,Medical Unit
+1661,Tonsillitis,ENT Diseases,43,Otorhinolaryngology
+1635,Tooth Decay,Dental Health,20,Dentistry
+1632,Acute Myeloid Leukemia,Oncology,87,Oncology
+1452,Kidney Stones,Internal Medicine,46,Nephrology
+1441,Crohn's Disease,Internal Medicine,75,Gastroenterology
+1710,Dementia,Neurology,85,Neurology
+1485,Polymyalgia Rheumatica,Immunology and Rheumatology,38,Rheumatology
+1414,Coronary Artery Disease,Internal Medicine,88,Cardiology
+1670,Bacterial Meningitis,Infectious Diseases,78,Infectious Disease
+1545,Phobias,Psychiatry,36,Psychiatry
+1416,Arrhythmias,Internal Medicine,68,Cardiology
+1442,Ulcerative Colitis,Internal Medicine,68,Gastroenterology
+1593,Low Back Pain,Orthopedics and Traumatology,48,Orthopedics
+1685,Chronic Back Pain,Orthopedics and Traumatology,60,Orthopedics
+1705,Hypertension(Primary),Internal Medicine,60,Cardiology
+1478,Rheumatoid Arthritis,Immunology and Rheumatology,65,Rheumatology
+1549,ADHD,Psychiatry,55,Psychiatry
+1589,Meniscus Tear,Orthopedics and Traumatology,44,Orthopedics
+1430,Asthma,Internal Medicine,43,Pulmonology
+1421,Type 1 Diabetes Mellitus,Internal Medicine,74,Endocrinology
+1658,Epistaxis,ENT Diseases,27,Otorhinolaryngology
+1620,Skin Cancer,Oncology,68,Oncology
+1601,Noise-Induced Hearing Loss,Occupational Diseases,35,Otorhinolaryngology
+1675,Malaria,Infectious Diseases,72,Infectious Disease
+1418,Peripheral Artery Disease,Internal Medicine,70,Cardiology
+1484,Behcet's Disease,Immunology and Rheumatology,60,Rheumatology
+1646,Macular Degeneration,Eye Diseases,75,Ophthalmology
+1519,Thrombocytopenia,Hematology,49,Hematology
+1689,Peripheral Artery Disease (PAD),Internal Medicine,65,Vascular Medicine
+1597,Silicosis,Occupational Diseases,63,Occupational Medicine
+1513,Multiple Myeloma,Hematology,78,Hematology
+1703,Heart Disease(Other Types),Internal Medicine,80,Cardiology
+1711,Depression,Psychiatry,62,General
+1684,Chronic Obstructive Pulmonary Disease (COPD),Internal Medicine,75,Pulmonology
+1427,Acromegaly,Internal Medicine,51,Endocrinology
+1444,Pancreatitis,Internal Medicine,70,Gastroenterology
+1713,Irritable Bowel Syndrome (IBS),Internal Medicine,50,Gastroenterology
+1655,Nasal Polyps,ENT Diseases,28,Otorhinolaryngology
+1708,SVO (small vessel occlusion),Neurology,80,Neurology
+1624,Pancreatic Cancer,Oncology,94,Oncology
+1546,Schizophrenia,Psychiatry,83,Psychiatry
+1619,Colon Cancer,Oncology,85,Oncology
+1433,Sleep Apnea,Internal Medicine,46,Pulmonology
+1686,Chronic Fatigue Syndrome,Neurology,60,Neurology
+1645,Glaucoma,Eye Diseases,69,Ophthalmology
+1454,Non-Alcoholic Fatty Liver Disease,Internal Medicine,53,Hepatology
+1581,Bone Fractures,Orthopedics and Traumatology,78,Orthopedics
+1683,Mental Health Issues,Psychiatry,55,Psychiatry
+1688,Chronic Migraine,Neurology,55,Neurology
+1644,Cataracts,Eye Diseases,64,Ophthalmology
+1699,Chronic Gastritis,Internal Medicine,40,Gastroenterology
+1687,Liver Disease(Other Types),Internal Medicine,70,Hepatology
+1648,Diabetic Retinopathy,Eye Diseases,66,Ophthalmology
+1694,Pulmonary Hypertension,Internal Medicine,75,Pulmonology
+1431,Dyspnea,Internal Medicine,76,Pulmonology
+1603,Occupational Dermatitis,Occupational Diseases,30,Dermatology
+1641,Hyperopia,Eye Diseases,15,Ophthalmology
+1479,Sjogren's Syndrome,Immunology and Rheumatology,55,Rheumatology
+1617,Lung Cancer,Oncology,97,Oncology
+1557,Mumps,Pediatrics,44,Pediatrics
+1458,Alzheimer's Disease,Neurology,92,Neurology
+1649,Conjunctivitis,Eye Diseases,23,Ophthalmology
+1579,Osteoarthritis,Orthopedics and Traumatology,73,Orthopedics
+1642,Astigmatism,Eye Diseases,20,Ophthalmology
+1453,Hepatitis A,Internal Medicine,52,Hepatology
+1424,Hypothyroidism,Internal Medicine,45,Endocrinology
+1665,COVID-19,Infectious Diseases,85,Infectious Disease
+1509,Leukemia,Hematology,90,Hematology
+1700,Barrett's Esophagus,Internal Medicine,60,Gastroenterology
+1559,Whooping Cough,Pediatrics,58,Pediatrics
+1502,Iron Deficiency Anemia,Hematology,44,Hematology
+1668,Tuberculosis,Infectious Diseases,82,Infectious Disease
+1680,Coagulopathy,Immunology and Rheumatology,75,Hematology
+1568,Cystic Fibrosis,Pediatrics,94,Pediatrics
+1423,Hyperthyroidism,Internal Medicine,47,Endocrinology
+1415,Heart Failure,Internal Medicine,91,Cardiology
+1429,Obesity,Internal Medicine,50,Endocrinology
+1706,Arthritis,Immunology and Rheumatology,65,Orthopedics
+1536,Lesch-Nyhan Syndrome,Genetic Diseases,86,Genetics
+1652,Hearing Loss,ENT Diseases,53,Otorhinolaryngology
+1696,Varicose Veins,Internal Medicine,30,Vascular Medicine
+1569,Endometriosis,Gynecology,60,Gynecology
+1500,Scabies,Dermatology,19,Dermatology
+1447,Chronic Renal Failure,Internal Medicine,80,Nephrology
+1594,Kyphosis,Orthopedics and Traumatology,39,Orthopedics
+1613,Bacterial Vaginosis,Sexually Transmitted Diseases,35,Gynecology
+1627,Bladder Cancer,Oncology,67,Oncology
+1440,IBS-D,Internal Medicine,40,Gastroenterology
+1602,Tinnitus,Occupational Diseases,40,Otorhinolaryngology
+1637,Periodontitis,Dental Health,40,Dentistry
+1487,Gout,Immunology and Rheumatology,46,Rheumatology
+1498,Fungal Infections,Dermatology,30,Dermatology
+1481,Psoriatic Arthritis,Immunology and Rheumatology,58,Rheumatology
+1618,Prostate Cancer,Oncology,86,Oncology
+1690,Chronic Sinusitis,ENT Diseases,50,Otorhinolaryngology
+1691,Chronic Hepatitis,Internal Medicine,75,Hepatology
+1489,Psoriasis,Dermatology,43,Dermatology
+1460,ALS,Neurology,97,Neurology
+1466,Absence Seizures,Neurology,42,Neurology
+1490,Eczema,Dermatology,35,Dermatology
+1623,Squamous Cell Carcinoma,Oncology,65,Oncology
+1437,Gastritis,Internal Medicine,31,Gastroenterology
+1459,Parkinson's Disease,Neurology,80,Neurology
+1439,GERD,Internal Medicine,38,Gastroenterology
+1630,Brain Tumors,Oncology,95,Oncology
+1435,Bronchitis,Internal Medicine,34,Pulmonology
+1598,Occupational Asthma,Occupational Diseases,50,Occupational Medicine
+1419,Cardiomyopathy,Internal Medicine,83,Cardiology
+1455,Alcoholic Liver Disease,Internal Medicine,61,Hepatology
+1475,Muscular Dystrophy,Neurology,78,Neurology
+1604,Chemical Burns,Occupational Diseases,60,Emergency Medicine
+1586,Tendinitis,Orthopedics and Traumatology,52,Orthopedics
+1493,Rosacea,Dermatology,18,Dermatology
+1583,Bone Tumors,Orthopedics and Traumatology,88,Orthopedics
+1653,Meniere's Disease,ENT Diseases,50,Otorhinolaryngology
+1636,Gum Disease,Dental Health,35,Dentistry
+1553,Antisocial Personality Disorder,Psychiatry,60,Psychiatry
+1626,Kidney Cancer,Oncology,81,Oncology
+1667,Viral Hepatitis,Infectious Diseases,74,Infectious Disease
+1701,Hidradenitis Suppurativa,Dermatology,50,Dermatology
+1497,Herpes Zoster,Dermatology,46,Dermatology
+1616,Breast Cancer,Oncology,93,Oncology
+1548,Delusional Disorder,Psychiatry,50,Psychiatry
+1422,Type 2 Diabetes Mellitus,Internal Medicine,71,Endocrinology
+1622,Basal Cell Carcinoma,Oncology,60,Oncology
+1494,Seborrheic Dermatitis,Dermatology,25,Dermatology
+1527,Familial Hypercholesterolemia,Genetic Diseases,52,Genetics
+1654,Sinusitis,ENT Diseases,38,Otorhinolaryngology
+1681,Sepsis,Infectious Diseases,95,Infectious Disease
+1438,Peptic Ulcer Disease,Internal Medicine,49,Gastroenterology
+1695,Chronic Venous Insufficiency,Internal Medicine,45,Vascular Medicine
+1512,Non-Hodgkin's Lymphoma,Hematology,81,Hematology
+1434,Interstitial Lung Disease,Internal Medicine,72,Pulmonology
+1621,Melanoma,Oncology,80,Oncology
+1506,Sickle Cell Anemia,Hematology,76,Hematology
+1628,Stomach Cancer,Oncology,92,Oncology
+1488,Temporal Arteritis,Immunology and Rheumatology,55,Rheumatology
+1674,Tetanus,Infectious Diseases,76,Infectious Disease
+1692,Chronic Pancreatitis,Internal Medicine,75,Gastroenterology
+1693,Atrial Fibrillation,Internal Medicine,70,Cardiology
+1469,Migraine,Neurology,45,Neurology
+1578,Osteoporosis,Orthopedics and Traumatology,55,Orthopedics
+1516,Pulmonary Embolism,Hematology,78,Vascular Medicine
+1712,Selective Mutism,Psychiatry,50,Psychiatry
+1504,Aplastic Anemia,Hematology,74,Hematology
+1588,Carpal Tunnel Syndrome,Orthopedics and Traumatology,57,Orthopedics
+1609,Hepatitis C,Sexually Transmitted Diseases,80,Infectious Disease
+1634,Chronic Myeloid Leukemia,Oncology,82,Oncology
+1443,Celiac Disease,Internal Medicine,51,Gastroenterology
+1591,Herniated Disc,Orthopedics and Traumatology,65,Orthopedics
+1640,Myopia,Eye Diseases,15,Ophthalmology
+1476,Peripheral Neuropathy,Neurology,58,Neurology
+1540,Generalized Anxiety Disorder(GAD),Psychiatry,50,Psychiatry
+1662,Vocal Cord Nodules,ENT Diseases,30,Otorhinolaryngology
+1496,Herpes Simplex Virus,Dermatology,32,Dermatology
+1428,Metabolic Syndrome,Internal Medicine,49,Endocrinology
+1517,Von Willebrand Disease,Hematology,54,Hematology
+1511,Hodgkin's Lymphoma,Hematology,71,Hematology
+1486,Sarcoidosis,Immunology and Rheumatology,51,Rheumatology
+1461,Huntington's Disease,Neurology,94,Neurology
+1501,Warts,Dermatology,22,Dermatology
+1445,Gallstones,Internal Medicine,52,Gastroenterology
+1503,Pernicious Anemia,Hematology,50,Hematology
+1528,Hereditary Hemochromatosis,Genetic Diseases,44,Genetics
+1605,HIV/AIDS,Sexually Transmitted Diseases,96,Infectious Disease
+1456,Hemochromatosis,Internal Medicine,47,Hepatology
+1656,Deviated Septum,ENT Diseases,41,Otorhinolaryngology
+1420,Deep Vein Thrombosis (DVT),Internal Medicine,59,Vascular Medicine
+1625,Liver Cancer,Oncology,88,Oncology
+1563,Respiratory Syncytial Virus,Pediatrics,50,Pediatrics
+1638,Tooth Abscess,Dental Health,50,Dentistry
+1510,Lymphoma,Hematology,85,Hematology
+1697,Chronic Tinnitus,Occupational Diseases,40,Otorhinolaryngology
+1492,Vitiligo,Dermatology,20,Dermatology
+1450,Glomerulonephritis,Internal Medicine,70,Nephrology
+1647,Retinal Detachment,Eye Diseases,83,Ophthalmology
+1596,Asbestosis,Occupational Diseases,65,Occupational Medicine
+1482,Systemic Sclerosis,Immunology and Rheumatology,77,Rheumatology
+1608,Hepatitis B,Sexually Transmitted Diseases,74,Infectious Disease
+1471,Cluster Headache,Neurology,70,Neurology
+1463,Frontotemporal Dementia,Unknown,90,Neurology
+1480,Ankylosing Spondylitis,Immunology and Rheumatology,60,Rheumatology
+1698,Fibromyalgia,Immunology and Rheumatology,55,Rheumatology
+1483,Vasculitis,Immunology and Rheumatology,66,Rheumatology
+1664,Common Cold,Infectious Diseases,15,General Practice
+1702,Chronic Lyme Disease,Infectious Diseases,60,Infectious Disease
+1704,Insulin Resistance,Internal Medicine,70,Endocrinology
+1709,Thyroid Disorders(Other),Internal Medicine,46,Endocrinology
+1436,Lung Fibrosis,Internal Medicine,64,Pulmonology
+1462,Multiple Sclerosis,Neurology,85,Neurology
+1495,Alopecia Areata,Dermatology,27,Dermatology
+1526,Albinism,Genetic Diseases,30,Genetics
+1614,Trichomoniasis,Sexually Transmitted Diseases,45,Gynecology
+1599,Lumbar Disc Herniation,Occupational Diseases,55,General
+1595,Pneumoconiosis,Occupational Diseases,58,Occupational Medicine
+1505,Hemolytic Anemia,Hematology,65,Hematology
+1539,Dysthymia,Psychiatry,41,Psychiatry
+1534,Angelman Syndrome,Genetic Diseases,68,Genetics
+1532,Gaucher's Disease,Genetic Diseases,77,Genetics
+1446,Liver Cirrhosis,Internal Medicine,84,Hepatology
+1425,Cushing's Syndrome,Internal Medicine,62,Endocrinology
+1669,Streptococcal Infections,Infectious Diseases,50,Infectious Disease
+1707,Cancer(Other Types),Oncology,90,Oncology
+1544,PTSD,Psychiatry,70,Psychiatry
+1682,Immunodeficiency Disorders,Immunology and Rheumatology,70,Immunology
+1673,Diphtheria,Infectious Diseases,84,Infectious Disease
+1432,Pneumonia,Internal Medicine,65,Pulmonology
+1538,Bipolar Disorder,Psychiatry,72,Psychiatry
+1561,Scarlet Fever,Pediatrics,33,Pediatrics
+1633,Chronic Lymphocytic Leukemia,Oncology,80,Oncology
+1426,Addison's Disease,Internal Medicine,60,Endocrinology
+1659,Pharyngitis,ENT Diseases,32,Otorhinolaryngology
+1473,Myasthenia Gravis,Neurology,67,Neurology
+1600,Repetitive Strain Injury,Occupational Diseases,45,General
+1468,Febrile Seizures,Neurology,28,Neurology
+1472,Trigeminal Neuralgia,Neurology,66,Neurology
+1587,Rotator Cuff Injury,Orthopedics and Traumatology,50,Orthopedics
+1449,Polycystic Kidney Disease,Internal Medicine,62,Nephrology
+1552,Borderline Personality Disorder,Psychiatry,64,Psychiatry
+1550,Autism Spectrum Disorder,Psychiatry,71,Psychiatry
+1590,Scoliosis,Orthopedics and Traumatology,60,Orthopedics
+1639,Temporomandibular Joint Disorder,Dental Health,45,Dentistry
+1522,Down Syndrome,Genetic Diseases,60,Genetics
+1491,Acne Vulgaris,Dermatology,22,Dermatology
+1531,Ehlers-Danlos Syndrome,Genetic Diseases,71,Genetics
+1643,Presbyopia,Eye Diseases,25,Ophthalmology
+1451,Nephrotic Syndrome,Internal Medicine,63,Nephrology
+1470,Tension Headache,Neurology,32,Neurology
+1585,Bursitis,Orthopedics and Traumatology,42,Orthopedics
+1663,Influenza,Infectious Diseases,38,Infectious Disease
+1515,Myelodysplastic Syndromes,Hematology,74,Hematology
+1542,Social Anxiety Disorder,Psychiatry,49,Psychiatry
+1556,Measles,Pediatrics,47,Pediatrics
+1474,Guillain-Barre Syndrome,Neurology,74,Neurology
+1541,Panic Disorder,Psychiatry,58,Psychiatry
+1580,Paget's Disease of Bone,Orthopedics and Traumatology,58,Orthopedics
+1672,Cholera,Infectious Diseases,67,Infectious Disease
+1465,Epilepsy,Neurology,71,Neurology
+1413,Hypertension(Secondary),Internal Medicine,55,Cardiology
+1508,Hemophilia,Hematology,80,Hematology
+1467,Temporal Lobe Epilepsy,Neurology,65,Neurology
+1660,Laryngitis,ENT Diseases,34,Otorhinolaryngology
+1677,Schistosomiasis,Infectious Diseases,43,Infectious Disease
+1582,Osteomyelitis,Orthopedics and Traumatology,63,Orthopedics
+1611,Syphilis,Sexually Transmitted Diseases,65,Infectious Disease
+1657,Rhinitis,ENT Diseases,35,Otorhinolaryngology
+1514,Polycythemia Vera,Hematology,72,Hematology
+1554,Narcissistic Personality Disorder,Psychiatry,40,Psychiatry
+1612,Chlamydia,Sexually Transmitted Diseases,53,Gynecology
+1564,Congenital Heart Disease,Pediatrics,91,Pediatrics
+1592,Spinal Stenosis,Orthopedics and Traumatology,63,Orthopedics
+1417,Rheumatic Fever,Internal Medicine,42,Cardiology
+1537,Major Depressive Disorder,Psychiatry,68,Psychiatry
+1518,Disseminated Intravascular Coagulation (DIC),Hematology,89,Hematology
+1629,Esophageal Cancer,Oncology,87,Oncology
+1520,Duchenne Muscular Dystrophy,Genetic Diseases,87,Genetics
+1573,Pelvic Inflammatory Disease,Gynecology,59,Gynecology
+1477,Systemic Lupus Erythematosus,Immunology and Rheumatology,72,Rheumatology
+1507,Thalassemia,Hematology,62,Hematology
+1584,Dislocations,Orthopedics and Traumatology,48,Orthopedics
+1576,Vaginitis,Gynecology,33,Gynecology
+1547,Schizoaffective Disorder,Psychiatry,74,Psychiatry
+1651,Otitis Externa,ENT Diseases,24,Otorhinolaryngology
+1631,Acute Lymphoblastic Leukemia,Oncology,85,Oncology
+1679,Aspergillosis,Infectious Diseases,35,Infectious Disease
+1448,Acute Kidney Injury,Internal Medicine,78,Nephrology
+1543,Obsessive-Compulsive Disorder (OCD),Psychiatry,67,Psychiatry
+1666,Dengue Fever,Infectious Diseases,66,Infectious Disease
+1676,Giardiasis,Infectious Diseases,40,Infectious Disease
+1529,Neurofibromatosis Type I and II,Genetic Diseases,53,Genetics
+1650,Otitis Media,ENT Diseases,29,Otorhinolaryngology
+1567,Cerebral Palsy,Pediatrics,77,Pediatrics
+1606,HPV,Sexually Transmitted Diseases,58,Gynecology
+1572,Ovarian Cysts,Gynecology,63,Gynecology
+1577,Dysmenorrhea,Gynecology,45,Gynecology
+1610,Gonorrhea,Sexually Transmitted Diseases,48,Gynecology
+1678,Candidiasis,Infectious Diseases,28,Infectious Disease
+1570,PCOS,Gynecology,57,Gynecology
+1615,Pubic Lice,Sexually Transmitted Diseases,25,Gynecology
+1555,Chickenpox,Pediatrics,34,Pediatrics
+1524,Phenylketonuria,Genetic Diseases,48,Genetics
+1607,Genital Herpes,Sexually Transmitted Diseases,50,Gynecology
+1560,"Hand, Foot, and Mouth Disease",Pediatrics,28,Pediatrics
+1499,Impetigo,Dermatology,21,Dermatology
+1521,Marfan Syndrome,Genetic Diseases,70,Genetics
+1671,Lyme Disease,Infectious Diseases,45,Infectious Disease
+1558,Rubella,Pediatrics,39,Pediatrics
+1523,Fragile X Syndrome,Genetic Diseases,56,Genetics
+1575,Menopause Symptoms,Gynecology,40,Gynecology
+1551,Tourette Syndrome,Psychiatry,42,Psychiatry
+1562,Fifth Disease,Pediatrics,29,Pediatrics
+1574,Menstrual Disorders,Gynecology,32,Gynecology
+1571,Uterine Fibroids,Gynecology,54,Gynecology
+1464,Spinocerebellar Ataxia,Neurology,80,Neurology
+1525,Spinal Muscular Atrophy,Genetic Diseases,75,Genetics
+1566,Hydrocephalus,Pediatrics,82,Pediatrics
+1533,Prader-Willi Syndrome,Genetic Diseases,65,Genetics
+1457,Wilson's Disease,Internal Medicine,58,Hepatology
+1535,Rett Syndrome,Genetic Diseases,85,Genetics
+1565,Spina Bifida,Pediatrics,85,Pediatrics
+1530,Tay-Sachs Disease,Genetic Diseases,92,Genetics
