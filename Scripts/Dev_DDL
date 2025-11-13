@@ -3,6 +3,28 @@
 DDL Script: Create Dev Tables
 ===============================================================================
 Script Purpose: This script creates tables in the 'DEV' schema
+List of Tables created using this scirpt:
+1. Patient
+2. Doctor
+3. Disease
+4. Date
+5. Insurance
+6. Room
+7. ChronicDisease
+8. Allergy
+9. AdditionalService
+10. SpecialTest
+11. Treatment
+12. Patient_AdditionalService
+13. Patient_Allergy
+14. Patient_ChronicDisease
+15. Cost
+16. Encounter
+17. LabTest
+18. TreatmentCost
+19. Vitals
+20. Encounter_AdditionalService
+21. Encounter_Doctor
 ===============================================================================
 */
 IF OBJECT_ID('dev.Patient', 'U') IS NOT NULL
@@ -143,5 +165,143 @@ Follow_Up NVARCHAR(50),
 Complications NVARCHAR(50),
 Drug_Boxes_Used INT,
 Therapy_Sessions INT
+)
+GO
+
+IF OBJECT_ID('dev.Patient_AdditionalService', 'U') IS NOT NULL
+    DROP TABLE dev.Patient_AdditionalService;
+GO
+
+CREATE TABLE dev.Patient_AdditionalService(
+Encounter_ID INT,
+AdditionalServiceID INT
+
+)
+GO
+
+IF OBJECT_ID('dev.Patient_Allergy') IS NOT NULL
+    DROP TABLE dev.Patient_Allergy
+GO
+
+CREATE TABLE dev.Patient_Allergy(
+Patient_ID NVARCHAR(50),
+AllergyID INT
+)
+GO
+
+IF OBJECT_ID('dev.Patient_ChronicDisease') IS NOT NULL
+    DROP TABLE dev.Patient_ChronicDisease
+GO
+
+CREATE TABLE dev.Patient_ChronicDisease(
+Patient_ID INT,
+ChronicDiseaseID INT
+)
+GO
+
+IF OBJECT_ID('dev.Cost') IS NOT NULL
+    DROP TABLE dev.Cost
+GO
+
+CREATE TABLE dev.Cost(
+Encounter_ID INT,
+CostType NVARCHAR(50),
+CostAmount FLOAT
+)
+GO
+
+IF OBJECT_ID('dev.Encounter') IS NOT NULL
+    DROP TABLE dev.Encounter
+GO
+
+CREATE TABLE dev.Encounter(
+Encounter_ID INT,
+Patient_ID NVARCHAR(50),
+Disease_ID INT,
+ResponsibleDoctorID INT,
+InsuranceKey INT,
+RoomKey INT,
+CheckinDate DATE,
+CheckoutDate DATE,
+CheckinDateKey INT,
+CheckoutDateKey INT,
+Patient_Severity_Score FLOAT,
+RadiologyType NVARCHAR(50),
+RadiologyProcedureCount INT,
+EndoscopyType NVARCHAR(50),
+EndoscopyProcedureCount INT,
+CompanionPresent NVARCHAR(50) 
+)
+GO
+
+
+IF OBJECT_ID('dev.LabTest') IS NOT NULL
+    DROP TABLE dev.LabTest
+GO
+
+CREATE TABLE dev.LabTest(
+Encounter_ID INT,
+Patient_ID NVARCHAR(50),
+Phase NVARCHAR(50),
+LabType NVARCHAR(50),
+TestName NVARCHAR(50),
+TestValue FLOAT
+)
+GO
+
+
+IF OBJECT_ID('dev.TreatmentCost') IS NOT NULL
+    DROP TABLE dev.TreatmentCost
+GO
+
+CREATE TABLE dev.TreatmentCost(
+Encounter_ID INT,
+Treatment_ID INT,
+Drug_Cost INT,
+Surgery_Cost INT,
+Post_Surgery_Care_Cost INT,
+Education_Rehab_Cost INT,
+Hospital_Drug_Quantity INT,
+Discharge_Drug_Quantity INT,
+Total_Drug_Quantity INT
+)
+GO
+
+
+IF OBJECT_ID('dev.Vitals') IS NOT NULL
+    DROP TABLE dev.Vitals
+GO
+
+CREATE TABLE dev.Vitals(
+Encounter_ID INT,
+Patient_ID NVARCHAR(50),
+Phase NVARCHAR(50),
+HeartRate FLOAT,
+Temperature FLOAT,
+SystolicBP INT,
+DiastolicBP INT,
+RespRate INT,
+O2Sat FLOAT
+)
+GO
+
+
+IF OBJECT_ID('dev.Encounter_AdditionalService') IS NOT NULL
+    DROP TABLE dev.Encounter_AdditionalService
+GO
+
+CREATE TABLE dev.Encounter_AdditionalService(
+Encounter_ID INT,
+AdditionalServiceID INT
+)
+GO
+
+IF OBJECT_ID('dev.Encounter_Doctor') IS NOT NULL
+    DROP TABLE dev.Encounter_Doctor
+GO
+
+CREATE TABLE dev.Encounter_Doctor(
+Encounter_ID INT,
+Doctor_ID INT
 )
 GO
