@@ -1,0 +1,211 @@
+---
+title: Medical Dataset Star Schema
+---
+erDiagram
+	direction BT
+
+	%% Fact (center)
+	Encounter {
+		INT Encounter_ID PK ""  
+		NVARCHAR Patient_ID FK ""  
+		INT Disease_ID FK ""  
+		INT ResponsibleDoctorID FK ""  
+		INT InsuranceKey FK ""  
+		INT RoomKey FK ""  
+		INT CheckinDateKey FK ""  
+		INT CheckoutDateKey FK ""  
+		FLOAT Patient_Severity_Score  ""  
+		NVARCHAR RadiologyType  ""  
+		INT RadiologyProcedureCount  ""  
+		NVARCHAR EndoscopyType  ""  
+		INT EndoscopyProcedureCount  ""  
+		NVARCHAR CompanionPresent  ""  
+		DATE CheckinDate  ""  
+		DATE CheckoutDate  ""  
+	}
+	
+	%% Core dimensions (surrounding the fact)
+	Patient {
+		NVARCHAR Patient_ID PK ""  
+		NVARCHAR First_Name  ""  
+		NVARCHAR Last_Name  ""  
+		NVARCHAR Gender  ""  
+		DATE Birth_Date  ""  
+		INT Height  ""  
+		INT Weight  ""  
+		NVARCHAR Marital_Status  ""  
+		NVARCHAR Nationality  ""  
+		NVARCHAR Blood_Type  ""  
+	}
+	Doctor {
+		INT Doctor_ID PK ""  
+		NVARCHAR Doctor_Name  ""  
+		NVARCHAR Doctor_Surname  ""  
+		NVARCHAR Doctor_Title  ""  
+		NVARCHAR Doctor_Nationality  ""  
+		NVARCHAR Medical_Unit  ""  
+		INT Max_Patient_Count  ""  
+	}
+	Disease {
+		INT Disease_ID PK ""  
+		NVARCHAR Admission_Diagnosis  ""  
+		NVARCHAR Disease_Type  ""  
+		NVARCHAR Disease_Severity  ""  
+		NVARCHAR Medical_Unit  ""  
+	}
+	Insurance {
+		INT InsuranceKey PK ""  
+		NVARCHAR Insurance_Plan_Name  ""  
+		FLOAT Coverage_Limit  ""  
+		INT Deductible  ""  
+		NVARCHAR Excluded_Treatments  ""  
+		NVARCHAR Partial_Coverage_Treatments  ""  
+	}
+	Room {
+		INT RoomKey PK ""  
+		NVARCHAR Care_Level  ""  
+		NVARCHAR Room_Type  ""  
+	}
+	Date {
+		INT DateKey PK ""  
+		DATE Date  ""  
+		INT Year  ""  
+		INT Month  ""  
+		INT Day  ""  
+		INT Quarter  ""  
+		INT Weekday  ""  
+		NVARCHAR Date_String  ""  
+	}
+
+	%% Transactional / satellite tables (linked to Encounter)
+	LabTest {
+		INT LabTest_ID PK ""  
+		INT Encounter_ID FK ""  
+		NVARCHAR Patient_ID FK ""  
+		NVARCHAR Phase  ""  
+		NVARCHAR LabType  ""  
+		NVARCHAR TestName  ""  
+		FLOAT TestValue  ""  
+	}
+	Vitals {
+		INT Vitals_ID PK ""  
+		INT Encounter_ID FK ""  
+		NVARCHAR Patient_ID FK ""  
+		NVARCHAR Phase  ""  
+		FLOAT HeartRate  ""  
+		FLOAT Temperature  ""  
+		INT SystolicBP  ""  
+		INT DiastolicBP  ""  
+		INT RespRate  ""  
+		FLOAT O2Sat  ""  
+	}
+	SpecialTest {
+		INT SpecialTest_ID PK ""  
+		INT Encounter_ID FK ""  
+		NVARCHAR Test_Phase  ""  
+		NVARCHAR Test_Name  ""  
+		FLOAT Test_Result  ""  
+	}
+	Treatment {
+		INT Treatment_ID PK ""  
+		INT Encounter_ID FK ""  
+		NVARCHAR Treatment_Type  ""  
+		NVARCHAR Treatment_Name  ""  
+		NVARCHAR Follow_Up  ""  
+		NVARCHAR Complications  ""  
+		INT Drug_Boxes_Used  ""  
+		INT Therapy_Sessions  ""  
+	}
+	Cost {
+		INT Cost_ID PK ""  
+		INT Encounter_ID FK ""  
+		NVARCHAR CostType  ""  
+		FLOAT CostAmount  ""  
+	}
+	TreatmentCost {
+		INT TreatmentCost_ID PK ""  
+		INT Encounter_ID FK ""  
+		INT Treatment_ID FK ""  
+		INT Drug_Cost  ""  
+		INT Surgery_Cost  ""  
+		INT Post_Surgery_Care_Cost  ""  
+		INT Education_Rehab_Cost  ""  
+		INT Hospital_Drug_Quantity  ""  
+		INT Discharge_Drug_Quantity  ""  
+		INT Total_Drug_Quantity  ""  
+	}
+
+	%% Dimension extensions / lookup lists
+	ChronicDisease {
+		INT ChronicDiseaseID PK ""  
+		NVARCHAR ChronicDiseaseName  ""  
+	}
+	Allergy {
+		INT AllergyID PK ""  
+		NVARCHAR AllergyName  ""  
+	}
+	AdditionalService {
+		INT AdditionalServiceID PK ""  
+		NVARCHAR ServiceName  ""  
+	}
+
+	%% Bridge / associative tables (many-to-many)
+	Patient_ChronicDisease {
+		INT Patient_ID FK ""  
+		INT ChronicDiseaseID FK ""  
+	}
+	Patient_Allergy {
+		NVARCHAR Patient_ID FK ""  
+		INT AllergyID FK ""  
+	}
+	Encounter_AdditionalService {
+		INT Encounter_ID FK ""  
+		INT AdditionalServiceID FK ""  
+	}
+	Patient_AdditionalService {
+		INT Patient_ID FK ""  
+		INT AdditionalServiceID FK ""  
+	}
+	Encounter_Doctor {
+		INT Encounter_ID FK ""  
+		INT Doctor_ID FK ""  
+	}
+
+	%% Relationships — star pattern: dimensions -> Encounter (center)
+	Patient ||--|{ Encounter : ""
+	Disease ||--|{ Encounter : ""
+	Insurance ||--|{ Encounter : ""
+	Room ||--|{ Encounter : ""
+	Date ||--|{ Encounter : ""
+	
+	%% Satellite / transactional relations
+	Encounter ||--o{ LabTest : ""
+	Encounter ||--o{ Vitals : ""
+	Encounter ||--o{ SpecialTest : ""
+	Encounter ||--o{ Treatment : ""
+	Encounter ||--o{ Cost : ""
+	Encounter ||--o{ TreatmentCost : ""
+	%% Many-to-many via bridges
+	Patient ||--o{ Patient_ChronicDisease : ""
+	ChronicDisease ||--o{ Patient_ChronicDisease : ""
+	Patient ||--o{ Patient_Allergy : ""
+	Allergy ||--o{ Patient_Allergy : ""
+	Encounter ||--o{ Encounter_AdditionalService : ""
+	AdditionalService ||--o{ Encounter_AdditionalService : ""
+	Patient ||--o{ Patient_AdditionalService : ""
+	AdditionalService ||--o{ Patient_AdditionalService : ""
+	Encounter ||--o{ Encounter_Doctor : ""
+	Doctor ||--o{ Encounter_Doctor : ""
+
+	%% Styling to make fact and dimension types clear
+	classDef Fact fill:#FFDFE5,stroke:#FF5978,color:#8E2236,stroke-width:1px,font-size:80px;
+	classDef Dimension fill:#DEFFF8,stroke:#46EDC8,color:#378E7A,stroke-width:1px,font-size:80px;
+	classDef Satellite fill:#FFF7DE,stroke:#E6B84A,color:#8A5A00,stroke-width:1px,font-size:80px;
+	classDef Bridge fill:#F2E8FF,stroke:#B78CFF,color:#523A8A,stroke-width:1px,font-size:80px;
+
+	
+	class Encounter Fact
+	class Patient,Doctor,Disease,Insurance,Room,Date,ChronicDisease,Allergy,AdditionalService Dimension
+	class LabTest,Vitals,SpecialTest,Treatment,Cost,TreatmentCost Satellite
+	class Patient_ChronicDisease,Patient_Allergy,Encounter_AdditionalService,Patient_AdditionalService,Encounter_Doctor Bridge
+	
