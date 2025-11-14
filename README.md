@@ -8,3 +8,5 @@ This project is to demonstrate Data warehousing process along with analytical so
 I have used syntheticly generated data for a hospital data warehouse and does not contain any real-world patient or hospital data.
 
 **Source of the Data:** https://www.kaggle.com/datasets/mebrar21/medsynora-dw
+
+I have downloaded more than 20 tables which are already cleaned and categorized as fact, dimentsion & bridges. My plan was to create a medallion architecture
