@@ -12,7 +12,7 @@ This project aims to showcase the design and implementation of a data warehousin
 
 I have utilized a synthetic medical dataset designed for hospital data warehousing. While the data is not real-world hospital data, it simulates key aspects typically found in such environments and is suitable for showcasing data warehousing processes.
 
-***Source:*** Synthetic Medical Dataset on Kaggle
+***Source:*** Synthetic Medical Dataset on Kaggle: https://www.kaggle.com/datasets/mebrar21/medsynora-dw
 
 ***Dataset Details:*** The dataset contains over 20 tables that are pre-cleaned and categorized into fact, dimension, and bridge tables. This enables us to focus on designing the data model and implementing an ETL pipeline, rather than spending time on data cleaning.
 
