@@ -38,7 +38,7 @@ The second layer is the data mart, where the data is transformed into a structur
 
 <img width="795" height="334" alt="Dataworkflow drawio" src="https://github.com/user-attachments/assets/4ecfde5d-ad82-4cb9-9f1d-c99a7ff294d5" />
 
----
+
 ## Star Schema:
 
 I've designed and implemented a star schema data model to organize the dataset effectively. This structure enables more efficient reporting and querying by simplifying relationships, improving query performance, and ensuring that the data is easy to navigate. The model is optimized for generating insightful reports and supporting business intelligence needs.
