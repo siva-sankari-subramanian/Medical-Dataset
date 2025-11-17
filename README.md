@@ -49,7 +49,7 @@ I have categorized the datasets into 4 different categories:
 
 **2. Dimension Tables:** Patient,Doctor,Disease,Insurance,Room,Date,ChronicDisease,Allergy,AdditionalService
 
-**3. Satelite Tables:** LabTest,Vitals,SpecialTest,Treatment,Cost,TreatmentCost**
+**3. Satelite Tables:** LabTest,Vitals,SpecialTest,Treatment,Cost,TreatmentCost
 
 **4. Bridge Tables:** Patient_ChronicDisease,Patient_Allergy,Encounter_AdditionalService,Patient_AdditionalService,Encounter_Doctor
 
