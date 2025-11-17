@@ -8,6 +8,7 @@ This project is to demonstrate Data warehousing process along with analytical so
 
 This project aims to showcase the design and implementation of a data warehousing solution with an analytical layer, focusing on medical data. The goal is to align the project closely with industry practices, demonstrating knowledge of data warehousing concepts, ETL processes, and reporting solutions.
 
+
 ## About the Dataset:
 
 I have utilized a synthetic medical dataset designed for hospital data warehousing. While the data is not real-world hospital data, it simulates key aspects typically found in such environments and is suitable for showcasing data warehousing processes.
