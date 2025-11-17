@@ -37,3 +37,21 @@ The second layer is the data mart, where the data is transformed into a structur
 ***Purpose:*** The data mart enables reporting, dashboards, and other BI tools to perform analysis on the dataset.
 
 <img width="795" height="334" alt="Dataworkflow drawio" src="https://github.com/user-attachments/assets/4ecfde5d-ad82-4cb9-9f1d-c99a7ff294d5" />
+
+---
+## Star Schema:
+
+I've designed and implemented a star schema data model to organize the dataset effectively. This structure enables more efficient reporting and querying by simplifying relationships, improving query performance, and ensuring that the data is easy to navigate. The model is optimized for generating insightful reports and supporting business intelligence needs.
+
+I have categorized the datasets into 4 different categories:
+
+**1. Fact Tables:** Encounter
+
+**2. Dimension Tables:** Patient,Doctor,Disease,Insurance,Room,Date,ChronicDisease,Allergy,AdditionalService
+
+**3. Satelite Tables:** LabTest,Vitals,SpecialTest,Treatment,Cost,TreatmentCost**
+
+**4. Bridge Tables:** Patient_ChronicDisease,Patient_Allergy,Encounter_AdditionalService,Patient_AdditionalService,Encounter_Doctor
+
+
+<img width="1225" height="492" alt="STAR SCHEMA_Final" src="https://github.com/user-attachments/assets/b85fe947-7ce6-48da-8c82-423d18ef3002" />
