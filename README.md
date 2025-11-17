@@ -36,7 +36,7 @@ The second layer is the data mart, where the data is transformed into a structur
 
 ***Purpose:*** The data mart enables reporting, dashboards, and other BI tools to perform analysis on the dataset.
 
-<img width="783" height="334" alt="dataflow drawio" src="https://github.com/user-attachments/assets/5cdd5530-0df0-48b3-a025-306676c1def8" />
+<img width="783" height="334" alt="dataflow drawio" src="./assets/Dataworkflow.drawio.png" />
 
 
 
@@ -55,4 +55,4 @@ I have categorized the datasets into 4 different categories:
 **4. Bridge Tables:** Patient_ChronicDisease,Patient_Allergy,Encounter_AdditionalService,Patient_AdditionalService,Encounter_Doctor
 
 
-<img width="1225" height="492" alt="STAR SCHEMA_Final" src="https://github.com/user-attachments/assets/b85fe947-7ce6-48da-8c82-423d18ef3002" />
+<img width="1225" height="492" alt="STAR SCHEMA_Final" src="./assets/STAR SCHEMA_Final.png" />
