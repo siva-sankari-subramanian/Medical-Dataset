@@ -36,7 +36,7 @@ The second layer is the data mart, where the data is transformed into a structur
 
 ***Purpose:*** The data mart enables reporting, dashboards, and other BI tools to perform analysis on the dataset.
 
-<img width="783" height="334" alt="dataflow drawio" src="https://github.com/user-attachments/assets/5cdd5530-0df0-48b3-a025-306676c1def8" />
+![Alt text](assets/flow.jpg)
 
 
 
