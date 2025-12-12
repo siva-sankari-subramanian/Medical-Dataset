@@ -1,1 +1,1 @@
-### Hospital Management Dashboard
+# Hospital Management Dashboard
